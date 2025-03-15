@@ -40,10 +40,20 @@ And of course, popular restrictionist speakers make it clear that their calls fo
 
 But there is a different group of restrictionists; a group that deals more closely with actual policy. 
 
-# By "mass deportation", restrictionists mean only a fraction of unauthorized immigrants will be deported.
+# By "mass deportation", restrictionists mean that only a very small fraction of unauthorized immigrants will be deported.
 
 I think most people who think about the threat of mass deportation realize that it's a political impossibility, but my first inkling that this 
 was understood by restrictionists in power came from Tom Homan.
+
+> **Mark Krikorian:** "What does 'mass deportation' actually mean? And is it really going to be all that different from what happened in previous administrations?... mass
+> deportation as it's being described by the incoming Border Czar Tom Homan really isn't an outlier. It's what we've had the past four years which is an outlier."
+
+Now, that's certainly a new take! Apparently by 'mass deportation', we just mean the same rates of deportation that we've had for most of the past few decades.
+It's hard to square this with the idea of a dramatic increase in deportations, enough to forcibly remove all (or nearly all) of the unauthorized immigrants in the U.S.
+
+Mr. Krikorian's description here is a little hard to square with the record of deportations.
+
+
 
 
 
@@ -54,8 +64,4 @@ was understood by restrictionists in power came from Tom Homan.
 The difference between "deporting all unauthorized immigrants" and any of the suggested alternatives is massive: at least ten million people.
 
 ## Admitting that 10 million won't be deported, but also demanding they not be given any residency rights, 
-
-
-
-
 
