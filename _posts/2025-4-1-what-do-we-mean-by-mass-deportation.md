@@ -51,17 +51,21 @@ was understood by restrictionists in power came from Tom Homan.
 Now, that's certainly a new take! Apparently by 'mass deportation', we just mean the same rates of deportation that we've had for most of the past few decades.
 It's hard to square this with the idea of a dramatic increase in deportations, enough to forcibly remove all (or nearly all) of the unauthorized immigrants in the U.S.
 
-Mr. Krikorian's description here is a little hard to square with the record of deportations.
+Mr. Krikorian's description here is also a little hard to square with the history of deportations.
 
+![alt text](https://github.com/fiverbeyond/skills-github-pages/blob/main/_data/edited_deportations.png))
 
-
-
+Even given the different interpretations of what counts as a "deportation", it's hard to imagine in what sense pre-Covid deportation numbers constitute "mass deportation"
+in the way that restrictionists typically use that term.
 
 # So What?
 
 ## This isn't a small difference.
 
-The difference between "deporting all unauthorized immigrants" and any of the suggested alternatives is massive: at least ten million people.
+The difference between "deporting all unauthorized immigrants" and any of the suggested alternative definitions is massive: at least ten million people.
+This isn't a slight distinction; it's a dramatic and ethically fraught gap. It's the difference bet
 
-## Admitting that 10 million won't be deported, but also demanding they not be given any residency rights, 
+## Playing both sides of the coin here traps 10 million people in limbo.
+
+When res
 
