@@ -25,8 +25,14 @@ This sentiment seems pretty strongly backed up by this official statement from t
 >
 > [Press Briefing, January 29th, 2025](https://www.whitehouse.gov/briefings-statements/2025/01/press-briefing-by-press-secretary-karoline-leavitt/)
 
-
 There is a little wiggle-room in this statement, as only about half of unauthorized immigrants entered the country illegally (the other half overstayed their visas).
+
+And of course, there's the statement from Secretary of Homeland Security, Kristi Noem.
+
+> **Kristi Noem:** If you try to enter illegally, you will be caught, you will be removed, and you will never return.
+>
+> [DHS 
+
 
 > **Tyler Oneill:** "If you want to have - and I think we're talking as the... second Trump administration is ramping up - if you want to have *a massive
 > deportation of all these illegal aliens*, which I think just, you know, I think it's legal, it's going to be interesting to see how the left fights back
