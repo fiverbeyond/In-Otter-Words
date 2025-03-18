@@ -17,6 +17,17 @@ of immigration policy the way his Border Czar
 > 
 >           -- [Cite this correctly]
 
+This sentiment seems pretty strongly backed up by this official statement from the White House press secretary Karoline Leavitt:
+
+> **Ms. Leavitt:** The president has said countless times on the campaign trail — I’ve been with him at the rallies; I know you’ve been there covering them too, Peter — that he is focused on launching the largest
+> mass deportation operation in American history of illegal criminals. 
+> And if you are an individual, a foreign national, who illegally enters the United States of America, you are, by definition, a criminal.
+>
+> [Press Briefing, January 29th, 2025](https://www.whitehouse.gov/briefings-statements/2025/01/press-briefing-by-press-secretary-karoline-leavitt/)
+
+
+There is a little wiggle-room in this statement, as only about half of unauthorized immigrants entered the country illegally (the other half overstayed their visas).
+
 > **Tyler Oneill:** "If you want to have - and I think we're talking as the... second Trump administration is ramping up - if you want to have *a massive
 > deportation of all these illegal aliens*, which I think just, you know, I think it's legal, it's going to be interesting to see how the left fights back
 > as Trump tries to pull this out.
