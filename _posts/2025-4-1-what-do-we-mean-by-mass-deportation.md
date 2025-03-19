@@ -62,6 +62,15 @@ But there is a different group of restrictionists; a group that deals more close
 I think most people who think about the threat of mass deportation realize that it's a political impossibility, but my first inkling that this 
 was understood by restrictionists in power came from Tom Homan.
 
+> **Interviewer:** So after you [deport criminals], then you go after everybody who is there illegally.
+> **Tom Homan:** If you're in the country illegally, you're on the table.
+
+Oh. Just... 'on the table'? But... this is the same standard that U.S. governmental policy has followed for the past half a century:
+keep deportation as an *option* for all unauthorized immigrants, but leave most of them alone. If this is what "mass deportation" means,
+then we've always done "mass deportation". 
+
+It turns out, Mark Krikorian, Executive Directory for the Center for Immigration Studies agrees!
+
 > **Mark Krikorian:** "What does 'mass deportation' actually mean? And is it really going to be all that different from what happened in previous administrations?... mass
 > deportation as it's being described by the incoming Border Czar Tom Homan really isn't an outlier. It's what we've had the past four years which is an outlier."
 
@@ -77,6 +86,8 @@ in the way that restrictionists typically use that term.
 
 # So What?
 
+So, why make a fuss over this?
+
 ## This isn't a small difference.
 
 The difference between "deporting all unauthorized immigrants" and any of the suggested alternative definitions is massive: at least ten million people.
@@ -84,5 +95,5 @@ This isn't a slight distinction; it's a dramatic and ethically fraught gap. It's
 
 ## Playing both sides of the coin here traps 10 million people in limbo.
 
-When res
+The status quo really is God here. 
 
