@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="assets/cssstyle.css">
-
 TODO: Add links, sources, and images.
 
 # A Bouquet of Bad Metaphors #1
@@ -22,14 +20,13 @@ make a connection to illegal immigration, but don't worry, Mr. Buttazonni makes 
     <td style="width: 600px;"> <img src="https://github.com/fiverbeyond/skills-github-pages/blob/main/_data/_headshots/AldoButtazonni.png" alt="Aldo Buttazonni">
     </td>
     <td>
-      > **Aldo:** I do think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immediately you
-     > have these people that are capitalizing and taking advantage of what's going on here... People made the analogy that the bowl is our social services. 
+       **Aldo:** I do think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immediately you
+      have these people that are capitalizing and taking advantage of what's going on here... People made the analogy that the bowl is our social services. 
     </td>
   </tr>
 </table>
 
-![image alt <](https://github.com/fiverbeyond/skills-github-pages/blob/main/_data/_headshots/AldoButtazonni.png) > **Aldo:** I do think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immediately you
-> have these people that are capitalizing and taking advantage of what's going on here... People made the analogy that the bowl is our social services. 
+![image alt <](https://github.com/fiverbeyond/skills-github-pages/blob/main/_data/_headshots/AldoButtazonni.png) > **Aldo:** I do think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immediately you > have these people that are capitalizing and taking advantage of what's going on here... People made the analogy that the bowl is our social services. 
 
 Okay, so in Aldo's analogy, the citizens of the U.S. are the homeowners, putting out the bowl of candy (social services), and the thieving parents are the unauthorized immigrants, taking all the candy for
 themselves, and leaving none for the rightful recipients: the trick-or-treating children. And in this analogy, who are the trick-or-treating children who *should* be getting the candy? 
@@ -39,33 +36,51 @@ Mr. Buttazoni explains...
 > and taking advantage of the services that should be reserved for Americans.
 
 Got it. So the rough analogy looks something like this:
-`Homeowners -->  U.S. Citizens
- Bowl -->  Social Services
- Thieves --> Unauthorized Immigrants
- Trick-or-treaters --> U.S. Citizens`
+
+  | The Target  | The Source  |
+  | ----------- | ----------- |
+  | Homeowners  | U.S. Taxpayers|
+  | Bowl   | Social Services        |
+  | Thieves | Unauthorized Immigrants |
+  | Children | U.S. Citizens |
 
 A clean metaphor that paints unauthorized immigrants with the same disgust we would treat these parents who steal candy from children. 
-But... what happens if you think about this for a bit?
 
-### Why This Analogy Makes No Sense To Me
+But what happens if you think about this for a bit?
 
-Restrictionist and nativist talking points have always relied on some popular, but questionable metaphors, from "A nation is like a house" to "Our lifeboat is about to capsize". Even the eternally popular phrase "Get in line!" 
-is just another weak metaphor. 
+### Dissolving the Analogy (a How-To)
 
-#### 1. The parents in the video are leaving nothing behind for future trick-or-treaters.
+Restrictionist and nativist talking points have always relied on some popular, but questionable metaphors, from "A nation is like a house" to "Our lifeboat is about to capsize", and even "get in line!"
+
+There are two important steps I like to take when dissolving an analogy.
+#### 1. Point out the relevant distinction (or distinctions) that make the analogy a bad fit.
+#### 2. Prove the relevance of the distinctions by saying that if they were resolved, you would agree with the analogy.
+
+### Dissolving the Analogy: The Distinctions
+
+#### 1. Adults are not the intended recipients of the candy, but taxpayers are the intended recipients of social services.
+##### This includes unauthorized immigrants.
+
+Aldo Buttazonni may object to state and local governments including unauthorized immigrants
+as intended recipients, but that doesn't mean it never happens. To fit the analogy, this would be like a homeowner
+putting candy out, but explicitly allowing all children in the neighborhood to take a piece (not just the children who, say, paid
+for the candy in taxes.)
+
+#### 2. The parents in the video are taking many times more than is allowed to each child,
+##### but immigrants don't 'take' many times the amount of social services that citizens do.
+
+In fact, they use social services at lower rates than U.S. citizens.
+
+#### 3. The parents in the video are leaving nothing behind for future trick-or-treaters.
 
 ...but unauthorized immigrants aren't leaving social services 'empty' for citizens. Despite what restrictionists say,
 for the vast majority of social services, providing the service to unauthorized immigrants does not mean citizens go without.
 
-#### 2. The parents in the video are taking many times more than is allowed to each trick-or-treater
 
-...but unauthorized immigrants aren't using social services at many times more the rate of citizens. In fact, they use social services at lower rates than U.S. citizens.
 
-#### 3. The parents are not the intended target for the candy
-...but social services are meant for taxpayers (which includes unauthorized immigrants). Aldo Buttazonni may object to state and local governments including unauthorized immigrants
-as intended recipients, but that doesn't mean it never happens. To fit the analogy, this would be like a homeowner
-putting candy out, but explicitly allowing all children in the neighborhood to take a piece (not just the children who, say, paid
-for the candy in taxes.)
+
+
+### Dissolving the Analogy: The Proofs
 
 ### The Better Analogy
 
