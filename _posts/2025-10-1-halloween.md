@@ -15,7 +15,7 @@ the bowl, leaving nothing for future trick-or-treaters. Assuming there's not som
 These people might find it hard to 
 make a connection to illegal immigration, but don't worry, Mr. Buttazonni makes the connection!
 
-![alt text](https://github.com/fiverbeyond/skills-github-pages/blob/main/_data/_headshots/AldoButtazonni.png))
+![image alt <](https://github.com/fiverbeyond/skills-github-pages/blob/main/_data/_headshots/AldoButtazonni.png))
 > **Aldo:** I do think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immediately you
 > have these people that are capitalizing and taking advantage of what's going on here... People made the analogy that the bowl is our social services. 
 
