@@ -15,12 +15,16 @@ the bowl, leaving nothing for future trick-or-treaters. Assuming there's not som
 These people might find it hard to 
 make a connection to illegal immigration, but don't worry, Mr. Buttazonni makes the connection!
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/fiverbeyond/skills-github-pages/blob/main/_data/_headshots/AldoButtazonni.png" alt="Your Image Alt Text" style="margin-right: 20px;">
-  <div>
-    Your text here. This can be a paragraph or multiple paragraphs.
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="width: 200px;"> <img src="https://github.com/fiverbeyond/skills-github-pages/blob/main/_data/_headshots/AldoButtazonni.png" alt="Aldo Buttazonni">
+    </td>
+    <td>
+      > **Aldo:** I do think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immediately you
+     > have these people that are capitalizing and taking advantage of what's going on here... People made the analogy that the bowl is our social services. 
+    </td>
+  </tr>
+</table>
 
 ![image alt <](https://github.com/fiverbeyond/skills-github-pages/blob/main/_data/_headshots/AldoButtazonni.png)
 > **Aldo:** I do think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immediately you
