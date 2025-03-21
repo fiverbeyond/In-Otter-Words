@@ -1,3 +1,3 @@
 ## In Otter Words
 
-### A blog about the ethics of immigration controls.
+### Talking about the ethics of immigration controls.
