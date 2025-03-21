@@ -1,6 +1,6 @@
-In Otter Words
+## In Otter Words
 
-A blog about the ethics of immigration controls.
+### A blog about the ethics of immigration controls.
 
 <script src="https://utteranc.es/client.js"
         repo="[ENTER REPO HERE]"
