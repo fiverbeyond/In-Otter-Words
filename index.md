@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: In Otter Words
 ---
 
-There's no such thing as a fish.
+Understanding the ethics of immigration.
