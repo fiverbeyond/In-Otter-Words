@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 TODO: Add links, sources, and images.
 
 # A Bouquet of Bad Metaphors #1
@@ -17,7 +19,7 @@ make a connection to illegal immigration, but don't worry, Mr. Buttazonni makes 
 
 <table>
   <tr>
-    <td style="width: 400px;"> <img src="https://github.com/fiverbeyond/skills-github-pages/blob/main/_data/_headshots/AldoButtazonni.png" alt="Aldo Buttazonni">
+    <td style="width: 600px;"> <img src="https://github.com/fiverbeyond/skills-github-pages/blob/main/_data/_headshots/AldoButtazonni.png" alt="Aldo Buttazonni">
     </td>
     <td>
       > **Aldo:** I do think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immediately you
