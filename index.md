@@ -1,5 +1,6 @@
-##In Otter Words
-###Understanding the ethics of immigration.
+In Otter Words
+
+A blog about the ethics of immigration controls.
 
 <script src="https://utteranc.es/client.js"
         repo="[ENTER REPO HERE]"
