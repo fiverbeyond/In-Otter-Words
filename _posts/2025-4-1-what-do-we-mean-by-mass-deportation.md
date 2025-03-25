@@ -6,7 +6,7 @@ date: 2025-03-01 01:01:01 -0000
 ## Twelve million deportations? Or less than a 500,000?
 
 >**_The Short Stuff:_** Restrictionists often say they are in favor of deportations for all unauthorized immigrants. However, restrictionist
->policy-makers seem ot understand that not even a significant portion of this is possible as a goal. This is not a minor difference.
+>policy-makers seem to understand that this isn't remotely possible. This is not a minor difference.
 
 # By "mass deportation", restrictionists mean that all unauthorized immigrants will be deported.
 
