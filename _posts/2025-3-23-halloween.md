@@ -15,7 +15,7 @@ make a connection to illegal immigration, but don't worry, Mr. Buttazonni makes 
 
 <table>
   <tr>
-    <td style="width: 200px;"> <img src="https://github.com/fiverbeyond/skills-github-pages/blob/main/_data/_headshots/AldoButtazonni.png" alt="Aldo Buttazonni">
+    <td style="width: 200px;"> <img src="../_data/_headshots/AldoButtazonni.png" alt="Aldo Buttazonni">
     </td>
     <td>
        **Aldo:** I do think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immediately you
@@ -24,7 +24,7 @@ make a connection to illegal immigration, but don't worry, Mr. Buttazonni makes 
   </tr>
 </table>
 
-![image alt <](https://github.com/fiverbeyond/skills-github-pages/blob/main/_data/_headshots/AldoButtazonni.png) > **Aldo:** I do think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immediately you > have these people that are capitalizing and taking advantage of what's going on here... People made the analogy that the bowl is our social services. 
+![image alt <](../_data/_headshots/AldoButtazonni.png) > **Aldo:** I do think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immediately you > have these people that are capitalizing and taking advantage of what's going on here... People made the analogy that the bowl is our social services. 
 
 Okay, so in Aldo's analogy, the citizens of the U.S. are the homeowners, putting out the bowl of candy (social services), and the thieving parents are the unauthorized immigrants, taking all the candy for
 themselves, and leaving none for the rightful recipients: the trick-or-treating children. And in this analogy, who are the trick-or-treating children who *should* be getting the candy? 
