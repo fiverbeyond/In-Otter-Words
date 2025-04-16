@@ -12,5 +12,8 @@ special expenditures by the Office of Veterans Affairs. For the immigrants, he i
 ## HTML, No Base URL
  <img src="../_data/_headshots/AldoButtazonni.png" alt="Aldo Buttazonni">
 
-## Using 
+## HTML, using base URL 
 <img src="{{ site.baseurl}}/_data/_headshots/AldoButtazonni.png" alt="Aldo Buttazonni">
+
+## Markdown, in assets folder
+![image alt <](assets/AldoButtazonni.png) 
