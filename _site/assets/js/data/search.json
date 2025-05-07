@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Why Immigration Is Important",
+    "url": "/posts/why-immigration-is-important/",
+    "categories": "",
+    "tags": "",
+    "date": "2025-05-01 00:00:00 -0700",
+    "content": "It can directly improve the lives of millions.  (Maybe I just don’t have much to say on this issue?)"
+  },
+  {
+    "title": "Evan's example Post",
+    "url": "/posts/example/",
+    "categories": "Blogging, Tutorial",
+    "tags": "writing",
+    "date": "2025-04-24 23:10:00 -0700",
+    "content": "Main title of my post  InOtterWords      I’m aldo buttazonni and I’m being quoted now.1                             Markdown Table Method           Footnote  Here is another footnote2.  Reverse Foo..."
+  },
+  {
+    "title": "What Do We Mean By Mass Deportation",
+    "url": "/posts/what-do-we-mean-by-mass-deportation/",
+    "categories": "",
+    "tags": "",
+    "date": "2025-04-01 00:00:00 -0700",
+    "content": "layout: post title: “Is THAT what we mean by ‘Mass Deportation’?” date: 2025-03-01 01:01:01 -0000  Is THAT what we mean by “Mass Deportation”? Twelve million deportations? Or less than a 500,000?  ..."
+  },
+  {
+    "title": "Halloween",
+    "url": "/posts/halloween/",
+    "categories": "",
+    "tags": "",
+    "date": "2025-03-23 00:00:00 -0700",
+    "content": "A Bouquet of Bad Metaphors #1 Unauthorized immigrants are not like parents who steal candy from children.     The Short Stuff: Aldo Buttazonni says that unauthorized immigrants are like parents who..."
+  },
+  {
+    "title": "Test Next Day",
+    "url": "/posts/test-next-day/",
+    "categories": "",
+    "tags": "",
+    "date": "2025-03-15 00:00:00 -0700",
+    "content": "Summary: Aldo Buttazonni tells people that California spends much more on unauthorized immigrants than on veterans, but he does this by counting up different kinds of spending. For the veterans, he..."
+  },
+  {
+    "title": "Customize the Favicon",
+    "url": "/posts/customize-the-favicon/",
+    "categories": "Blogging, Tutorial",
+    "tags": "favicon",
+    "date": "2019-08-10 09:34:00 -0700",
+    "content": "The favicons of Chirpy are placed in the directory assets/img/favicons/. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons..."
+  },
+  {
+    "title": "Getting Started",
+    "url": "/posts/getting-started/",
+    "categories": "Blogging, Tutorial",
+    "tags": "getting started",
+    "date": "2019-08-09 05:55:00 -0700",
+    "content": "Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server."
+  },
+  {
+    "title": "Writing a New Post",
+    "url": "/posts/write-a-new-post/",
+    "categories": "Blogging, Tutorial",
+    "tags": "writing",
+    "date": "2019-08-07 23:10:00 -0700",
+    "content": "This tutorial will guide you how to write a post in the Chirpy template, and it’s worth reading even if you’ve used Jekyll before, as many features require specific variables to be set.  Naming and..."
+  },
+  {
+    "title": "Text and Typography",
+    "url": "/posts/text-and-typography/",
+    "categories": "Blogging, Demo",
+    "tags": "typography",
+    "date": "2019-08-07 20:33:00 -0700",
+    "content": "Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more."
+  }
+  
+]
+
