@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>InOtterWords</title>
   <subtitle>A blog the explores immigration, open borders, andother policies about free movement of people.</subtitle>
-  <updated>2025-05-06T17:19:04-07:00</updated>
+  <updated>2025-05-07T10:31:50-07:00</updated>
   <author>
     <name>InOtterWords</name>
     <uri>http://localhost:4000/</uri>
@@ -46,7 +46,7 @@
     <link href="http://localhost:4000/posts/example/" rel="alternate" type="text/html" title="Evan&amp;apos;s example Post" />
     <published>2025-04-24T23:10:00-07:00</published>
   
-    <updated>2025-04-26T12:24:13-07:00</updated>
+    <updated>2025-05-06T17:27:10-07:00</updated>
   
     <id>http://localhost:4000/posts/example/</id>
     <content type="text/html" src="http://localhost:4000/posts/example/" />
@@ -94,7 +94,7 @@
     <link href="http://localhost:4000/posts/halloween/" rel="alternate" type="text/html" title="Halloween" />
     <published>2025-03-23T00:00:00-07:00</published>
   
-    <updated>2025-04-09T12:09:30-07:00</updated>
+    <updated>2025-05-06T17:27:10-07:00</updated>
   
     <id>http://localhost:4000/posts/halloween/</id>
     <content type="text/html" src="http://localhost:4000/posts/halloween/" />
