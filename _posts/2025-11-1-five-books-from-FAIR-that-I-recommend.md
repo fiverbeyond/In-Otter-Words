@@ -25,7 +25,11 @@ And of course, most importantly...
 And so without further ado, here is my list of books, recommended by FAIR, which I also recommend.
 
 
-## 5 - The Disuniting of America
+## 5 - Why Does Immigration Divide America? (2005) by Gordon H. Hanson
+
+Of all the books on FAIR's reading list, this was my favorite; I list it in last place out of the suspicion that it should actually count as expansionist literature,
+rather than restrictionist. From the reading, I can't even tell whether the author, Gordon Hanson, is himself restrictionist, and I want to keep it that way. 
+In this blessedly short book (almost a pamphlet) the author makes an honest, empirical, and data-driven attempt to analyze the reasons behind 
 
 ## 4 - Falling Behind
 
