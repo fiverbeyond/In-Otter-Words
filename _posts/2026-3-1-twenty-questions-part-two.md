@@ -20,18 +20,18 @@ Immigration makes up less than 1% of border crossings. The rest comes from touri
 
 In my experience, restrictionists suddenly become uninterested in border screenings when it is applied to American citizens.
 
-###`12)How many more supporters of Sharia law does America need?`
+### `12)How many more supporters of Sharia law does America need?`
 
 America doesn't "need" any amount of any particular religion. Instead, in America, individuals decide for themselves what religion they'll follow.
 It's a dramatic overreach of government to try to shape the population to follow one particular religion or another. After all, a government
 with the power to say a foreigner's religion is bad, also has the power to say *your* religion is bad.
 
-###`13) Would you rather your tax dollars go to an illegal immigrant or to help millions more Americans afford health insurance?`
+### `13) Would you rather your tax dollars go to an illegal immigrant or to help millions more Americans afford health insurance?`
 
 Wow... either help one unauthorized immigrant, or 'millions' of Americans?
 You got me there; I'll lose my Utilitarian Club membership card if I don't choose the millions.
 
-###`14) Would you rather your education tax dollars go to illegals or toward building new schools?"
+### `14) Would you rather your education tax dollars go to illegals or toward building new schools?"
 
 These aren't mutually exclusive: presumably if my tax dollars go toward building new schools, some unauthorized immigrants will
 attend those schools. Likewise, if my tax dollars go to educating unauthorized immigrants, some of that money will be used to build 
@@ -42,7 +42,7 @@ or citizens, or authorized immigrants. My easy answer is that I have absolutely 
 those children go on to become high-skill workers, and build a highly-educated society). This is true regardless of the child's immigration status.
 Restrictionists who work to stop these immigrant children from being educated are pushing for a poorer America.
 
-###`15 )Even if you are fine with Dreamers staying in the United States, should they get to sponsor countless other immigrants 
+### `15 )Even if you are fine with Dreamers staying in the United States, should they get to sponsor countless other immigrants 
 – such as their parents, who snuck them in illegally?`
 
 "Countless"? Naw, I'm fine with the current legal limit, (which is in the 90s). 
@@ -51,7 +51,7 @@ in dozens of immigrants being 'chained' from a single legal immigrant. This is f
 group is less than four. [https://cis.org/Parsing-Immigration-Policy/Chain-Migration-and-Why-It-Matters](https://cis.org/Parsing-Immigration-Policy/Chain-Migration-and-Why-It-Matters)
 
 
-###`16) What’s wrong with an American immigration policy based on what’s best for America?`
+### `16) What’s wrong with an American immigration policy based on what’s best for America?`
 
 A policy based *only* on what's best for America ignores the inherent worth of other human beings. For example, 
 such a policy would justify the U.S. invading Mexico, driving out the population, and stealing their resources.
@@ -59,7 +59,7 @@ such a policy would justify the U.S. invading Mexico, driving out the population
 Most restrictionists understand that this would be wrong, but it's hard to say why this would be
 if the one and only consideration guiding policy is "Does it benefit America?"
 
-###`17) Ronald Reagan famously said “A nation that cannot control its borders is not a nation.” Where is he wrong and why?'
+### `17) Ronald Reagan famously said “A nation that cannot control its borders is not a nation.” Where is he wrong and why?'
 
 He's wrong as a simple fact of both history and the modern day. America was founded with open borders.
 It often had borders that literally no government representative had even seen, let alone set up strict operational control.
@@ -75,7 +75,7 @@ By Reagan's definition, this would mean that the U.S. hasn't been a nation since
 
 This seems pretty silly.
 
-### `18)Do you still believe in the American Dream? Do you think it was built on welfare programs and balkanized ethnic ghettos?`
+### `18) Do you still believe in the American Dream? Do you think it was built on welfare programs and balkanized ethnic ghettos?`
 
 Yes, I still believe in the American Dream.
 
@@ -86,7 +86,7 @@ and veterans.
 It was built by all of us, rich and poor, immigrant and native. And those who try to cut out *any* of these groups
 that built America are themselves deeply unamerican. 
 
-### `19)Isn’t American immigration worth doing right, both for the immigrant and America?`
+### `19) Isn’t American immigration worth doing right, both for the immigrant and America?`
 
 Absolutely! Obviously a policy that benefits only one and not the other would be a bad idea. Right?
 
