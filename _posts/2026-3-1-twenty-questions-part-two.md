@@ -8,8 +8,8 @@ These are my responses.
 
 ### `10) Why would you be on the same side of this issue as George Soros, a bitter socialist with designs on reshaping the politics of dozens of countries via shadowy front groups?`
 
-On any divisive issue, there will be people who land "on the same side" of that issue as you, but who you disagree with on other issues.
-Imagine how childish it would be of me to ask a restrictionist why they are on the same side of this issue Kim Jung Un.
+On any divisive issue, there will be villains who land "on the same side" of that issue as you.
+I wouldn't be so childish as to ask a restrictionist why they are on the same side of this issue Kim Jung Un.
 
 ### `11) Even if you want to take in “the huddled masses yearning to breathe free”, don’t you at least want to screen them for communicable diseases first?`
 
