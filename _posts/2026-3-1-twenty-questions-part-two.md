@@ -13,14 +13,14 @@ I wouldn't be so childish as to ask a restrictionist why they are on the same si
 
 ### `11) Even if you want to take in “the huddled masses yearning to breathe free”, don’t you at least want to screen them for communicable diseases first?`
 
-Depends on the disease, but usually no. I don't think it's worth anybody's time to screen people for the flu or the common cold, for example, and 
+Usually no, but it does depend on the severity of the disease. I don't think it's worth anybody's time to screen people for the flu or the common cold, for example, and 
 I don't think the Covid border screening was useful. It's important to point out that this question has almost nothing to do with immigration: if 
 a disease were so potent that it justified border screenings, then those screenings would need to be done to everyone crossing the border.
-Immigration makes up less than 1% of border crossings. The rest comes from tourism, businesses, trade, etc.
+Immigration makes up less than 1% of border crossings. The rest comes from tourism, businesses, trade, and of course, American citizens.
 
-In my experience, restrictionists suddenly become uninterested in border screenings when it is applied to American citizens.
+In my experience, restrictionists suddenly become uninterested in border screenings when they are applied to American citizens.
 
-### `12)How many more supporters of Sharia law does America need?`
+### `12) How many more supporters of Sharia law does America need?`
 
 America doesn't "need" any amount of any particular religion. Instead, in America, individuals decide for themselves what religion they'll follow.
 It's a dramatic overreach of government to try to shape the population to follow one particular religion or another. After all, a government
@@ -42,8 +42,7 @@ or citizens, or authorized immigrants. My easy answer is that I have absolutely 
 those children go on to become high-skill workers, and build a highly-educated society). This is true regardless of the child's immigration status.
 Restrictionists who work to stop these immigrant children from being educated are pushing for a poorer America.
 
-### `15 )Even if you are fine with Dreamers staying in the United States, should they get to sponsor countless other immigrants 
-– such as their parents, who snuck them in illegally?`
+### `15) Even if you are fine with Dreamers staying in the United States, should they get to sponsor countless other immigrants such as their parents, who snuck them in illegally?`
 
 "Countless"? Naw, I'm fine with the current legal limit, (which is in the 90s). 
 Restrictionists often say that family unification (or "chain migration", as they like to say) typically results
@@ -54,9 +53,8 @@ group is less than four. [https://cis.org/Parsing-Immigration-Policy/Chain-Migra
 ### `16) What’s wrong with an American immigration policy based on what’s best for America?`
 
 A policy based *only* on what's best for America ignores the inherent worth of other human beings. For example, 
-such a policy would justify the U.S. invading Mexico, driving out the population, and stealing their resources.
-
-Most restrictionists understand that this would be wrong, but it's hard to say why this would be
+such a policy would justify the U.S. invading Mexico, driving out the population, and stealing their resources. Most restrictionists understand that this would be wrong, 
+but it's hard to say why this would be
 if the one and only consideration guiding policy is "Does it benefit America?"
 
 ### `17) Ronald Reagan famously said “A nation that cannot control its borders is not a nation.” Where is he wrong and why?'
@@ -80,8 +78,8 @@ This seems pretty silly.
 Yes, I still believe in the American Dream.
 
 And yes, the American Dream was *absolutely* built on "welfare programs" and "balkanized ethnic ghettos". It was built
-by dirt poor Irishmen and wealthy industrialists. It was built by religious enclaves, penal colonies, farmer philosophers, inventors, 
-and veterans. 
+by dirt poor Irishmen and wealthy industrialists. It was built by religious enclaves, penal colonies, farmer philosophers, 
+passionate entrepreneurs, and misanthrope poets.
 
 It was built by all of us, rich and poor, immigrant and native. And those who try to cut out *any* of these groups
 that built America are themselves deeply unamerican. 
