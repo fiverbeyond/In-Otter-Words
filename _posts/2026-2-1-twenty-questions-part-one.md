@@ -6,8 +6,7 @@ authors Johnh Zmirak and Al Perrotta list twenty questions for their readers to 
 These are my responses.
 
 
-### `1) Is all the “benefit” from illegal immigrants (cheap yard work, new taco trucks, more votes for Democrats) worth the life of one American killed by an illegal immigrant whom
-we didn’t deport because of political correctness?`
+### `1) Is all the “benefit” from illegal immigrants (cheap yard work, new taco trucks, more votes for Democrats) worth the life of one American killed by an illegal immigrant whom we didn’t deport because of political correctness?`
 
 Yes, definitely, for many reasons. One is that this benefit also includes lives *saved* by unauthorized immigrants. 
 
@@ -20,9 +19,9 @@ They don't. Even if they did, it would still be inappropriate to blame the entir
 There's some evidence that left-handed people are more likely to commit sexual crimes, but only a fool would 
 use this as an argument to remove them from society.
 
-### `2)Was Alexander Hamilton wrong when he argued for a “harmony of ingredients” when considering who could immigrate?`
+### `2) Was Alexander Hamilton wrong when he argued for a “harmony of ingredients” when considering who could immigrate?`
 
-Hamilton didn't make this argument.
+Hamilton never made this argument.
 
 This Hamilton quote comes from [The Examination Number VII](https://founders.archives.gov/documents/Hamilton/01-25-02-0282), a
 response to President Jefferson's 1801 message to Congress. It doesn't mention immigration. Instead, this section
@@ -42,10 +41,10 @@ and that they "corrupt the national spirit". But Hamilton never argued for impos
 
 ### `3) Should an immigration policy be about creating diversity for diversity’s sake? Punishing America for its past “sins”? Or strengthening America for the future?`
 
-    Like all broad-scale policy affecting the lives of millions, immigration policy should not be limited to just one goal, but should be
-    a balance of many. Don't take my word for it...
+Like all broad-scale policy affecting the lives of millions, immigration policy should not be limited to just one goal, but should be
+a balance of many. Don't take my word for it...
 
-### `4) Is it hypocritical to say that a wall is wrong when your own house has them?'
+### `4) Is it hypocritical to say that a wall is wrong when your own house has them?`
 
 Of course not. The walls of my house are to protect my private property. Their main job is to shield me and my belongings from the elements. They 
 also give me visual privacy, and make for a nice place to hang my pictures.
@@ -55,42 +54,42 @@ The border wall does a horrible job of keeping out the elements, you can see rig
 
 So it feels silly to compare these two types of walls as if they fulfilled the same purposes.
 
-### ` 5) Virtually every illegal immigrant who gets an amnesty, including Dreamers, will benefit from affirmative action preferences, compared to (say) white male combat veterans or displaced coal miners. Is that fair?`
+### `5) Virtually every illegal immigrant who gets an amnesty, including Dreamers, will benefit from affirmative action preferences, compared to (say) white male combat veterans or displaced coal miners. Is that fair?`
 
 Yes, because both the white male combat veteran and the displaced coal miner have access to a much more important benefit: the rights of U.S. citizenship. 
 When I read restrictionist literature, it's always surprising to me how a group so apparently jealous of U.S. citizenship is also quick to assume that 
 citizenship isn't important and conveys no particular benefit on those have it. Time and time again, I read in restrictionist books that immigrants have
-more rights, more entitlements, and more privileges than citizens have. No one who appreciates the rights that come with citizenship would dare say such a thing.
+more rights, more entitlements, and more privileges than citizens have. No one who appreciates their citizenship would dare say such a thing.
 
 ### `6) If you don’t like our limits on legal immigration, exactly how many people do you want pouring into the country? What’s the actual number?`
 
 Oh, they don't need to "pour" into the country. They can walk, drive, or ride in airplanes!
 
- I recommend starting with three million permanent visas per year, plus another million temporary visas. Once enough time has passed to prove 
- that restrictionists' claims of imminent total destruction are baseless, I'd continue raising those caps each year, and yes, even 
- remove them entirely barring some unforeseen
+I recommend starting with three million permanent visas per year, plus another million temporary visas. Once enough time has passed to prove 
+that restrictionists' claims of imminent total destruction are baseless, I'd continue raising those caps each year, and yes, even 
+remove them entirely barring some unforeseen
 
- Restrictionists (like the "populationists" who they are closely connected to) get alot of mileage from asking for an "actual number" for a cap. 
- Populationists ask about what cap you would propose for the nation's total population, or for the number of births allowed.
- It's a great catch-22, because if the responder proposes a partic0ular number, they can be portrayed as agreeing with restriction in principle,
- but if the responder refuses to give a cap, they can be accused of laughably thinking an infinite amount of 'X' is possible.
+Restrictionists (like the "populationists" who they are closely connected to) get alot of mileage from asking for an "actual number" for a cap. 
+Populationists ask about what cap you would propose for the nation's total population, or for the number of births allowed.
+It's a great catch-22, because if the responder proposes a partic0ular number, they can be portrayed as agreeing with restriction in principle,
+but if the responder refuses to give a cap, they can be accused of laughably thinking an infinite amount of 'X' is possible.
 
- The truth behind these questions is that for most things in life, and especially for demographics or population, putting a 'cap' on a group
- causes nothing but pain. What, after all, should the cap be for the population of your state? For your town? How many rabbis are "too many", exactly?
- What limit should the U.S. have on the number of libraries permitted? Or bananas? After all... we can't sustain literally infinite
- amounts of these things, so doesn't that mean we should have a state-enforced cap?
+The truth behind these questions is that for most things in life, and especially for demographics or population, putting a 'cap' on a group
+causes nothing but pain. What, after all, should the cap be for the population of your state? For your town? How many rabbis are "too many", exactly?
+What limit should the U.S. have on the number of libraries permitted? Or bananas? After all... we can't sustain literally infinite
+amounts of these things, so doesn't that mean we should have a state-enforced cap?
 
 Of course not. The numbers of these things (but especially of people) should be left to free markets and to individual choices.
 
 ### `7) One hundred forty-seven *million* people would like to move to the United States. Is it xenophobic to say “no” to any of them? If not, then to how many? Where do you draw the line?`"
 
-  That depends on your reason for saying "no". If you say "no" to someone because of their body height, you're not being xenophobic... just 
-  prejudiced. If you say "no" to someone because of their race, that's probably racist. If you say "no" because they are too
-  poor, it would be classist.
+That depends on your reason for saying "no". If you say "no" to someone because of their body height, you're not being xenophobic... just 
+prejudiced. If you say "no" to someone because of their race, that's probably racist. If you say "no" because they are too
+poor, it would be classist.
 
-  In order to be xenophobic, you would need to say "no" to someone because you're scared of the effects of having foreigners live in your society.
-  You may think that foreigners are innately less moral than you, or that their values will infect your society (rather than your society's values being learned by them).
-  Does that sound familiar?
+In order to be xenophobic, you would need to say "no" to someone because you're scared of the effects of having foreigners live in your society.
+You may think that foreigners are innately less moral than you, or that their values will infect your society (rather than your society's values being learned by them).
+Does that sound familiar?
 
 ### '8)The average immigrant in federal prison has been arrested eight times and charged with twelve crimes. How many crimes are you willing to accept before you’re willing to kick them out of the country?"
 
