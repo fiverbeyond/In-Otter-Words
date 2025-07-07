@@ -55,10 +55,19 @@ For those who are thankfully unaware, The Camp of the Saints is widely understoo
 racist and xenophobic propaganda. I've described it as "Surprisingly similar to a zombie apocalypse story, except instead of zombies, brown people."
 It imagines a future crisis where a million foreigners from Africa commandeer a fleet of ships, intent on landing in Europe.
 In what the novel depicts as a natural consequence, the immigrants' arrival on the shores of France immediately results
-in complete apocalypse, leaving Europe literally in ruins. 
+in complete apocalypse, leaving France literally in ruins. 
+With all the diplomacy and nuance I can muster, I still feel safe saying "This book is filth". It 
+belongs in the same curio box as "The Turner Diaries" and "Birth of a Nation", to be 
 
-"But wait!", says the observant observer, "That book isn't even *on* FAIR's list of recommended readings."
-And indeed, to be fair to FAIR, it isn't. Instead, the book is recommended by the books FAIR recommends.
+I doubt that even the most ardent restrictionist would defend the book from 
+the charge of "bigotted xenophobia", and I would eagerly invite any restrictionist reader to
+prove me wrong. Make a public apology of this putrid literary cesspool, defend its depictions and core values,
+and aire your thoughts for all to hear. I would be more than pleased to platform your ideas
+by writing a response post. This invitation goes double for anybody working at FAIR.
+
+"But wait!", says the observant reader, "That book isn't even *on* FAIR's list of recommended readings."
+And indeed, to be fair to FAIR, it is not. Instead, this book is recommended by the books that FAIR recommends.
+Three of the books FAIR recommends approvingly cite "The Camp of the Saints", never with any hint of disapproval.
 
 
 
