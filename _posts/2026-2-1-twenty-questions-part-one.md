@@ -99,4 +99,9 @@ It's not the number of crimes that matters to how severe a punishment should be,
 
 ### 9) If illegals are doing the work Americans won’t do, do you favor eliminating the minimum wage and safety regulations in those fields? Because that’s what illegal immigration does, in effect.
 
+### `10) Why would you be on the same side of this issue as George Soros, a bitter socialist with designs on reshaping the politics of dozens of countries via shadowy front groups?`
+
+On any divisive issue, there will be villains who land "on the same side" of that issue as you.
+I wouldn't be so childish as to ask a restrictionist why they are on the same side of this issue as Kim Jung Un.
+
 
