@@ -46,7 +46,7 @@ It's that they were entirely insubstantiated to begin with, and yet he felt that
 FAIR should be ashamed that this book was ever proposed for their list, let alone that they ended up recommending it.
 
 
-## Honorable Mention: The Camp of the Saints
+## Dishonorable Mention: The Camp of the Saints
 
 For those who are thankfully unaware, The Camp of the Saints is widely understood to be deeply 
 racist and xenophobic propaganda. I've described it as "Surprisingly similar to a zombie apocalypse story, except instead of zombies, brown people."
