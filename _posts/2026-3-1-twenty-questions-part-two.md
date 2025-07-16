@@ -13,15 +13,17 @@ These are my responses.
 Usually no, but it does depend on the severity of the disease. I don't think it's worth anybody's time to screen people for the flu or the common cold, for example, and 
 I don't think the Covid border screening was useful. It's important to point out that this question has almost nothing to do with immigration: if 
 a disease were so potent that it justified border screenings, then those screenings would need to be done to everyone crossing the border.
-Immigration makes up less than 1% of border crossings. The rest comes from tourism, businesses, trade, and of course, American citizens.
+Immigration makes up less than 1% of border crossings[^1]. The rest comes from tourism, businesses, trade, and of course, American citizens.
 
 In my experience, restrictionists suddenly become uninterested in border screenings when they are applied to American citizens.
 
 ### `12) How many more supporters of Sharia law does America need?`
 
 America doesn't "need" any amount of any particular religion. Instead, in America, individuals decide for themselves what religion they'll follow.
-It's a dramatic overreach of government to try to shape the population to follow one particular religion or another. After all, a government
-with the power to say a foreigner's religion is bad, also has the power to say *your* religion is bad.
+
+This is an important point where I differ from Mr. Zmirak and Mr. Perotta. In their eyes, the mix of religions within the United States should be chosen by government officials, who decide on how much of each religion is "needed" (how many Catholics are "needed", how many Baptists are "needed", etc). In my eyes, Congress should make no law respecting an establishment of religion. 
+
+I would humbly suggest that my approach is more American.
 
 ### `13) Would you rather your tax dollars go to an illegal immigrant or to help millions more Americans afford health insurance?`
 
@@ -64,8 +66,8 @@ But it's worse than that. Modern day examples like the Shengen Area certainly qu
 By Reagan's definition, this would mean that Germany, France, Switzerland, and the other 20-odd Schengen Area members
 haven't been countries since "Toy Story" came out.
 
-But it's even worse than that. Since 1980, popular restrictionist organizations have said over and over again that the United States
-did not control its own borders (although admittedly, they sometimes would say that the borders were controlled during the Trump administration).
+But it's *even* worse than that. Since 1980, popular restrictionist organizations have said over and over again that the United States
+did not control its own borders (although admittedly, they sometimes say the borders have been under control since January 2025).
 By Reagan's definition, this would mean that the U.S. hasn't been a nation since before I was born.
 
 This seems pretty silly.
@@ -78,7 +80,7 @@ And yes, the American Dream was *absolutely* built on "welfare programs" and "ba
 by dirt poor Irishmen and wealthy industrialists. It was built by religious enclaves, penal colonies, farmer philosophers, 
 passionate entrepreneurs, and misanthrope poets.
 
-It was built by all of us, rich and poor, immigrant and native. And those who try to cut out *any* of these groups
+It was built by all of us, rich and poor, immigrant and native. Those who try to cut out *any* of these groups
 that built America are themselves deeply unamerican. 
 
 ### `19) Isn’t American immigration worth doing right, both for the immigrant and America?`
@@ -87,4 +89,4 @@ Absolutely! Obviously a policy that benefits only one and not the other would be
 
 ### `20) How do you form newcomers into great Americans if you keep insisting that America isn’t all that great, anyway?`
 
-I think America is pretty dang great. 
+I think America is pretty dang great.
