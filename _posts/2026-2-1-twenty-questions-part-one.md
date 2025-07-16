@@ -15,8 +15,8 @@ a very silly approach to rights. To see this, just ask the same question about M
 without splitting. Does the "benefit" of allowing these groups to exist outweigh the fact that occasionally, they will produce murderers?
 
 Implicit in this question may be the assumption that unauthorized immigrants commit violent crime at higher rates than U.S. citizens.
-They don't. Even if they did, it would still be inappropriate to blame the entire group for the crimes of the minority.
-There's some evidence that left-handed people are more likely to commit sexual crimes, but only a fool would 
+They don't.[^1] Even if they did, it would still be inappropriate to blame the entire group for the crimes of the minority.
+There's some evidence that left-handed people are more likely to commit sexual crimes[^2], but only a fool would 
 use this as an argument to remove them from society.
 
 ### `2) Was Alexander Hamilton wrong when he argued for a “harmony of ingredients” when considering who could immigrate?`
@@ -34,25 +34,31 @@ would be eligible for naturalization immediately upon arriving in the United Sta
 The present law was merely a temporary measure adopted under peculiar circumstances and perhaps demands revision. 
 There is a wide difference between closing the door altogether and throwing it entirely open; between a postponement of fourteen years and an immediate admission to all the rights of citizenship.`
 
-Restrictionists like to quote this essay because Hamilton, in arguing for a mere 5-year waiting period for naturalization, talks about the importance of
-national homogeneity in terms similar to what restrictionists use: he speaks of "the evils of incorporating large numbers of foreigners"
+Restrictionists like to quote this essay because Hamilton, in arguing for a mere 5-year waiting period for naturalization, uses terms similar to what restrictionists use: he speaks of "the evils of incorporating large numbers of foreigners"
 and that they "corrupt the national spirit". But Hamilton never argued for imposing any kind of immigration restriction... only for a modest waiting period for naturalization.
-
 
 ### `3) Should an immigration policy be about creating diversity for diversity’s sake? Punishing America for its past “sins”? Or strengthening America for the future?`
 
-Like all broad-scale policy affecting the lives of millions, immigration policy should not be limited to just one goal, but should be
-a balance of many. Don't take my word for it...
+Like all broad-scale policy affecting the lives of millions, immigration policy should not be limited to just one goal. I would certainly reject any need for a policy to "punish America", and I would just as strongly object to the implication that immigrants are a 'punishment'. 
+Diversity for diversity sake alone also doesn't strike me as a good goal, but programs that aim to gaurantee diversity (like the Diversity Visa Lottery) often pursue other more defensible goals (like fairness, or equity). "Strengthening America for the future" certainly seems like a good goal, although in my experience restrictionists tend to abandon this goal when it's put in terms of economic or diplomatic strength.
+Other appropriate goals for U.S. immmigration policy would include the following:
+ * Promoting and exemplifying American values
+ * Guarding American liberties
+ * Encouraging the well-being of American citizens
+ * Encouraging the well-being of would-be immigrants
+ * Encouraging the well-being of foreigners who are not immigrating
+ * Developing diplomatic relations with different groups.
+
+All of these are appopriate goals for American immigration policy. No one goal should dominate.
 
 ### `4) Is it hypocritical to say that a wall is wrong when your own house has them?`
 
-Of course not. The walls of my house are to protect my private property. Their main job is to shield me and my belongings from the elements. They 
-also give me visual privacy, and make for a nice place to hang my pictures.
+Of course not. The walls of my house are to protect my private property. Their main job is to shield me and my belongings from the elements. They also give me visual privacy, and make for a nice place to hang my pictures.
 
 It feels condescending to point out how a national border wall differs. The nation is not private property, collectively owned by its citizens.
 The border wall does a horrible job of keeping out the elements, you can see right through it, and it's really hard to nail pictures to it.
 
-So it feels silly to compare these two types of walls as if they fulfilled the same purposes.
+So it's silly to compare these two types of walls as if they fulfilled the same purposes.
 
 ### `5) Virtually every illegal immigrant who gets an amnesty, including Dreamers, will benefit from affirmative action preferences, compared to (say) white male combat veterans or displaced coal miners. Is that fair?`
 
@@ -63,11 +69,10 @@ more rights, more entitlements, and more privileges than citizens have. No one w
 
 ### `6) If you don’t like our limits on legal immigration, exactly how many people do you want pouring into the country? What’s the actual number?`
 
-Oh, they don't need to "pour" into the country. They can walk, drive, or ride in airplanes!
+Oh, they don't need to "pour" into the country, as if they were so much gravy. They can walk, drive, or ride in airplanes!
 
-I recommend starting with three million permanent visas per year, plus another million temporary visas. Once enough time has passed to prove 
-that restrictionists' claims of imminent total destruction are baseless, I'd continue raising those caps each year, and yes, even 
-remove them entirely barring some unforeseen
+I recommend starting with three million permanent visas per year, plus another million temporary visas (beyond what the Federal government currently allows). Once enough time has passed to prove 
+that restrictionists' claims of imminent total destruction are baseless, I'd continue raising those caps each year, until it becomes typical for most of them to not be reached within a year.
 
 Restrictionists (like the "populationists" who they are closely connected to) get alot of mileage from asking for an "actual number" for a cap. 
 Populationists ask about what cap you would propose for the nation's total population, or for the number of births allowed.
@@ -85,23 +90,30 @@ Of course not. The numbers of these things (but especially of people) should be 
 
 That depends on your reason for saying "no". If you say "no" to someone because of their body height, you're not being xenophobic... just 
 prejudiced. If you say "no" to someone because of their race, that's probably racist. If you say "no" because they are too
-poor, it would be classist.
+poor, it would be classist. 
 
 In order to be xenophobic, you would need to say "no" to someone because you're scared of the effects of having foreigners live in your society.
-You may think that foreigners are innately less moral than you, or that their values will infect your society (rather than your society's values being learned by them).
-Does that sound familiar?
+You may be afraid that foreigners are innately less moral than you, or are disease-ridden, or violent, or that the mere presence of cultures different will weaken, cripple, and destroy yours.
+
+Does any of this sound familiar?
+
+As for the question of "Where do I draw the line", I'm more than happy to draw the line at the same place that I would for U.S. citizens. It's perfectly acceptable for governments to stop a foreigner who is a wanted murderer or terrorist, for example, or who is known to be carrying a particularly dangerous disease. Of course, these would justify stopping any citizen at the border too.
 
 ### '8)The average immigrant in federal prison has been arrested eight times and charged with twelve crimes. How many crimes are you willing to accept before you’re willing to kick them out of the country?"
-
-The same 'number' of crimes that would kick a citizen out of the country.
 
 It's not the number of crimes that matters to how severe a punishment should be, but the severity. Two traffic tickets are not worse than one murder.
 
 ### 9) If illegals are doing the work Americans won’t do, do you favor eliminating the minimum wage and safety regulations in those fields? Because that’s what illegal immigration does, in effect.
+
+I am not in favor of eliminating either the minimum wage or safety regulations in these fields. In fact, if ICE were narrowly focused on seeking out dangerous workplace violations, I might not be in favor of their abolition. However, I reject the claim that it is the immigration that weakens these worker protections, rather than the fact that this immigration is made illegal.
+
+Our restrctions greatly empower the employers who exploit unauthorized workers. Without these restrictions, the workers would have the protections that let them report their employers, and appeal to the government for safety and wage regulations. For over sixty years, restrictionists have assured the public that continuing to restrict low-skill immigration would eventually make these exploitative practices diminish. They have failed dramatically, and re
 
 ### `10) Why would you be on the same side of this issue as George Soros, a bitter socialist with designs on reshaping the politics of dozens of countries via shadowy front groups?`
 
 On any divisive issue, there will be villains who land "on the same side" of that issue as you.
 I wouldn't be so childish as to ask a restrictionist why they are on the same side of this issue as Kim Jung Un.
 
+[^1] https://www.alexnowrasteh.com/p/why-do-illegal-immigrants-have-a
+[^2] https://www.sciencedirect.com/science/article/abs/pii/S0028393200001342
 
