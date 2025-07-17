@@ -1,4 +1,4 @@
-# Answering Twenty Questions: Part Two
+ # Answering Twenty Questions: Part Two
 ## My responses to a list of restrictionist questions (numbers
 
 >**_The Short Stuff:_** In their book, "The Politically Incorrect Guide to Immigration",
@@ -70,7 +70,7 @@ But it's *even* worse than that. Since 1980, popular restrictionist organization
 did not control its own borders (although admittedly, they sometimes say the borders have been under control since January 2025).
 By Reagan's definition, this would mean that the U.S. hasn't been a nation since before I was born.
 
-This seems pretty silly.
+Such a definiton of nationhood is silly and meaningless.
 
 ### `18) Do you still believe in the American Dream? Do you think it was built on welfare programs and balkanized ethnic ghettos?`
 
