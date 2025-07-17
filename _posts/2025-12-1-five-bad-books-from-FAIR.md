@@ -9,15 +9,28 @@ Now that I've taken the pains to read all of FAIR's recommended literature and e
 I can't bear to move on to a new topic without taking the opportunity to publicly shame FAIR for their taste in books.
 
 
-## 5 - In Mortal Peril
+## 5 - In Mortal Danger
 
-In Mortal Peril serves as a stand-in for a good dozen or so "bog-standard" restrictionist books. Once you've read a few of these, you see the pattern.
+In Mortal Danger serves as a stand-in for a good dozen or so "bog-standard" restrictionist books (like Ann Coulter's "Adios America" or Jon Dougherty's "Illegals"). Once you've read a few of these, you see the pattern.
 Gather up some news reports of immigrant murderers, throw in some 'terrorist watchlist' references.
-"In Mortal Peril" gets to be the representative of this boilerplate, only because its title is so funny.
+"In Mortal Danger" gets to be the representative of this boilerplate, only because its title is so funny.
 
 ## 4 - Fighting Immigration Anarchy
 
-## 3 - 
+Fighting Immigration Anarchy is very different from most restrictionist literature. Instead of building up a case for restrictions and punishments, the book reviews the lives of six prominent restrictionists,
+tracing their histories and generally agrandizing them as patriots. It's unique among FAIR's reading list as being more about building up a sense of restrictionist community, although having read through it, I can't imagine that even fellow restrictionists would be much entertained by reading good deeds of supposed role models... and for one of those role models, the book gets a frowny-face sticker from me. The role model in question is Barbara Coe, a segregationist. Barbara Coe was active for much of her life in the Council of Conservative Citizens (renamed from the segregationist White Citizens Councils). 
+This group decried miscegenation as being an afront to God, and said that black people were genetically inferior. Mrs. Coe's statements make it abundantly clear that she saw her crusades against illegal immigration as a continuation of her white separatist views.
+
+These embarassing details are mysteriously absent from "Fighting Immigration Anarchy". 
+If you want to defend Barbara Coe's views as acceptable in modern society, then report on them openly and honestly.
+If not, don't hold her up as a role model.
+
+
+## 3 - "State of Emergency" by Pat Buchanan
+
+"If one excludes the Indians, and the Spanish who arrived in Florida and New Mexico in the sixteenth century, England's Lost Colony, and Quebec, the first permanent settlements in North America were Jamestown in 1607 and Plymouth in 1620."
+
+"Language, faith, culture, and history -- and yes, birth, blood and soil -- produce a people, not an ideology."
 
 ## 2 - "Alien Nation" by Peter Brimelow
 
@@ -27,7 +40,7 @@ He makes it clear through his arguments that he sees the essence of America's na
 
 There's no way around it: this book advocates for white nationalism. It doesn't belong on any respectable list of restrictionist literature,
 no matter how well-spoken or well-educated the author was. I'm sure that Mr. Brimelow doesn't see himself as a white nationalist, but that's
-because by his own admission, *he doesn't know what the term means*. Where did he say this? In a chummy one-on-one podcast interview
+because by his own admission, *he thinks the term merely implies advocating for the white race*. Where did he say this? In a chummy one-on-one podcast interview
 with Jared Taylor, self described "white advocate" and founder of the white supremacist organization American Renaissance.
 
 But even explicit white nationalism is not the worst on offer on FAIR's recommended list.
