@@ -4,7 +4,7 @@
 problems of our day. It currently causes a tremendous amount of suffering, and it has the potential to
 dramatically improve tens of millions of lives.
 
-## It currently causes a tremendous amount of suffering.
+## Our restrictions currently cause a tremendous amount of suffering.
 
 
 Despite what restrictionists claim, deportation is not a harmless punishment. It breaks families, 
@@ -23,8 +23,7 @@ lies rightfully with the smugglers themselves, but the policy that empowers them
 in exchange for a travel visa. Our restrictions empower the drug cartels that make their money from trafficking.
 
 
-
-## It can dramatically improve the lives of millions of immigrants.
+## Our restrictions stop millions of lives from being much, much better.
 
 When low-skill immigrants move to the U.S., their lives change dramatically for the better. It's typical for their wages to go up by a factor of two or three.
 
