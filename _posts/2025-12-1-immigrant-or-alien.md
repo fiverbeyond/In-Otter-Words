@@ -7,17 +7,23 @@ and restrictionists instantly abandon their proposed standard when put to the te
 
 Political argument is often like a cluster of kindergarteners huddled around a dictionary with crayons, scrambling to cross out definitions they don't like. I trust I don't need to give any examples: anybody who has taken any position on a divisive issue (even a middle-of-the-road position) will be familiar with the 'special words' coded for one stance or another.
 
-So... "immigrant" or "alien": which term should we use to describe people who immigrate illegally?
+So... "immigrant" or "alien"? Which term should we use to describe people who immigrate illegally?
 Let's hear the arguments for the side of "alien".
 
 [Koblach]
 [Owens]
 [Project 2025]
 
+Restrictionist voices seem very consistent here. In a united voice, I think they clearly make three claims about their usage of 'alien'.
+1) 'Alien' is preferred over 'immigrant' because between the two terms, 'alien' is the one used in Federal law.
+2) When discussing policy, we should generally use the same legal terms as are used in Federal law.
+3) There's nothing perjorative about using 'alien'.
+
+Let's examine these claims one by one.
 
 # Claim #1: 'Alien' is the only correct legal term.
 
-This is simply false. The same section of the U.S. legal code also includes a definition for "immigrant", and uses the term "immigrant" several times in the code. [Citation] "Immigrant" is actually
+This is simply false. The same section of the U.S. legal code that defines "alien" also defines "immigrant", and uses the term "immigrant" several times in the code. [Citation] "Immigrant" is actually
 the more specific term; in the law code, all immigrants are aliens, but not all aliens are immigrants. This is different from how these terms are used in common parlance, where
 a naturalized citizen would still be recognized as an "immigrant" by most people.
 
