@@ -12,13 +12,13 @@ Hey there. This letter is meant to show you my understanding of restrictionism. 
 to correct me. While I know that not all restrictionists hold all these views, I hope I'm accurately describing the 'average view' of restrictionists. Thank you for reading it.
 
 ## I think you are motivated mainly out of love for your country.
-While you have no ill will toward immigrants who just want to come to the U.S. for a better life, you also think it's important to prioritize the needs of your fellow citizens first.
+While you have no ill will toward immigrants who just want to come to the U.S. for a better life[^1], you also think it's important to prioritize the needs of your fellow citizens first.[^2]
 You want your family, and your fellow citizens, to be safe from terrorism, drugs, and violent crime, and you see immigration enforcement as an effective means of protection against these evils.
 You may also feel protective of your culture (or at least, the best parts of it), and you want to make sure that the American language, American holidays, and American values stay pure, so you and your loved ones can 
 continue to enjoy them the way you have in the past. You see immigration limits as a way to protect these things.
 
 ## You think of a nation the way you think of your house;
-Just as you have the right to decide who comes into your private house, the citizens of a nation have a right to decide who comes into their country.
+Just as you have the right to decide who comes into your private house, the citizens of a nation have a right to decide who comes into their country.[^3]
 You see this as an exercise of national sovereignty. While you recognize that it might be noble or benevolent of a nation to allow immigrants in, you don't think there's any ethical obligation to do so. 
 You see allowing immigration as a charitable act, one which greatly benefits the immigrant, but can sometimes cost the natives of a country. You may even feel proud that the United States
 has already gone above and beyond in allowing so many immigrants in.
@@ -26,7 +26,7 @@ has already gone above and beyond in allowing so many immigrants in.
 ## You don't want to completely block all immigration forever. 
 You just want to make sure that there's a right balance struck between immigrants accepted and immigrants denied. At most, you may want a brief pause or moratorium 
 on immigration, to let the current population of immigrants fully assimilate into the common American culture. You may even be open to more immigration, as long as it's legal. 
-You think that illegal immigration is an insult to those immigrants who worked their way patiently through the legal process, and you think that people who came illegally, if they wanted
+You think that illegal immigration is an insult to those immigrants who worked their way patiently through the legal process [^4], and you think that people who came illegally, if they wanted
 to show respect for the laws of their desired homeland, would wait their turn in line, just like those who came legally. You think rule of law is important, and that it would be inconscionable to simply grant amnesty to immigrants who came illegally. For you, it's imporant that they
 are punished in some way for their crime.
 
@@ -48,10 +48,11 @@ I think this is what you believe. If I'm wrong, please let me know.
 
 - InOtterWords
 
+[^1] Ankarlo, Darrell. Illegals: The Unacceptable Cost of American’s Failure to Control Its Borders. Thomas Nelson, 2010, Pg. xxiii
 
+[^3] Dennis Prager fireside chat - 7:14 - A nation like a house.
 
-
-
+[^4] In Mortal Peril
 
 
 
