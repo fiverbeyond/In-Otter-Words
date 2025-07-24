@@ -1,4 +1,4 @@
-# Five Awful Books Recommended by FAIR
+ # Five Awful Books Recommended by FAIR
 ## I'd be ashamed of myself if I let these slide.
 
 >**_The Short Stuff:_** FAIR, a prominent restrictionist organization, keeps a list of reading recommendations.
@@ -9,39 +9,55 @@ Now that I've taken the pains to read all of FAIR's recommended literature and e
 I can't bear to move on to a new topic without taking the opportunity to publicly shame FAIR for their taste in books.
 
 
-## 5 - In Mortal Danger
+## 5 - In Mortal Danger by Tom Tancredo
 
 In Mortal Danger serves as a stand-in for a good dozen or so "bog-standard" restrictionist books (like Ann Coulter's "Adios America" or Jon Dougherty's "Illegals"). Once you've read a few of these, you see the pattern.
-Gather up some news reports of immigrant murderers, throw in some 'terrorist watchlist' references.
+Gather up some news reports of immigrant murderers, throw in some 'terrorist watchlist' references, plus some statistics about the number of Spanish speakers, and voila, you got your book written.
+
+"This newer, post-modern wave of immigrants isn't assimilating into our culture because, unlike their predecessors, they have adopted a kind of parasitic approach to the United States.... They simply
+want to attach themselves to their American host and feed off of it while maintaining their nactive identities and cultures."[^1]
+
 "In Mortal Danger" gets to be the representative of this boilerplate, only because its title is so funny.
 
-## 4 - Fighting Immigration Anarchy
+## 4 - "Fighting Immigration Anarchy" by Daniel Sheehy
 
 Fighting Immigration Anarchy is very different from most restrictionist literature. Instead of building up a case for restrictions and punishments, the book reviews the lives of six prominent restrictionists,
-tracing their histories and generally agrandizing them as patriots. It's unique among FAIR's reading list as being more about building up a sense of restrictionist community, although having read through it, I can't imagine that even fellow restrictionists would be much entertained by reading good deeds of supposed role models... and for one of those role models, the book gets a frowny-face sticker from me. The role model in question is Barbara Coe, a segregationist. Barbara Coe was active for much of her life in the Council of Conservative Citizens (renamed from the segregationist White Citizens Councils). 
-This group decried miscegenation as being an afront to God, and said that black people were genetically inferior. Mrs. Coe's statements make it abundantly clear that she saw her crusades against illegal immigration as a continuation of her white separatist views.
+tracing their histories and generally agrandizing them as patriots. It's unique among FAIR's reading list as being more about building up a sense of restrictionist community, although having read through it, I can't imagine that even fellow restrictionists would be much entertained by reading good deeds of supposed role models... and for one of those role models, the book gets a frowny-face sticker from me. The role model in question is Barbara Coe, who is held in obvious regard and admiration by author Daniel Sheehy:
 
+"The following chapters tell the stories of six courageous citizens who answered their country's call to battle the powerful forces behind open borders and who have made a difference in preserving a recognizable America...Their courage and honesty have brought them admiration and support from many Americans."[^2]
+
+"Today, Coe and the [California Coalition for Immigration Reform] are recognized as immigration-reform leaders in California and at the national level."[^2]
+
+Barbara Coe was active for much of her life in the Council of Conservative Citizens (renamed from the segregationist White Citizens Councils). 
+This group decries miscegenation as being an afront to God, and said that black people were genetically inferior. Mrs. Coe's statements make it abundantly clear that she saw her crusades against illegal immigration as a continuation of her white separatist views.
 These embarassing details are mysteriously absent from "Fighting Immigration Anarchy". 
 If you want to defend Barbara Coe's views as acceptable in modern society, then report on them openly and honestly.
 If not, don't hold her up as a role model.
-
 
 ## 3 - "State of Emergency" by Pat Buchanan
 
 "If one excludes the Indians, and the Spanish who arrived in Florida and New Mexico in the sixteenth century, England's Lost Colony, and Quebec, the first permanent settlements in North America were Jamestown in 1607 and Plymouth in 1620."
 
-"Language, faith, culture, and history -- and yes, birth, blood and soil -- produce a people, not an ideology."
+"Language, faith, culture, and history -- and yes, birth, blood and soil -- produce a people, not an ideology." (pg.162)
 
-## 2 - "Alien Nation" by Peter Brimelow
+## 2 - "Alien Nation" by Peter Brimelow [^4]
 
 Author Peter Brimelow comes off as a perfectly respectable, cultured, and intellectual restrictionist. An immigrant himself, he was a well-respected speaker in the 1990s, making frequent
-appearances on TV programs and high-profile debates. But in "Alien Nation", Brimelow's most detestable views are made plain. The thesis of "Alien Nation" rests almost entirely on the then-distant prediction that the United States was going to become a majority-minority nation with respect to race: white people would be in the minority. Mr. Brimelow treats this outcome as a disaster, and the end of America. 
-He makes it clear through his arguments that he sees the essence of America's nationhood as deeply, fundamentally, white. 
+appearances on TV programs and high-profile debates. But in "Alien Nation", Brimelow's most detestable views are made plain.
+
+"Suppose I had proposed more immigrants who look like me. So what? As late as 1950, somewhere up to nine out of ten Americans looked like me. That is, they were of European stock." (Brimelow, 1995, p.59)
+
+The thesis of "Alien Nation" rests almost entirely on the then-distant prediction that the United States was going to become a majority-minority nation with respect to race: white people would be in the minority. Mr. Brimelow treats this outcome as a disaster, and the end of America. He makes it clear through his arguments that he sees the essence of America's nationhood as deeply, fundamentally, white. 
+
+"In those days, they had another name for this thing dismissed so contemptuously as 'the racial hegemony of white Americans.' They called it 'America'" (Brimelow, 1995, p.59)
+
+"To get a sense of perspective, we have to go back to the beginning. And in the beginning, the American nation was white." (Brimelow, 1995, p.66)
 
 There's no way around it: this book advocates for white nationalism. It doesn't belong on any respectable list of restrictionist literature,
-no matter how well-spoken or well-educated the author was. I'm sure that Mr. Brimelow doesn't see himself as a white nationalist, but that's
-because by his own admission, *he thinks the term merely implies advocating for the white race*. Where did he say this? In a chummy one-on-one podcast interview
+no matter how well-spoken or well-educated the author was. Mr. Brimelow doesn't call himself as a white nationalist, although he does say he approves of it. Where did he say this? In a chummy one-on-one podcast interview
 with Jared Taylor, self described "white advocate" and founder of the white supremacist organization American Renaissance.
+
+[Cite the Video]
 
 But even explicit white nationalism is not the worst on offer on FAIR's recommended list.
 Your opinion may differ, but for my part, the worst of the worst goes to...
@@ -99,4 +115,10 @@ but at least the mention is in passing.
 In "State of Emergency" Pat Buchanan devotes an entire section to the book, praising it as a "smashing success", and repeating 
 grand comparisons to Swift and Camus.
 
+[^1] Tancredo, Tom. *In Mortal Danger: The Battle for America’s Border and Security.* Cumberland House Publishing, 2006, pg. 203
 
+[^2] Sheehy, Daniel. *Fighting Immigration Anarchy: American Patriots Battle to Save the Nation.* Authorhouse, 2005, pg. 55
+
+[^3] Buchanan, Pat. *State of Emergency: The Third World Invasion and Conquest of America*. Thomas Dunne Books, 2006. 
+
+[^4] Brimelow, Peter. Alien Nation. Random House, 1995 1st Edition, pg. 59
