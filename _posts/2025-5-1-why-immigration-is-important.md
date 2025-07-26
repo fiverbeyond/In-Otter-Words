@@ -25,16 +25,23 @@ in exchange for a travel visa. Our restrictions empower the drug cartels that ma
 
 ## Our restrictions stop millions of lives from being much, much better.
 
-When low-skill immigrants move to the U.S., their lives change dramatically for the better. It's typical for their wages to go up by a factor of two or three.
+It's very difficult to gauge exactly how many people would move to America if they were legally allowed, but even conservative estimates seem to suggest another two or three million could immigrate each year. For these two or three million, life would change in a dramatic fashion.
+When low-skill immigrants move to the U.S., their lives change dramatically for the better. It's typical for their wages to go up by a factor of two or three. The United States is also almost always safer for immigrants than the counries they are leaving. 
 
-Most importantly (and most damningly to those restrictionists who want to keep these people out forever), moving to the U.S. lets these people
+Moving on to even more meaningful life improvements
+
+Moving to the U.S. lets these people
 experience the rights and values that America has always stood for. I would argue that these rights are of more worth than all the other benefits combined.
+Finally (and I would argue most importantly of all), for many would-be immigrants, being allowed to come to the United States would let them live together with their families. This is a benefit 
 
 
 ##  The solutions to our problem only politically difficult, not morally or logistically difficult.
 
-Modern medicine is logistically difficult. 
-Our criminal justice system is morally difficult. It may be 
+Modern medicine is logistically difficult: it may be clear what the right thing to do is, but research is a long and painstaking process.
+
+Our criminal justice system is morally difficult. The mechanics of incarceration are not much of a mystery, but the right way to apply these things is fraught with difficult moral choices.
+
+Immigration reform is neither morally nor logistically difficult. It doesn't require a complex new apparatus (in fact, it's our current immigration system that is complex), and the morality is clear (setting aside the hideously overblown sense of nativism that restrictionists profess).
 
 
 
