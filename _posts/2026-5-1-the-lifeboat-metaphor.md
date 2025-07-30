@@ -70,48 +70,6 @@ the lifeboat metaphor is that reaching the moment of capsize results in total de
   
 _# Why the Lifeboat Analogy Fails
 
-## 1. A lifeboat has a defined carrying capacity.  A nation does not.
-
-The bouyancy forces that stop a lifeboat's rim from dipping underwater are a matter of high school physics. Given a description of the boat's mass and volume, you can 
-calculate how much weight it can carry before the rim no longer keeps the water out.
-
-Nations (and states, counties, cities, neighborhoods, etc) don't work like that, despite what "overpopulationists" may say. 
-
-People who think the United States has a clearly defined "carrying capacity" usually choose not to suggest a hard number. That should come as 
-no surprise: calculating a carrying capacity would (a) require "showing one's work" and opening one's assumptions and methods to scrutiny, and  
-(b) make one vulnerable to disproof by observation. Heck, Garrett Hardin himself spells out his reticence [Cite the page].
-
-Edward Hartman confidently gave a carrying capacity of "100 to 200 million" back in the 200s. Following the lifeboat analogy, this would mean that the United State's lifeboat
-capsized sometime in the 1960s (funny that we didn't notice). 
-
-
-## 2. A lifeboat has a capsize mechanic. A nation does not.
-
-What makes the lifeboat analogy such a good yarn is it's promise of quick, swift collapse. Overload the boat, and once the rim of the boat dips enough to allow water
-to pour in, then instantly it becomes impossible to stop the viscious cycle, and before any reaction can take place, the entire boat capsizes. There are lots of other things that
-have this 'capsize mechanic'. A bridge getting overloaded with weight. A dominoe run, collapsed with a single errant push. 
-
-Scary stuff, no?
-
-But it turns out that most things in life don't have a capsize mechanic. Your garden can't hold an infinite number of carrots,
-but that doesn't mean that there's a set point where, once one-too-many carrots are planted, your entire garden suddenly upends, kills every plant, 
-swallows your house. My milk carton has a very clear, set carrying capacity for milk, but that doesn't mean that once I've reached
-that capacity, the entire carton is immediately destroyed, along with any of the milk that had started in the carton. My hard-drive can only store
-500 GB, but if I try to copy more of that in, it doesn't delete all my files and then melt into scrap metal.
-
-For just about everything in life, if something is filled close to the "carrying capacity", there are natural balancing mechanics.
-Maybe it becomes progressively harder to fit more things into your backpack.
-
-So, do we see these feedback mechanics with respect to migration? Of course we do. If there are fewer job opportunities available in a state,
-people are less likely to move there. If housing is exorbitantly expensive in your neighborhood, people are less likely to buy them.
-Left to their own devices, people will naturally move to where there is work available and housing they can afford. People are not like
-torrents of water pouring into a lifeboat.
-
-
-# The Better Analogy: America, the Island
-
-What happens if we make the analogy fit reality a little better?
-
-The United States is the richest and most powerful nation in human history. _
+_
 
 
