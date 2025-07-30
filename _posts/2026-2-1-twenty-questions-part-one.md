@@ -59,6 +59,7 @@ Obviously it's silly to compare these two types of walls as if they fulfilled th
 
 ### `5) Virtually every illegal immigrant who gets an amnesty, including Dreamers, will benefit from affirmative action preferences, compared to (say) white male combat veterans or displaced coal miners. Is that fair?`
 
+[ToDo: Check what affirmative action is like for Hispanic immigrants].
 Yes, because both the white male combat veteran and the displaced coal miner have access to a much more important benefit: the rights of U.S. citizenship. 
 When I read restrictionist literature, it's always surprising to me how a group so apparently jealous of U.S. citizenship is also quick to assume that 
 citizenship isn't important and conveys no particular benefit on those who have it. Time and time again, I read in restrictionist books that immigrants have
@@ -87,14 +88,14 @@ Of course not. The numbers of these things (but especially of people) should be 
 
 ### `7) One hundred forty-seven *million* people would like to move to the United States. Is it xenophobic to say “no” to any of them? If not, then to how many? Where do you draw the line?`"
 
-The "one hundred forty-seven million" number is currently the highest number I've ever seen proposed.
+
+The "147 million" number does not reflect how many people would immigrate to the United States if they could. That number comes from a particular poll, surveying whether people "would like to move" to the U.S. This doesn't mean that they would move, if all barriers were removed. You can prove this to yourself by 
+[cite poll about Americans who want to move overseas, or to another state].
+I hear alot of exagerrated claims about how many people are just waiting to immigrate to America, and 147 million is the largest one yet.
 
 As for whether rejecting immigrants is "xenophobic", to me that clearly depends on your reason for the rejection. If you say "no" to someone because of their body height, you're not being xenophobic... just 
 prejudiced. If you say "no" to someone because of their race, that's probably racist. If you say "no" because they are too
-poor, it would be classist. 
-
-In order to be xenophobic, you would need to say "no" to someone because you're scared of the effects of having foreigners live in your society.
-You may be afraid that foreigners are innately less moral than you, or are disease-ridden, or violent, or that the mere presence of cultures different will weaken, cripple, and destroy yours.
+poor, it would be classist. In order to be xenophobic, you would need to say "no" to someone because you're scared of the effects of having foreigners live in your society. You may be afraid that foreigners are innately less moral than you, or are disease-ridden, or violent, or that the mere presence of cultures different will weaken, cripple, and destroy yours.
 
 Does any of this sound familiar?
 
@@ -106,14 +107,15 @@ It's not the number of crimes that matters to how severe a punishment should be,
 
 ### 9) If illegals are doing the work Americans won’t do, do you favor eliminating the minimum wage and safety regulations in those fields? Because that’s what illegal immigration does, in effect.
 
-I am not in favor of eliminating safety regulations in these fields (although I admit that I could imagine compromises on  abolishing the minimum wage for immigrants). In fact, if ICE were narrowly focused on seeking out dangerous workplace violations, I might not be in favor of their abolition. However, I reject the claim that it is the immigration that weakens these worker protections, rather than the fact that this immigration is made illegal.
+I am not in favor of eliminating safety regulations in these fields (although I admit that I would be open to compromises involving  abolishing the minimum wage for immigrants). If ICE were more focused on seeking out dangerous workplace violations, (as they have been at certain times in the past) I might not be in favor of their abolition. However, I reject the claim that it is the immigration that weakens these worker protections, rather than the fact that this immigration is made illegal.
 
-Our restrctions greatly empower the employers who exploit unauthorized workers. Without these restrictions, the workers would have the protections that let them report their employers, and appeal to the government for safety and wage regulations. For over sixty years, restrictionists have assured the public that continuing to restrict low-skill immigration would eventually make these exploitative practices diminish. They have failed dramatically, and re
+Our restrctions greatly empower the employers who exploit unauthorized workers. Without these restrictions, the workers would have the protections that let them report their employers, and appeal to the government for safety and wage regulations. For over sixty years, restrictionists have assured the public that continuing to restrict low-skill immigration would eventually make these exploitative practices diminish. They have failed dramatically. Ironically, if these workers had legal residence, and could safely petition the government for restrictions, it would reduce the 'pull factor' of cheap labor (because employers would be less likely to be able to exploit unauthorized immigrantts). 
 
 ### `10) Why would you be on the same side of this issue as George Soros, a bitter socialist with designs on reshaping the politics of dozens of countries via shadowy front groups?`
 
-On any divisive issue, there will be villains who land "on the same side" of that issue as you.
-I wouldn't be so childish as to ask a restrictionist why they are on the same side of this issue as Kim Jung Un.
+Let us say,  for the sake of argument, that George Soros is the most evil cartoon villain who ever tied a damsel to some train tracks.
+
+On any divisive issue, there will be villains who land "on the same side" of that issue as you. I wouldn't be so childish as to ask a restrictionist why they are on the same side of this issue as Kim Jung Un, Stalin, and David Duke. Mr. Zmirak and Mr. Perotta apparently lack this particular standard.
 
 [^1] https://www.alexnowrasteh.com/p/why-do-illegal-immigrants-have-a
 [^2] https://www.sciencedirect.com/science/article/abs/pii/S0028393200001342
