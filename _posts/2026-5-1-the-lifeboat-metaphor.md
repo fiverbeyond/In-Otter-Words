@@ -68,7 +68,7 @@ But the second reason is more important: even if every example of a fiscal crisi
 these examples would still be nowhere near the kind of utter devastation described by the capsize mechanic. Remeber that the whole point of
 the lifeboat metaphor is that reaching the moment of capsize results in total destruction [Quote restrictionist examples here].
   
-# Why the Lifeboat Analogy Fails
+_# Why the Lifeboat Analogy Fails
 
 ## 1. A lifeboat has a defined carrying capacity.  A nation does not.
 
@@ -112,6 +112,6 @@ torrents of water pouring into a lifeboat.
 
 What happens if we make the analogy fit reality a little better?
 
-The United States is the richest and most powerful nation in human history. 
+The United States is the richest and most powerful nation in human history. _
 
 
