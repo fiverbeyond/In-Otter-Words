@@ -21,10 +21,10 @@ Restrictionist voices seem very consistent here. In a united voice, I think they
 
 Let's examine these claims one by one.
 
-# Claim #1: 'Alien' is the only correct legal term.
+## Claim #1: 'Alien' is the only correct legal term.
 
-This is simply false. The same section of the U.S. legal code that defines "alien" also defines "immigrant", and uses the term "immigrant" several times in the code. [Citation] "Immigrant" is actually
-the more specific term; in the law code, all immigrants are aliens, but not all aliens are immigrants. This is different from how these terms are used in common parlance, where
+This is simply false. The same section of the U.S. legal code that defines "alien" also defines "immigrant", and uses the term "immigrant" several times. [Citation] "Immigrant" is actually
+the more specific term; in law, all immigrants are aliens, but not all aliens are immigrants. This is different from how these terms are used in common parlance, where
 a naturalized citizen would still be recognized as an "immigrant" by most people.
 
 [Cite the statute - "Alien"]
@@ -32,18 +32,27 @@ a naturalized citizen would still be recognized as an "immigrant" by most people
 
 # Claim 2: We should only use official legal terms when discussing public policy.
 
-This idea sounds like you're being exact, but it falls apart when you think about it for two seconds. Legalese is obviously necessary and important when writing court documents, but only pedants would 
+This sounds like an appeal to clarity and exactness, but it falls apart when you think about it for a bit. Legalese is obviously necessary and important when writing court documents, but only pedants would push for its use in all 
+policy discussions. Restrictionists certainly don't confine themselves to legal terms when talking about immigration.
 
+But let me be quick to agree with restrictionists where I can: there are certain times when restrictionists are not talking about immigrants per se, but rather foreigners in general. For example, many smugglers who operate on the border between Mexico and the United States aren't "immigrants" under the dictionary definition, because they don't intend to settle permanently in the United States. In these cases, saying "alien" is more technically correct than "immigrant", although I woul9d also point out that "foreign national" would do just as well.
 
-# Restrictionists show a clear double standard, and switch away from 'alien' when talking about any foreigner they approve of. 
+# Claim #3: There's nothing perjorative about the word "alien". 
+
+This claim is easily disproven by observing restrictionists' own behaviour. Overwhelmingly, restrictionist speakers show a clear double-standard when it comes to their use of the word "alien". They appeal to legal exactness to justify their use of the word toward unauthorized immigrants, but they instantly abandon this standard when it comes to foreigners who they personally approve of.  I have never yet, in text, video, or conversation, heard a restrictionist refer to their own immigrant ancestors as "aliens".
+
+This pattern of behaviour should be so obvious that it's not worth listing evidence of this double standard, but here are a few examples:
+
+[Koblach] 
+
+[Charlie Kirk] - What's especially fascinating about this example is that the student, since she was present on an F-type visa, *was not even an immigrant*, neither by [cite the statute], nor by the dictionary definition. It should come as no surprise that Mr. Kirk didn't use "alien" to refer to her... because "alien" is an impolite, perjorative term (and Mr. Kirk evidently understands this).
+
 
 That's not to say there aren't half-hearted attempts at consistency here and there. Restrictionist lobbying organizations (like the Center for Immigration Studies or 
 F.A.I.R.) do sometimes make a point to use the term "alien" when talking about legal residents or other foreigners, and I give them credit for standing by this standard
-to at least some degree. But even these sources show a clear bias. If you do a search for the terms "legal immigrant" or "legal alien" on their respective websites
+to at least some degree. But even these sources show a clear bias. If you do a search for the terms "legal immigrant" or "legal alien" on their respective websites, you can see an overwhelming tendency to use "alien" when talking about unauthorized immmigrants, but switch to "immigrant" when talking about any other foreigner.
 
 # Conclusion
 
-The double-standard applied by restrictionists is evidence enough: in casual speech, 'alien' is an othering, derogatory term, and restrictionists know it.
-Their claim that they use this term out of sense of legal exactness isn't just childishly pedantic, it's outright false; it conveniently ignores the definition of 
+The double-standard applied by restrictionists is evidence enough: in casual speech, 'alien' is an othering, derogatory term, and restrictionists know it. Their claim that they use this term out of sense of legal exactness isn't just childishly pedantic, it's outright false; it conveniently ignores the definition of 
 "immigrant", and they fail to follow their supposed standard when they talk about foreigners they approve of.
-
