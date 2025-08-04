@@ -38,6 +38,11 @@ It's not often that I need to begrudgingly admire the actions of a U.S. Senator,
   [cite his speech, twice if able].
 
 
-## Austin Kocher
+## Aaron Reichlin-Melnik
+
+   Finally, a different kind of hero, to balance out the first two examples. Unlike the first two examples, Mr. Reichlin-Melnik did not have a 'moment' when the public spotlight fell on him during a 'hot' controversy, nor did he have a risky, brave action that caught people's attention. Mr. Reichlin-Melnik is a Senior Fellow at the American Immigration Council,
+and I think he's a hero because of what he does in his day-to-day job.
+    Besides testifying in front of congress. His social media advocacy really is meant to educate and illucidate, rather than anger or radicalize.
+   The truth is that I put Mr. Reichlin-Melnik on this list because he is a similar age to me, but has made the right decisions in his life to be an imporant active part in the struggle for immigrant rights.
 
 
