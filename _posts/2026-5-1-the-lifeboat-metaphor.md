@@ -4,9 +4,17 @@
 >**_The Short Stuff:_** One of the most popular metaphors used in discussing immigration is that of a lifeboat on the verge of capsizing.
 Restrictionists say that letting more immigrants in risks capsizing the nation, killing everyone. This is a dumb idea.
 
-Readers of this blog will already know
+Browsing through restrictionist metaphors brings a strange delight. This blog has already addressed [the gumball analogy], and Aldo Buttazonni's [Halloween analogy], and one day, I plan to dive gleefully into what I consider the crown jewel of restrictionst metaphors: "Letting someone into your country is like letting someone into your house."
+
+Today I address one of the great classics in the field, Garret Hardin's "Lifeboat Metaphor". This was one of the first metaphors I ever heard for exploring the ethics of restrictionism. Even the popular educational channel Crash Course explored it in their series on ethics (and I heartily recommend that readers give the video a quick watch). It's made the rounds since it was first introduced in the seventies.
+
+In this post, I intend to explain the metaphor and show a few implications that, in my opinion, suggest it's a bad analogy for reality.
+In later follow-up post, I will detail the reasons behind why I reject the analogy, following my preferred three-step approach to
+[dissolving an analogy].
 
 ## The Lifeboat Analogy
+
+Let's have Mr. Garrett Hardin
 
 The lifeboat analogy goes like so. Imagine that you are on a lifeboat after a recent shipwreck. Around you in the water are swarms of other shipwreck survivors, swimming toward your lifeboat in the hopes of climbing aboard and saving their own lives. But the lifeboat can only hold so many people: if too many people attempt to climb on board, the boat will swamp and capsize, leaving everyone in the water. The conclusion that the analogy offers is that the occupants of the lifeboat are therefore justified in denying entry to swimmers.
 
