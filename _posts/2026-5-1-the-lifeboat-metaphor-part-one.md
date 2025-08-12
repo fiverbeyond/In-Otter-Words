@@ -14,10 +14,7 @@ In later follow-up post, I will detail the reasons behind why I reject the analo
 
 ## The Lifeboat Analogy
 
-Let's have Mr. Garrett Hardin describe the metaphor in his own words:
-
-
-
+Let's have Mr. Hardin describe the metaphor in his own words:
 
 The lifeboat analogy goes like so. Imagine that you are on a lifeboat after a recent shipwreck. Around you in the water are swarms of other shipwreck survivors, swimming toward your lifeboat in the hopes of climbing aboard and saving their own lives. But the lifeboat can only hold so many people: if too many people attempt to climb on board, the boat will swamp and capsize, leaving everyone in the water. The conclusion that the analogy offers is that the occupants of the lifeboat are therefore justified in denying entry to swimmers.
 
@@ -29,35 +26,49 @@ Capsize - The catastrophe of overpopulation.
 ## The Ethics the Lifeboat is Appealing To
 
 It's important to point out that, in steel-man form, I agree with the basic ethics of the lifeboat scenario. If I was in a lifeboat clearly filled to capacity, and I could be reasonably certain of impending capsize, it would be morally permissible to deny entry to swarms of swimmers. The mechanics here are truly horrifying: it could be done by rowing away and leaving the stragglers to their deaths, by shoving them off with oars, or even shooting them as they approach. It's a ghastly idea, but if the only alternative were a complete capsize (leading to the death of all the survivors already in the lifeboat) it would be morally required. As usual with utilitarianism, the pill is bitter, but for me, the morality holds up under inspection.
-u
+
+So, why do I think it's a bad analogy?
 
 ## Showing the Analogy is Flawed
 
-# The lifeboat analogy straightforwardly justifies expelling U.S. citizens from their homeland.
+### The Lifeboat Metaphor Straightforwardly Demands Outlawing Childbirth
+
+The first obviously troubling implication with the Lifeboat metaphor is actually introduced by Hardin himself:
+[Quote Hardin on childbirth].
+
+For the purposes of the metaphor, any child born to a native family in the lifeboat is just as much a threat as any immigrant, and so the inhabitants of the lifeboat have just as much a right to prevent these births from happening. Just as the lifeboat inhabitants are justified in using violence to stop immigrants, so would they likewise be justified in using violence to prevent reproduction (after all, in the metaphor, every birth risks the ruin of everyone aboard.) For most people, the idea of the Federal government imposing strict birth
+limits via violence sounds horrifically dystopian.
+
+In his essay, Hardin doesn't grapple with this implication, but it's only the top of the pile...
+
+
+### The Lifeboat Metaphor Straightforwardly Justifies Expelling Native-Born U.S. Citizens
 
 As we'll discuss later, people who propose the lifeboat analogy wisely keep far away from actually giving a carrying-capacity of the United States. The analogy mongers its fear just by the assurance that whatever the 'tipping point' is, we must be very close to it, and crossing it
 will certainly lead to utter destruction.
 
-But if you hand-wave away the need for actual reasonable estimates of that tipping point, the lifeboat analogy suddenly
+But if you hand-wave away the need for accountable estimates of that tipping point, the lifeboat analogy suddenly
 justifies *any* action that excludes people from the lifeboat. You could be sitting alone in 
-a lifeboat the size of a yacht, and still be justified in stopping anybody from joining you (after all, 
-you don't know the exact carrying capacity of the lifeboat. Therefore, says the analogy, you are 
-justified in stopping anybody from joining you). But why stop there? As long as we're agreeing to turn a blind
+a luxury yacht, and still be justified in violently stopping anybody from climbing aboard. After all, 
+you don't know the exact carrying capacity of the yacht, and therefore, says the analogy, you are 
+justified in preventing anybody from joining you. But why stop there? As long as we're agreeing to turn a blind
 eye to actually measuring any tipping point, then we must admit that it could be the case that the lifeboat is
-already overpopulated, and the only way to guarantee our safety is to begin tossing people overboard.
-There's no reason, within the lifeboat analogy, to not begin choosing citizen minorities to expel from
-the lifeboat (since the presence of any such minority threatens the deaths of everyone in the nation). 
-Thus, not only would the federal government be justified in stripping millions of their citizenship
-and deporting them, but they are *morally obligated* to do so.
+already overpopulated, and the only way to guarantee our safety is to begin tossing people overboard. Prof. Hardin himself
+openly suggests that the U.S. was already over capacity... in 1974. [Quote Hardin]
 
-And it gets worse than that. Since the lifeboat analogy eschews any strict measure of overpopulation, this violent expulsion would be justified, even for the majority of citizens. As long as *any* citizen still lived in the U.S., the government is morally obligated to expel other citizens (because every citizen in the nation threatens tip the nation into its capsize mechanic, killing everyone else).
+There's every reason, within the lifeboat analogy, to immediately select native-born citizens to expel from
+the lifeboat (since the presence of any such citizen threatens the doom of everyone in the nation). 
+Not only would the federal government be justified in stripping millions of their citizenship
+and deporting them, but they are *currently morally obligated* to do so.
 
-# History shows us that the lifeboat analogy is nonsense
+And it gets worse than that. Since the lifeboat analogy eschews any strict measure of overpopulation, this violent expulsion would be justified, even for the majority of citizens. As long as *any* citizen still lived in the U.S., the government is morally obligated to expel other citizens (because every citizen in the nation threatens to tip the nation into its capsize mechanic.).
 
-As with so many restrictionist talking points, the lifeboat analogy falls apart when applied to any other kind of migration aside from transnational migration. Take migration between U.S. states, for example. For most of U.S. history, the states have had open borders, allowing completely free movement between them. If the lifeboat analogy were a close description of reality, we should have seen many of these state capsize: not just 'an economic downturn', but a full-blown event of utter destruction, where the population of the state reached its 'tipping point', and suddenly everyone in the state becomes equally destitute.
+### History Strongly Suggests that the Lifeboat Metaphor is Nonsense
+
+As with so many restrictionist talking points, the lifeboat analogy falls apart when applied to any other kind of migration aside from the transnational migration it argues against. Take migration between U.S. states, for example. For most of U.S. history, the states have had open borders, allowing completely free movement between them. If the lifeboat analogy were a close description of reality, we should have seen many of these state capsize: not just 'an economic downturn', but a full-blown catastrophe of utter destruction, where the population of the state reached its 'tipping point', and suddenly everyone in the state becomes equally destitute.
 This doesn't happen.
 
-The same is true for migration between counties or cities. One could even defend a bold claim here: in the entire history of the U.S., from the hundreds of cities and counties that have existed, *not one* of them has ever 'capsized' in the way the lifeboat analogy suggests. Yes, some towns go bankrupt, and some indusries collapse, but not a single example here has all the traits that are vital to the lifeboat metaphor, namely:
+The same is true for migration between counties or cities. One could even defend a bold claim here: in the entire history of the U.S., from the hundreds of cities and counties that have existed, *not one* of them has ever 'capsized' in the way the lifeboat metaphor suggests. Yes, some towns go bankrupt, and some indusries collapse, but not a single example here has all the traits that are vital to the lifeboat metaphor, namely:
  * The disaster is triggered strictly by overpopulation
  * The disaster is sudden.
  * The disaster results in the complete destitution of everyone in the city (the 'lifeboat').
@@ -69,17 +80,27 @@ of states, cities, neighborhoods, etc?
 
 Even if you could come up with a meaningful explanation for this, the history of nation states itself is strong evidence against the lifeboat metaphor. 
 The nations within the Schengen Area have shared open borders with each other for decades: twenty-nine "lifeboats" that have,
-according to the metaphor, doomed themselves to be upended.
+according to the metaphor, doomed themselves to be upended. This never happened.
 
-# Countering Some Defenses
+### "But we *have* seen nations capsize! 
 
-#1. "Ah, but we *have* seen examples of cities, states, or EU members capsizing from too much citizen migration. [Cites the Greek debt crisis, Chicago's slums, or Texas's budget imbalance]."
+When challenged with this utter lack of historical precedent for a capsize mechanic, one might be tempted to counter that we *have* seen cities, counties, states, and nations 'capsize' in the way Hardin describes. One might point to Chicago's housing crisis, or the Greek debt crisis, or the eternally persistent example of the Fall of the Roman Empire. It's especially easy for populationists (and restrictionists) to claim that any given economic crisis is caused by overpopulation, since almost any famine, war, or housing shortage could be cast as "Too many people for too few resources").
 
-But the second reason is more important: even if every example of a fiscal crisis in America was due solely to citizen migration, 
-these examples would still be nowhere near the kind of utter devastation described by the capsize mechanic. Remeber that the whole point of
-the lifeboat metaphor is that reaching the moment of capsize results in total destruction [Quote restrictionist examples here].
-  
-_# Why the Lifeboat Analogy Fails
+This defense doesn't hold any water. In the first place, no reasonable understanding of economic crashes would be so simple as to attribute them to 'overpopulation' or migration.
+Chicago's problems were about industries collapsing, not too many U.S. citizens moving within its boundaries. The Greek debt crises had apparently no relation to any imagined "carrying capacity". And no, despite what some restrictionists say, Rome did not fall from having too many people.
+
+But there's a second and more important reason to reject this defense: even if every example of a fiscal crisis in America was due solely to citizen migration, 
+these examples would still be nowhere near the kind of utter devastation described by the Lifeboat metaphor's capsize mechanic. Remeber that the whole point of
+the lifeboat metaphor is that reaching the moment of capsize results in total destruction [Quote restrictionist examples here], leaving all inhabitants
+in a position of equal destitution.
+This doesn't happen.
+
+### To Be Continued
+
+I hope these implications are at least enough to make a reader question the soundness of the Lifeboat Metaphor. 
+Evenso, it's not enough to simply suspect that the metaphor is unsound: we should take the time to understand *why* it is unsound as well.
+For this ethical adventure, I invite you to join me in a Part Two of this post, where we'll poke some unstoppable breaches
+in the hull of this floundering vessel.
 
 _
 
