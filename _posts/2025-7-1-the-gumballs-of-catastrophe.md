@@ -20,6 +20,11 @@ There are two important steps I like to take when dissolving an analogy.
 
 #### 1. Including secondary effects (like remittances) vastly multiplies the positive effects of immigration.
 
+The most important flaw in Mr. Beck's analogy is that it ignores the secondary effects of immigration, most importantly 'remittances'. Remittances
+are the payments sent by foreign workers in the U.S. back to families that have remained behind in foreign countries. Around 100 million 
+people in the world rely chiefly on remittances from the U.S. as their source of income [cite this]. If the U.S. loosened it's restrictions, it seems likely that 
+
+
 #### 2. NumbersUSA ignores illegal immigration.
 
 #### 3. Why not allow... more immigration?
