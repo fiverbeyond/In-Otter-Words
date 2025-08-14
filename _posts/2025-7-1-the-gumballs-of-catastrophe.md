@@ -12,22 +12,30 @@ possibility of increased immigration.
 
 Restrictionist and nativist talking points have always relied on some popular, but questionable metaphors, from "A nation is like a house" to "Our lifeboat is about to capsize", and even "get in line!"
 
-There are two important steps I like to take when dissolving an analogy.
+As I've mentioned elsewhere, I like to follow a three-step pattern when dissolving an analogy:
+#### 1. Clarify the analogy.
 #### 1. Point out the relevant distinction (or distinctions) that make the analogy a bad fit.
-#### 2. Prove the relevance of the distinctions by saying that if they were resolved, you would agree with the analogy.
+#### 2. Prove the relevance of the distinctions by saying that if they were resolved, I would agree with the analogy.
+
+Let's apply this method to Beck's gumball analogy!
 
 ### Dissolving the Analogy: The Distinctions
 
-#### 1. Including secondary effects (like remittances) vastly multiplies the positive effects of immigration.
+#### 1. Beck's gumballs have no secondary effects of immigration, but in the real world, these effects have a tremendous positive impact.
 
 The most important flaw in Mr. Beck's analogy is that it ignores the secondary effects of immigration, most importantly 'remittances'. Remittances
 are the payments sent by foreign workers in the U.S. back to families that have remained behind in foreign countries. Around 100 million 
 people in the world rely chiefly on remittances from the U.S. as their source of income [cite this]. If the U.S. loosened it's restrictions, it seems likely that 
 
 
-#### 2. NumbersUSA ignores illegal immigration.
+#### 2. Beck's gumballs have only one possible tube to 'immigrate' to, but in actuality there are many nations where people want to immigrate.
 
-#### 3. Why not allow... more immigration?
+#### 3. Beck limits his gumball flow to only one gumball per year, but in the real world, more immigration to the U.S. (a) currently happens and (b) could happen.
+
+Even taken at face value, Beck's argument seems 
+
+#### 4.
+
 
 
 ### Dissolving the Analogy: The Proof
