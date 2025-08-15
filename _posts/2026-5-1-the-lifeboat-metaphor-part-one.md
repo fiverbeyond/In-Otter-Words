@@ -67,9 +67,10 @@ openly suggests that the U.S. was already over capacity... in 1974. [Quote Hardi
 There's every reason, within the lifeboat analogy, to immediately select native-born citizens to expel from
 the lifeboat (since the presence of any such citizen threatens the doom of everyone in the nation). 
 Not only would the federal government be justified in stripping millions of their citizenship
-and deporting them, but they are *currently morally obligated* to do so.
+and deporting them, but they are *currently morally obligated* to do so. Any hesitance in doing so would fall under what Prof. Hardin 
+describes as "Christian-Marxian idealism": a misguided over-attachment to fairness that leads directly to the Tragedy of the Commons.
 
-And it gets worse than that. Since the lifeboat analogy eschews any strict measure of overpopulation, this violent expulsion would be justified, even for the majority of citizens. As long as *any* citizen still lived in the U.S., the government is morally obligated to expel other citizens (because every citizen in the nation threatens to tip the nation into its capsize mechanic.).
+And it gets worse than that. Since the lifeboat analogy eschews any strict measure of overpopulation, this violent expulsion would be justified, even for the majority of citizens. As long as *any* citizen still lived in the U.S., the government is morally obligated to expel other citizens (because every citizen threatens to tip the nation into its capsize mechanic.).
 
 ### History Strongly Suggests that the Lifeboat Metaphor is Nonsense
 
