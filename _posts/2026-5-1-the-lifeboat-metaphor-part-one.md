@@ -41,12 +41,13 @@ To show this, let's conosider some straightforward implications of the metaphor.
 ### 1. The Lifeboat Metaphor Straightforwardly Demands Outlawing Childbirth
 
 The first obviously troubling implication with the Lifeboat metaphor is actually introduced by Hardin himself:
-[Quote Hardin on childbirth]. For the purposes of the metaphor, any child born to a native family in the lifeboat is just as much a threat as any immigrant, and so the inhabitants of the lifeboat have just as much a right to prevent these births from happening. Just as the lifeboat inhabitants are justified in using violence to stop immigrants, so would they likewise be justified in using violence to prevent reproduction (after all, in the metaphor, every birth risks the ruin of everyone aboard.) It gets even worse than that: just as it would be permissible,
+"The harsh characteristicrs of lifeboat ethics are heightened by reproduction, particularly by reproductive differences. The people inside the lifeboats of the wealthy nations are doubling in numbesr every 87 years."
+ Hardin doesn't explore the immediate implications for this idea with respect to directly applying the metaphor. For the purposes of the metaphor, any child born to a native family in the lifeboat is just as much a threat as any immigrant, and so the inhabitants of the lifeboat have just as much a right to prevent these births from happening as they do to stop immigration. Just as the lifeboat inhabitants are supposedly justified in using violence to stop immigrants, so would they be justified in using violence to prevent reproduction (after all, in the metaphor, every birth risks the ruin of everyone aboard.) It gets even worse than that: just as it would be permissible,
 according to the lifeboat metaphor, to leave desparate survivors to die, this also demands that any children that *are* born should likewise
-be left to die "in the water". In other words, the U.S. government should forcefully separate any newborns, strip them of citizenship, and deport them, lest the entire nation risk destruction. 
+be left to die "in the water". In other words, if the metaphor holds, the U.S. government should forcefully separate any newborns, strip them of citizenship, and deport them, lest the entire nation risk destruction. 
 
 I hope that, for most people, the idea of the Federal government imposing strict birth
-limits via violence sounds horrifically dystopian. In his essay, Hardin doesn't grapple with this implication, but it's only the top of the pile...
+limits via violence sounds horrifically dystopian. This might suggest that our nation is not, in fact, like a nearly-swamped lifeboat, but this example is only the top of the pile...
 
 
 ### 2. The Lifeboat Metaphor Straightforwardly Justifies Expelling Native-Born U.S. Citizens
