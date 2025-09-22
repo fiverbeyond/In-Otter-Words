@@ -23,7 +23,8 @@ make a connection to illegal immigration, but don't worry, Mr. Buttazonni makes 
   </tr>
 </table>
 
-
+"I do think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immediately you
+      have these people that are capitalizing and taking advantage of what's going on here... People made the analogy that the bowl is our social services."[^good_analogy] 
 
 ### Dissolving the Analogy (a How-To)
 
@@ -120,3 +121,5 @@ doesn't deprive citizens).
 
 When you adjust the analogy to fit reality, the moral objection goes away. That situtaion is what Aldo Buttazonni is objecting to.
 Here's hoping that, with a little reconsideration, he might find his objections are addressed.
+
+[^good_analogy]:Buttazzoni, Aldo, director. This Parent Is NOT a Role Model. Youtube, 3 Nov. 2023,  Aldo Buttazzoni. (add timestamps)
