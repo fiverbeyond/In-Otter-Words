@@ -60,13 +60,13 @@ if the one and only consideration guiding policy is "Does it benefit America?"
 He's wrong as a simple fact of both history and the modern day. America was founded with open borders.
 It often had borders that literally no government representative had even seen, let alone set up strict operational control over. By Reagan's definition here, America wasn't a nation until well after the Civil War.
 
-But it's worse than that. Modern day examples like the Shengen Area certainly qualify as "open borders" to restrictionists.
+But it's worse than that. Modern day examples like the [Schengen Area](https://en.wikipedia.org/wiki/Schengen_Area) certainly qualify as "open borders" to restrictionists.
 By Reagan's definition, this would mean that Germany, France, Switzerland, and the other 20-odd Schengen Area members
 haven't been countries since "Toy Story" came out.
 
 But it's *even* worse than that. Since 1980, popular restrictionist organizations have said over and over again that the United States
-did not control its own borders (although admittedly, they sometimes say the borders have been under control since January 2025).
-By Reagan's definition, this would mean that the U.S. hasn't been a nation since before I was born.
+already[^prager] had[^dougherty] open[^buchanan] borders (although admittedly, they sometimes say the borders have been under control since January 2025).
+Under Reagan's definition, this would mean that the U.S. hasn't been a nation since before I was born.
 
 Such a definiton of nationhood is silly and meaningless, and it has nothing to do with the definitions of nationhood used by people who talk seriously about what a nation is.
 
@@ -88,3 +88,16 @@ Absolutely! Obviously a policy that benefits only one and not the other would be
 ### `20) How do you form newcomers into great Americans if you keep insisting that America isn’t all that great, anyway?`
 
 I think America is pretty dang great.
+
+
+[^prager]:"Under democratic influence since Ted Kennedy… the border has been essentially open to millions of people to come into this country illegally.”
+https://youtu.be/l7iz9PGI5jY?si=3asnaEm260cBDYKz&t=300
+
+[^dougherty]: "In the end, the borders remain wide open."
+Doughtery, Jon E. Illegals: The Imminent Threat Posed by our Unsecured U.S.-Mexico Border. 
+Thomas Nelson Inc, 2004, pg. vi
+
+[^buchanan]: "Republican elitces have, for decades now, supported an open-borders immigration policy certain to swamp and drown the coalition that their best political minds assembled to 
+lead them to national power."
+Buchanan, Pat. State of Emergency. Thomas Dunne Books, 2006, pg. 55
+
