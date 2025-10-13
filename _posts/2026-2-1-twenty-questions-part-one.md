@@ -59,7 +59,6 @@ Obviously it's silly to compare these two types of walls as if they fulfilled th
 
 ### `5) Virtually every illegal immigrant who gets an amnesty, including Dreamers, will benefit from affirmative action preferences, compared to (say) white male combat veterans or displaced coal miners. Is that fair?`
 
-[ToDo: Check what affirmative action is like for Hispanic immigrants].
 Yes, because both the white male combat veteran and the displaced coal miner have access to a much more important benefit: the rights of U.S. citizenship. 
 When I read restrictionist literature, it's always surprising to me how a group so apparently jealous of U.S. citizenship is also quick to assume that 
 citizenship isn't important and conveys no particular benefit on those who have it. Time and time again, I read in restrictionist books that immigrants have
@@ -69,12 +68,12 @@ more rights, more entitlements, and more privileges than citizens have. No one w
 
 Oh, they don't need to "pour" into the country, as if they were so much gravy. They can walk, drive, or ride in airplanes!
 
-I recommend starting with three million permanent visas per year, plus another million temporary visas (beyond what the Federal government currently allows). These one million visas would come mainly in the H visa categories.
+But in all seriousness, I recommend starting with three million permanent visas per year, plus another million temporary visas (beyond what the Federal government currently allows). These one million visas would come mainly in the H visa categories.
 
 Once enough time has passed to prove 
 that restrictionists' claims of imminent total destruction are baseless, I'd continue raising those caps each year, until it becomes typical for most of them to not be reached within a year.
 
-Restrictionists (like the "populationists" who they are closely connected to) get alot of mileage from asking for an "actual number" for a cap. [Cite a populationist example].
+Restrictionists (like the "populationists" who they are closely connected to) get alot of mileage from asking for an "actual number" for a cap[^hartman]. 
 Populationists ask about what cap you would propose for the nation's total population, or for the number of births allowed.
 It's a great catch-22, because if the responder proposes a partic0ular number, they can be portrayed as agreeing with restriction in principle,
 but if the responder refuses to give a cap, they can be accused of laughably thinking an infinite amount of 'X' is possible.
@@ -88,9 +87,8 @@ Of course not. The numbers of these things (but especially of people) should be 
 
 ### `7) One hundred forty-seven *million* people would like to move to the United States. Is it xenophobic to say “no” to any of them? If not, then to how many? Where do you draw the line?`"
 
-
-The "147 million" number does not reflect how many people would immigrate to the United States if they could. That number comes from a particular poll, surveying whether people "would like to move" to the U.S. This doesn't mean that they would move, if all barriers were removed. You can prove this to yourself by 
-[cite poll about Americans who want to move overseas, or to another state].
+Zmirak and Perrotta do not cite a source for this number, but it's close to an earlier citation they made of a [2009 Gallup Poll](https://news.gallup.com/poll/124028/700-million-worldwide-desire-migrate-permanently.aspx).
+The "147 million" number does not reflect how many people would immigrate to the United States if they could. That number comes from a particular poll, surveying whether people "would like to move" to the U.S. This doesn't mean that they would move, if all barriers were removed. You can prove this to yourself by considering polls saying that [fifty-six million Americans want to move out of the U.S.](https://travelnoire.com/top-countries-americans-want-to-move-to).
 I hear alot of exagerrated claims about how many people are just waiting to immigrate to America, and 147 million is the largest one yet.
 
 As for whether rejecting immigrants is "xenophobic", to me that clearly depends on your reason for the rejection. If you say "no" to someone because of their body height, you're not being xenophobic... just 
@@ -119,4 +117,7 @@ On any divisive issue, there will be villains who land "on the same side" of tha
 
 [^1] https://www.alexnowrasteh.com/p/why-do-illegal-immigrants-have-a
 [^2] https://www.sciencedirect.com/science/article/abs/pii/S0028393200001342
-
+[^hartman] Edward Hartman provides a typical example of populationists asking skeptics to come up with the single national population cap. "What is your answer? I don't believe I can emphasize this too much: it is
+critically important that you come up with your own number... If you have no number you have determined to be environmental and cultural carrying capacity for America, then you cannot logically criticize any number,
+including undefined, unspoken, and unknown numbers." Hartman, Edward C. The Population Fix: Breaking America’s Addiction to Population Growth. Think Population Press. 4 July, 2006, pg. 188
+I'd invite readers to test this statement themselves for fallacy.
