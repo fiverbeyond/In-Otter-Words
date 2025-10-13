@@ -8,8 +8,7 @@ These are my responses.
 
 ### `1) Is all the “benefit” from illegal immigrants (cheap yard work, new taco trucks, more votes for Democrats) worth the life of one American killed by an illegal immigrant whom we didn’t deport because of political correctness?`
 
-Yes, definitely, for many reasons. One is that this benefit also includes lives *saved* by unauthorized immigrants (like by those 200k undocumented workers in the healthcare industry
-(https://cdn.americanprogress.org/content/uploads/2021/01/01114801/EW-Health-factsheet.pdf).
+Yes, definitely, for many reasons. One is that this benefit also includes lives *saved* by unauthorized immigrants (like by those [200k undocumented workers in the healthcare industry](https://cdn.americanprogress.org/content/uploads/2021/01/01114801/EW-Health-factsheet.pdf)).
 
 Asking whether the number of murderers within a group outweighs the "benefit" of a group is a morally bankrupt approach to 
 how we treat people. To see this, just ask the same question about Mets fans, brunettes, or people who eat their oreos
