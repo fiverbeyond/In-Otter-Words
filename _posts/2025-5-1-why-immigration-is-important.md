@@ -20,13 +20,13 @@ a powerful positive impact on the world.
 
 
 Illegal immigration is the sort of crime that invites an infinite array of punishments meant to make life harder for people.
-From drivers' licenses to airplane travel, these laws strip basic social abilities from workers that we don't even demand from 
+From drivers' licenses to airplane travel, from work restrictions to taxes, these laws strip basic social abilities from workers that we don't even demand from 
 ex-convicts. 
 
 Modern restrictionism basically views deportation as the only possible 'redeeming punishment' for illegal immigration and despite what restrictionists claim, deportation is not a harmless punishment. It breaks families, 
 To use a fancy term, it "deracinates", stripping the individual of their home, their community, their friends,
 and yes, even their culture (many unauthorized immigrants are much more attached to the culture of America than to 
-whatever country they are deported to.) Deportations commonly ruin lives, and the victims of deportation frequently
+whatever country they are deported to.)[^deported-americans] Deportations commonly ruin lives, and the victims of deportation frequently
 compare it to having a limb caught off, or being imprisoned for long periods of time. Thanks to our restrictions, the government carries out hundreds of thousands of them each year.
 
 
@@ -48,19 +48,21 @@ Moving to the U.S. lets these people
 experience the rights and values that America has always stood for. I would argue that these rights are of more worth than all the other benefits combined.
 Finally (and I would argue most importantly of all), for many would-be immigrants, being allowed to come to the United States would let them live together with their families. This is a benefit 
 
-But it's possible that the greatest benefit of immigration wouldn't even be to teh immigrants, but instead to their families who they support through remittances. Over 100 million people in the world rely chiefly on remittances from the U.S. for their income [cite this]. If more people were allowed to immigrate, they would undoubtedly send millions more to the neediest people in the world. It's important to note that this is not a fiscal expense on the part of the U.S. taxpayer, but rather a transfer of earned income. In other words, this isn't a request for United States citizens to part with their own money out of charity, but rather just to allow for others to *earn* wages, through their own hard labor, that can improve tens of millions the world over.
+But it's possible that the greatest benefit of immigration wouldn't even be to teh immigrants, but instead to their families who they support through remittances. Over 100 million people in the world rely chiefly on remittances from the U.S. for their income [cite this].  If more people were allowed to immigrate, they would undoubtedly send millions more to their families. It's important to note that this is not a fiscal expense on the part of the U.S. taxpayer, but rather a transfer of earned income. In other words, this isn't a request for United States citizens to part with their own money out of charity, but rather just to allow for others to *earn* wages, through their own hard labor, that can improve tens of millions the world over.
 
 
 ##  The solutions to our problem only politically difficult, not morally or logistically difficult.
 
 Modern medicine is logistically difficult: it may be clear that it's good to heal the sick, but research is a long and painstaking process, and medical procedures can be extremely expensive.
 
-Our criminal justice system is morally difficult. The mechanics of incarceration are not much of a mystery, but the right way to apply these things is fraught with difficult moral choices.
+Our criminal justice system is morally difficult. The brute mechanics of fines and incarceration are not much of a mystery, but the right way to apply these things is fraught with difficult moral choices.
 
-Immigration reform is neither morally nor logistically difficult. It doesn't require a complex new apparatus (in fact, it's our current immigration system that is overly complex), and the morality is clear (setting aside the hideously overblown sense of nativism that restrictionists profess). Of all U.S. policies, immigration reform has the clear ability to dramatically improve the wellbeing of millions upon millions of people. The only political outcome that can rival this kind of positive impact would be the use of U.S. military to avoid a serious global or regional conflict. Not even all U.S. foreign aid, combined with all private charity from U.S. citizens, can rival the size of impact that immigration reform can have. A citizen who, early in their life, decided to never give one penny to any charitable cause, but at the same time allowed a few more immigrant families to move to the U.S., would have a much bigger positive impact on the world.
+Immigration reform is neither morally nor logistically difficult. It doesn't require a complex new apparatus (in fact, it's our current immigration system that is [overly complex](https://immigrationroad.com/green-card/immigration-flowchart-roadmap-to-green-card.php), and the morality is clear (setting aside the hideously overblown sense of nativism that restrictionists profess). Of all U.S. policies, immigration reform has the direct ability to dramatically improve the wellbeing of millions of people. The only political outcome that can rival this kind of positive impact would be the use of U.S. power avoid a serious military conflict. Not even all U.S. foreign aid, combined with all private charity from U.S. citizens, can rival the size of impact that immigration reform can have on the world's poor [^comparing-impact]. A citizen who, early in their life, decided to never give one penny to any charitable cause, but at the same time allowed a few more immigrant families to move to the U.S., would have a much bigger positive impact on the world.
 
 With so much at stake, it is a tragedy that our immigration discourse is so lost in the weeds, and so far removed from actual moral discussion. And with a bit of effort, over time, we can change that.
 
 
 
+[^deported-americans]: See Beth C.Caldwell's book "Deported Americans" for an interesting deep dive into the way in which many deported immigrants have more in common culturally than they do the countries they are deported too.
 
+[^comparing-impact]:  Private U.S.  citizens give about [$50 billion internationally](https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/09eba67a-185b-4f3c-ab40-3869ee430079/content) to international charities, but immigrants working in the U.S. send about [$70 billion](https://worldmigrationreport.iom.int/what-we-do/world-migration-report-2024-chapter-2/international-remittances) home to their families. On top of that, when low-skill immigrants move to the U.S., their income increases dramatically[cite this].
