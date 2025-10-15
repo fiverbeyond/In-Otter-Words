@@ -44,7 +44,7 @@ Suspicious minds might notice that, put in this light, almost all actions of the
 But of course, this isn't the case. The U.S. is not the only country capable of taking in immigrants: the combined countries of the E.U. take in an enourmous number of immigrants between themselves (i.e., within the Schengen Area), and rival the U.S. for number of immigrants taken into the E.U. from external countries. The B.R.I.C.S. countries either already do take in immigrants, or could theoretically allow much more immigration than they currently do. Add all these up, and the number of immigrants able to escape impoverished countries swells from one tiny gumball to dozens of them. "Immigration to the United States" may not be able to solve all the worlds problems, but "Many nations having open borders" might be the greatest anti-poverty movement the world has ever known. [Quote about the dramatic impact of increasing immigration.]
 
 
-#### 3. Beck limits his gumball flow to only one gumball per year, but in the real world, more immigration to the U.S. (a) currently happens and (b) could happen.
+#### 3. Beck limits his gumball flow to only one gumball per year, but in the real world, more immigration to the U.S. (a) currently happens and (b) would happen, if we permitted it.
 
 
 
@@ -52,12 +52,22 @@ Beck makes a great show of using a single gumball to represent "the one million 
 
 But this is not the only immigration into the U.S.: if we include illegal immigration, this should be closer to two "gumballs" (i.e., two million immigrants whose lives are dramatically improved). A moderate loosening of immigration restrictions could raise this number to four or five gumballs per year. Still far less than than the compared fifty gumballs 'born' into the world... but a tremendous improvement in human well-being nonetheless. Simply allowing these five million per year to immigrate to the U.S. would improve the impact of U.S. immigration policy far beyond where it currently sits in stagnation.
 
-At it's face value, Beck's analogy seems to straightforwardly agree with the expansionist position: U.S. immigration is currently severely restricted, and the world would be a much better place if it were expanded.
+At it's face value, Beck's analogy seems to straightforwardly agree with the expansionist position: U.S. immigration is currently severely restricted, and the world would be a better place if it were expanded.
 
-#### 4. 
+#### 4. Beck's analogy ignores the fact that a large humanitarian difference is still large, even if a massive humanitarian problem is larger still.
 
 "That's three thousand gumballs. And every year, we take a million *shows one gumball* and we suggest that we've somehow made a humanitarian difference?"
 
+Yes, Mr. Beck, one million people is still a large humanitarian difference.
+
+You can see 
+
+
+
+#### 5. Smaller Fallacies
+
+ * Beck depicts hundreds of gumballs being added to his "impoverished" category each year, but in reality this category is not fixed. Millions of people in the world are raising themselves out of poverty each year, thanks in no small part to the billions of dollars of remittances produced by immigration.
+   
 
 ### Dissolving the Analogy: The Proof
 
