@@ -42,11 +42,9 @@ But let me be quick to agree with restrictionists where I can: there are certain
 
 # Claim #3: There's nothing perjorative about the word "alien". 
 
-This claim is easily disproven by observing restrictionists' own behaviour. Overwhelmingly, restrictionist speakers show a clear double-standard when it comes to their use of the word "alien". They appeal to legal exactness to justify their use of the word toward unauthorized immigrants, but they instantly abandon this standard when it comes to foreigners who they personally approve of.  I have never yet, in text, video, or conversation, heard a restrictionist refer to their own immigrant ancestors as "aliens".
+This claim is easily disproven by observing restrictionists' own behaviour. Overwhelmingly, restrictionist speakers show a clear double-standard when it comes to their use of the word "alien". They appeal to legal exactness to justify their use of the word toward unauthorized immigrants, but they instantly abandon this standard when it comes to foreigners who they personally approve of. News sources with a restrictionist bent will use "immigrant" when talking to guests who entered the country legally, for example [^fox-uses-immigrant]. I have never yet, in text, video, or conversation, heard a restrictionist refer to their own immigrant ancestors as "aliens".
 
-This pattern of behaviour should be so obvious that it's not worth listing evidence of this double standard, but here are a few examples:
-
-[Koblach] 
+Once you keep an ear open for it, it's impossible to miss the double-standard. Kris Kobach, who earlier was so keen on legally corrct terms, would instantly switch from "alien" to "foreign nationals", depending on whether the immigrant came legally [^kobach-switches]. Charlie Kirk switched to "immigrant" when he addressed an audience member with a valid visa [^kirk-uses-immigrant].
 
 [Charlie Kirk] - What's especially fascinating about this example is that the student, since she was present on an F-type visa, *was not even an immigrant*, neither by [cite the statute], nor by the dictionary definition. It should come as no surprise that Mr. Kirk didn't use "alien" to refer to her... because "alien" is an impolite, perjorative term (and Mr. Kirk evidently understands this).
 
@@ -66,3 +64,10 @@ The double-standard applied by restrictionists is evidence enough: in casual spe
 [^malkin]: Malkin, Michelle. “A Nation of Immigrants | 5 Minute Video.” YouTube, PragerU, 20 Aug. 2018, www.youtube.com/watch?v=oYvKcAh1zdo&t=192s. 
 
 [^sullivan]: Kathy Sullivan, "Project 2025 Private Training Video: Left-Wing Code Words and Language", 10 Aug. 2024, https://www.youtube.com/watch?v=ob2nmb97OkY&t=1071s. 
+
+[^fox-uses-immigrant]: https://www.youtube.com/watch?v=3w5TmNw2KE8 0:30, Fox news hosts introduce Nick Adams as a "legal immigrant", rather than a "legal alien".
+
+[^kobach-switches]: https://www.youtube.com/watch?v=hfhNGaVh7UY, Mr. Koblach uses "Alien" at 3:00, 3:25, 3:45, 4:00, 4:05, 
+
+[^kirk-uses-immigrant]: https://www.youtube.com/watch?v=3dXLNsl-Xak, 2:38
+
