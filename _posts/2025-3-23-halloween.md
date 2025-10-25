@@ -7,7 +7,7 @@
 Happy Halloween season, my fellow dark spirits! It's that blustery time of year when we suddenly become interested in gourds and make other preparations for that most bizarre and cathartic of our holidays.
 And what could be more cathartic than examining a Halloween-themed take on illegal immigration? 
 
-Today, we examine a video post by Aldo Buttazonni, who frequently advocates for restrictionism. Aldo's video focuses on some porch-camera footage, from someone who left a bowl of treats with a sign on their front porch for trick-or-treater children. In the video, we see a group of parents greedily taking all of the candy from
+Today, we examine [a classic video post by Aldo Buttazonni](https://www.youtube.com/watch?v=5JLs801zAEI), who frequently advocates for restrictionism. Aldo's video focuses on some porch-camera footage, from someone who left a bowl of treats with a sign on their front porch for trick-or-treater children. In the video, we see a group of parents greedily taking all of the candy from
 the bowl, leaving nothing for future trick-or-treaters. Assuming there's not some kind of misunderstanding going on, I'm sure most people would be disgusted by these actions. 
 You might find it hard to 
 make a connection to illegal immigration, but don't worry, Mr. Buttazonni makes the connection!
@@ -24,11 +24,13 @@ make a connection to illegal immigration, but don't worry, Mr. Buttazonni makes 
 </table>
 
 "I do think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immediately you
-      have these people that are capitalizing and taking advantage of what's going on here... People made the analogy that the bowl is our social services."[^good_analogy] 
+      have these people that are capitalizing and taking advantage of what's going on here... People made the analogy that the bowl is our social services."(1:55)
+
+"This is a perfect representation of what's going on in America every single day." (0:00)
 
 ### Dissolving the Analogy (a How-To)
 
-Restrictionist and nativist talking points have always relied on some popular, but questionable metaphors, from "A nation is like a house" to "Our lifeboat is about to capsize", and even "get in line!" When responding to these metaphors, I like to follow my personal strategy for dissolving an analogy [cite my smaller blog post here].
+Restrictionist and nativist talking points have always relied on some popular, but questionable metaphors, from "A nation is like a house" to "Our lifeboat is about to capsize", and even "Get in line!" When responding to these metaphors, I like to follow my personal strategy for dissolving an analogy [cite my smaller blog post here].
 
 #### 1. Clarify the analogy.
 #### 2. Point out the relevant distinction (or distinctions) that make the analogy a bad fit.
@@ -40,7 +42,7 @@ So, let's apply thes steps to Aldo's comparison.
 
 Let's recall what Aldo says about his metaphor.
 
-![image alt](/assets/img/headshots/AldoButtazonni.png){: .right } > **Aldo Markdown:** I  think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immedi  ately you > have these people that are capitalizing and taking advantage of what's going on here... People made the analogy that the bowl is our social services. 
+![image alt](/assets/img/headshots/AldoButtazonni.png){: .right } > **Aldo Markdown:** I  think it's a very good metaphor for what's happening at our southern border. You have this group of people that put out this bowl of candy... a high-trust society... and immedi ately you have these people that are capitalizing and taking advantage of what's going on here... People made the analogy that the bowl is our social services."  (1:55)
 
 Okay, so in Aldo's analogy, the citizens of the U.S. are the homeowners, putting out the bowl of candy (social services), and the thieving parents are the unauthorized immigrants, taking all the candy for
 themselves and leaving none for the rightful recipients: the trick-or-treating children. And in this analogy, who are the trick-or-treating children who *should* be getting the candy? 
@@ -113,7 +115,11 @@ But of course... we don't live in this scenario.
 
 ### The Better Analogy
 
-So let's make this analogy fit a little better. Let's imagine a video where instead of adults taking candy, it is children (putting them on the same level of moral
+At least there's one point in Mr. Buttazzoni's video that I agree with:
+
+"Although maybe it's a stretch to make this analogy, I do think it's always interesting and always important to see the parallels in our society."(2:20)
+
+Dang straight, Mr. Buttazzoni! With that end in mind, let's make this analogy fit a little better. Let's imagine a video where instead of adults taking candy, it is children (putting them on the same level of moral
 development as the intended recipients). Add to this scenario the stipulation that out-of-town children are explicitly allowed to take candy, by the homeowners (just like
 some states explicitly allow unauthorized immigrants access to social services). Now let's also say that these out-of-town children take a little less candy from the bowl than others (just like unauthorized immigrants use less in social services than citizens do).
 They don't prevent any other trick-or-treaters from getting their candy (just like offering services to these immigrants
