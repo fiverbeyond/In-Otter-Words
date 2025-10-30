@@ -98,8 +98,8 @@ Three of the books FAIR recommends approvingly cite "The Camp of the Saints", ne
 twice with a hearty recommendation. Whether these approving references to "The Camp of the Saints" 
 are truly unexpected or suprising is a topic for another blog post. I can only imagine that the honest (and moral) restrictionist
 must, at best, scratch their head at the oddity that restrictionist literature should happen to have
-this repeated embarassment, especially with restrictionism's continual, clear denial of any motivation 
-by either racism or xenophobia.  For the moment, I'll close by 
+this repeated embarassment, especially with restrictionism's continual, emphatic denial of any connection 
+to either racism or xenophobia.  For the moment, I'll close by 
 maintaining my benefit of the doubt, and my ongoing assumption, for the purposes of these blog posts,
 that the vast majority of restrictionists are entirely free from these worst of human biases.
 
