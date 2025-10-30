@@ -15,18 +15,18 @@ In Mortal Danger serves as a stand-in for a good dozen or so "bog-standard" rest
 Gather up some news reports of immigrant murderers, throw in some 'terrorist watchlist' references, plus some statistics about the number of Spanish speakers, and voila, you got your book written.
 
 "This newer, post-modern wave of immigrants isn't assimilating into our culture because, unlike their predecessors, they have adopted a kind of parasitic approach to the United States.... They simply
-want to attach themselves to their American host and feed off of it while maintaining their nactive identities and cultures."[^1]
+want to attach themselves to their American host and feed off of it while maintaining their nactive identities and cultures."[^tancredo_parasites]
 
-"In Mortal Danger" gets to be the representative of this boilerplate, only because its title is so funny.
+"In Mortal Danger" gets to be the representative of this boilerplate rubbish, only because its title is so funny.
 
 ## 4 - "Fighting Immigration Anarchy" by Daniel Sheehy
 
 Fighting Immigration Anarchy is very different from most restrictionist literature. Instead of building up a case for restrictions and punishments, the book reviews the lives of six prominent restrictionists,
 tracing their histories and generally agrandizing them as patriots. It's unique among FAIR's reading list as being more about building up a sense of restrictionist community, although having read through it, I can't imagine that even fellow restrictionists would be much entertained by reading good deeds of supposed role models... and for one of those role models, the book gets a frowny-face sticker from me. The role model in question is Barbara Coe, who is held in obvious regard and admiration by author Daniel Sheehy:
 
-"The following chapters tell the stories of six courageous citizens who answered their country's call to battle the powerful forces behind open borders and who have made a difference in preserving a recognizable America...Their courage and honesty have brought them admiration and support from many Americans."[^2]
+"The following chapters tell the stories of six courageous citizens who answered their country's call to battle the powerful forces behind open borders and who have made a difference in preserving a recognizable America...Their courage and honesty have brought them admiration and support from many Americans."[^sheehy_praises_coe]
 
-"Today, Coe and the [California Coalition for Immigration Reform] are recognized as immigration-reform leaders in California and at the national level."[^2]
+"Today, Coe and the [California Coalition for Immigration Reform] are recognized as immigration-reform leaders in California and at the national level."[^sheehy_praises_coe]
 
 Barbara Coe was active for much of her life in the Council of Conservative Citizens (renamed from the segregationist White Citizens Councils). 
 This group decries miscegenation as being an afront to God, and said that black people were genetically inferior. Mrs. Coe's statements make it abundantly clear that she saw her crusades against illegal immigration as a continuation of her white separatist views.
@@ -36,22 +36,22 @@ If not, don't hold her up as a role model.
 
 ## 3 - "State of Emergency" by Pat Buchanan
 
-"If one excludes the Indians, and the Spanish who arrived in Florida and New Mexico in the sixteenth century, England's Lost Colony, and Quebec, the first permanent settlements in North America were Jamestown in 1607 and Plymouth in 1620."
+"If one excludes the Indians, and the Spanish who arrived in Florida and New Mexico in the sixteenth century, England's Lost Colony, and Quebec, the first permanent settlements in North America were Jamestown in 1607 and Plymouth in 1620."[^buchanan_first_settlements]
 
-"Language, faith, culture, and history -- and yes, birth, blood and soil -- produce a people, not an ideology." (pg.162)
+"Language, faith, culture, and history -- and yes, birth, blood and soil -- produce a people, not an ideology."[^buchanan_blood_and_soil] (pg.162)
 
 ## 2 - "Alien Nation" by Peter Brimelow [^4]
 
 Author Peter Brimelow comes off as a perfectly respectable, cultured, and intellectual restrictionist. An immigrant himself, he was a well-respected speaker in the 1990s, making frequent
 appearances on TV programs and high-profile debates. But in "Alien Nation", Brimelow's most detestable views are made plain.
 
-"Suppose I had proposed more immigrants who look like me. So what? As late as 1950, somewhere up to nine out of ten Americans looked like me. That is, they were of European stock." (Brimelow, 1995, p.59)
+"Suppose I had proposed more immigrants who look like me. So what? As late as 1950, somewhere up to nine out of ten Americans looked like me. That is, they were of European stock."[^brimelow_look_like_me"] 
 
 The thesis of "Alien Nation" rests almost entirely on the then-distant prediction that the United States was going to become a majority-minority nation with respect to race: white people would be in the minority. Mr. Brimelow treats this outcome as a disaster, and the end of America. He makes it clear through his arguments that he sees the essence of America's nationhood as deeply, fundamentally, white. 
 
-"In those days, they had another name for this thing dismissed so contemptuously as 'the racial hegemony of white Americans.' They called it 'America'" (Brimelow, 1995, p.59)
+"In those days, they had another name for this thing dismissed so contemptuously as 'the racial hegemony of white Americans.' They called it 'America'."[^brimelow_hegemony]
 
-"To get a sense of perspective, we have to go back to the beginning. And in the beginning, the American nation was white." (Brimelow, 1995, p.66)
+"To get a sense of perspective, we have to go back to the beginning. And in the beginning, the American nation was white."[^brimelow_nation_was_white]
 
 There's no way around it: this book advocates for white nationalism. It doesn't belong on any respectable list of restrictionist literature,
 no matter how well-spoken or well-educated the author was. Mr. Brimelow doesn't call himself as a white nationalist, although he does say he approves of it. Where did he say this? In a chummy one-on-one podcast interview
@@ -95,7 +95,7 @@ by writing a response post. This invitation goes double for anybody working at F
 "But wait!", says the observant reader, "That book isn't even *on* FAIR's list of recommended readings."
 And indeed, to be 'fair to FAIR', it is not. Instead, this book is recommended by the books that FAIR recommends.
 Three of the books FAIR recommends approvingly cite "The Camp of the Saints", never with any hint of disapproval, and
-twice with a hearty recommendation. Whether these approving references to "The Camp of the Saints" 
+twice with a hearty recommendation.[^recommending_camp_of_the_saints] Whether these approving references to "The Camp of the Saints" 
 are truly unexpected or suprising is a topic for another blog post. I can only imagine that the honest (and moral) restrictionist
 must, at best, scratch their head at the oddity that restrictionist literature should happen to have
 this repeated embarassment, especially with restrictionism's continual, emphatic denial of any connection 
@@ -104,21 +104,32 @@ maintaining my benefit of the doubt, and my ongoing assumption, for the purposes
 that the vast majority of restrictionists are entirely free from these worst of human biases.
 
 
+[^tancredo_parasites]: Tancredo, Tom. *In Mortal Danger: The Battle for America’s Border and Security.* Cumberland House Publishing, 2006, pg. 203
 
+[^sheehy_praises_coe]: Sheehy, Daniel. *Fighting Immigration Anarchy: American Patriots Battle to Save the Nation.* Authorhouse, 2005, pg. 55
 
+[^buchanan_first_settlements]: Buchanan, Pat. *State of Emergency: The Third World Invasion and Conquest of America*. Thomas Dunne Books, 2006,
+
+[^buchanan_blood_and_soil]: Ibid, pg. 162
+
+[^brimelow_look_like_me]: Brimelow, Peter. Alien Nation. Random House, 1995 1st Edition, pg. 59
+
+[^brimelow_hegemony]: Ibid, 59
+
+[^brimelow_nation_was_white]: Ibid, pg. 66
+
+[^recommending_camp_of_the_saints]:
 In "Unguarded Gates" Otis L. Graham references a scene from the book where (to his dismay) a national government allows swimming immigrants to safely land on shore, rather than drown. 
 Anyone familiar with The Camp of the Saints would be surprised that Graham would express such a familiarity with the book, without distancing himself from it, 
-but at least the mention is in passing.
+but at least the mention is in passing.[^graham_camp_of_the_saints]
 
-"The Immigration Dilemma", Hardin goes much further. He flat out recommends The Camp of the Saints as an accurate depiction of the wmorld, and says the author is "The one literary man who has noticed the form [of the end of the world]".
+"The Immigration Dilemma", Hardin goes much further. He flat out recommends The Camp of the Saints as an accurate depiction of the world, and says the author is "The one literary man who has noticed the form [of the end of the world]"[^hardin_camp_of_the_saints].
 
 In "State of Emergency" Pat Buchanan devotes an entire section to the book, praising it as a "smashing success", and repeating 
-grand comparisons to Swift and Camus.
+grand comparisons to Swift and Camus[^buchanan_camp_of_the_saints].
 
-[^1] Tancredo, Tom. *In Mortal Danger: The Battle for America’s Border and Security.* Cumberland House Publishing, 2006, pg. 203
+[^graham_camp_of_the_saints]: Graham, Otis L. Unguarded Gates: A History of America’s Immigration Crisis. Rowman & Littlefield Publishers, 24 December 2003, pg. 161
 
-[^2] Sheehy, Daniel. *Fighting Immigration Anarchy: American Patriots Battle to Save the Nation.* Authorhouse, 2005, pg. 55
+[^hardin_camp_of_the_saints]: Hardin, Garrett. The Immigration Dilemma. Federation for American Immigration Reform, 1995, pg. 112
 
-[^3] Buchanan, Pat. *State of Emergency: The Third World Invasion and Conquest of America*. Thomas Dunne Books, 2006. 
-
-[^4] Brimelow, Peter. Alien Nation. Random House, 1995 1st Edition, pg. 59
+[^buchanan_camp_of_the_saints]: Buchanan, Pat. State of Emergency. Thomas Dunne Books, 2006, pg. 190
