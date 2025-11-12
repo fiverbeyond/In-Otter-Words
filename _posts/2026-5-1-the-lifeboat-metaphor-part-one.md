@@ -4,7 +4,7 @@
 >**_The Short Stuff:_** One of the most popular metaphors used in discussing immigration is that of a lifeboat on the verge of capsizing.
 Restrictionists say that letting more immigrants in risks "capsizing" the nation, drowning everyone. This is a dumb idea.
 
-Browsing through restrictionist metaphors brings a strange delight. This blog has already addressed [the gumball analogy], and Aldo Buttazonni's [Halloween analogy], and one day, I plan to dive gleefully into what I consider the crown jewel of restrictionst metaphors: "Letting someone into your country is like letting someone into your house."
+Browsing through restrictionist metaphors brings a strange, sickly delight. There's always a vain sense of superiority to be had in pointing out fallacies in arguments, even this weakness.  This blog has already addressed [the gumball analogy], and Aldo Buttazonni's [Halloween analogy], and one day, I plan to dive gleefully into what I consider the crown jewel of restrictionst metaphors: "Letting someone into your country is like letting someone into your house."
 
 Today I address one of the great classics in the field, Garret Hardin's "Lifeboat Metaphor". Garrett Hardin was a Professor of Human Ecology at the University of California in the 60s and 70s. His most widely-known contribution is his popularization of "The Tragedy of the Commons". Lesser known is his 1970s application of this idea to immigration, i.e., the "Lifeboat Metaphor". This was one of the first metaphors I ever heard for exploring the ethics of restrictionism, and it's used widely enough that even the popular educational channel Crash Course described it in their series on ethics (which I highly recommend). 
 
@@ -16,7 +16,7 @@ In later follow-up post, I will detail the reasons behind why I reject the analo
 
 Let's have Mr. Hardin describe the metaphor in his own words:
 
-"Metaphorically, each rich nation amounts to a lifeboat full of comparatively rich people. The poor of the world are in other, much more crowded lifeboats. Continuously, so te speak, the poor fall out of their lifeboats and swim for a while in the water outside, hoping to be admitted to a rich lifeboat, or in some other way to benefit from the 'goodies' on board."
+"Metaphorically, each rich nation amounts to a lifeboat full of comparatively rich people. The poor of the world are in other, much more crowded lifeboats. Continuously, so to speak, the poor fall out of their lifeboats and swim for a while in the water outside, hoping to be admitted to a rich lifeboat, or in some other way to benefit from the 'goodies' on board."
 
 Prof. Hardin continues by explaining the catastrophe that awaits from allowing even a small amount of immigration, 
 "We may be tempted to try to live by the Christian ideal of being "our brother's keeper"... We take all the needy into our boat, making
