@@ -29,22 +29,15 @@ It's not often that I need to begrudgingly admire the actions of a U.S. Senator,
 
   The use of angel moms in this way is too deep a topic to touch on now, except to say that I don't blame these mothers at all. I haven't personally lost a child, and I can't imagine the long, sustained grief that must come from losing any loved one in such a violent way as a car crash. It's only human to look for some way to give meaning to your child's passing.
 
-"I wish that my son, Aiden Clark, was killed by a 60-year-old white man.
-
-The last thing that we need is to have the worst day of our lives violently and constantly shoved in our faces.
-
-"Using Aiden as a political tool is, to say the least, reprehensible for any political purpose. 
-
-
   That's why I was so surprised and inspired by the actions of Nathan Clark, the father of Aiden Clark. Aiden was tragically killed in the 2023 Clark County School bus crash. The immigrant driver who caused the crash had no license, and in court proceedings was found to be clearly at fault for the accident. In such a horrific  time of mourning, I would hope that any father would at least be left alone. I certainly wouldn't blame any father for refusing to comment.
 
+But Nathan Clark rose above these temptations. 
 
+"I wish that my son, Aiden Clark, was killed by a 60-year-old white man. I bet you never thought you would hear anyone say something so blunt. But if that guy had killed my eleven-year-old son, the incessant group of hate-spewing people would leave us alone."[^nathan-clark-sixty-year]
 
-  But Nathan Clark rose above these temptations. Rather than passively see his son's name used as an anti-immigration talking point, he took what must have been a painful effort to speak out. He openly chastized the people who would use Aiden's story as a bludgeon against the Springfield immigrants.
+Rather than passively see his son's name used as an anti-immigration talking point, he took what must have been a painful effort to speak out. He openly chastized the people who would use Aiden's story as a bludgeon against the Springfield immigrants, calling out politicians by name, and explicitly defending the Haitian immigrants in Springfield.
 
   "They can vomit all the hate they want about illegal immigrants, the border crisis, and even fluffy pets being ravaged and eaten by community members. However they are not allowed, nor have they ever been allowed, to mention Aiden Clark from Springfield, Ohio. I will listen to them one more time to hear their apologies."[^nathan-clark-apologies]
-  
-  [cite his speech, twice if able].
 
 
 ## Aaron Reichlin-Melnik
@@ -55,4 +48,5 @@ and I think he's a hero because of what he does in his day-to-day job.
    The truth is that I put Mr. Reichlin-Melnik on this list because he is a similar age to me, but has made the right decisions in his life to be an imporant active part in the struggle for immigrant rights.
 
 
+[^nathan-clark-sixty-year]: (0:20) [Nathan Clark's Statement before the Springfield, Ohio city council](https://youtu.be/DbV6B76LwR8?si=Qd81mFd6wpTr3XYx&t=20)
 [^nathan-clark-apologies]: (1:40) [Nathan Clark's Statement before the Springfield, Ohio city council](https://youtu.be/DbV6B76LwR8?si=G2qsN8Yrof9pmJWP&t=99)
