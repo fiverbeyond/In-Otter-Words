@@ -16,18 +16,17 @@ In later follow-up post, I will detail the reasons behind why I reject the analo
 
 Let's have Mr. Hardin describe the metaphor in his own words:
 
-"Metaphorically, each rich nation amounts to a lifeboat full of comparatively rich people. The poor of the world are in other, much more crowded lifeboats. Continuously, so to speak, the poor fall out of their lifeboats and swim for a while in the water outside, hoping to be admitted to a rich lifeboat, or in some other way to benefit from the 'goodies' on board."
+"Metaphorically, each rich nation amounts to a lifeboat full of comparatively rich people. The poor of the world are in other, much more crowded lifeboats. Continuously, so to speak, the poor fall out of their lifeboats and swim for a while in the water outside, hoping to be admitted to a rich lifeboat, or in some other way to benefit from the 'goodies' on board." (pg. 36)
 
-Prof. Hardin continues by explaining the catastrophe that awaits from allowing even a small amount of immigration, 
+Prof. Hardin continues by explaining the catastrophe that awaits from allowing too much immigration, 
 "We may be tempted to try to live by the Christian ideal of being "our brother's keeper"... We take all the needy into our boat, making
-a total of 150 in a boat with a capacity of 60. The boat is swamped, and everyone drowns. Complete justice, complete catastrophe."
+a total of 150 in a boat with a capacity of 60. The boat is swamped, and everyone drowns. Complete justice, complete catastrophe." (pg. 37)
 
-Hardin then continues by pointing out the difficult moral choices that accompany trying to let in only "just enough" survivors into a lifeboat, and instead concludes that the only appropriate action is to admit no person at all, and instead to let all outside survivors drown, rather than
-risk the catastrophe of the lifeboat capsizing.
+Hardin then continues by pointing out the difficult moral choices that accompany trying to let in only "just enough" survivors into a lifeboat, and instead concludes that the only appropriate action is to admit no person at all, and instead to let all outside survivors drown, rather than risk the catastrophe of a capsized lifeboat.
 
 ## The Ethics the Lifeboat is Appealing To
 
-It's important to point out that, in steel-man form, I agree with the basic ethics of the lifeboat scenario. If I was in a lifeboat clearly filled to capacity, and I could be reasonably certain of impending capsize, it would be morally permissible to deny entry to swarms of swimmers. The mechanics here are truly horrifying: it could be done by rowing away and leaving the stragglers to their deaths, by shoving them off with oars, or even shooting them as they approach. It's a ghastly idea, but in those strict parameters, I find myself agreeing with Hardin when he says "The lifeboat, as it were, purifies itself of guilt." If the only alternative were a complete capsize (leading to the death of all the survivors already in the lifeboat) it would be morally required. As usual with utilitarianism, the pill is bitter, but for me, the morality holds up under inspection. I'll note that it's a little paradoxical for Hardin to be appealing to utilitarianism here, since he outright rejects it as a moral code (Hardin, pg. 14-15).
+It's important to point out that, in steel-man form, I agree with the basic ethics of the lifeboat scenario. If I was in a lifeboat clearly filled to capacity, and I could be reasonably certain of impending capsize, it would be morally permissible to deny entry to swarms of swimmers. The mechanics here are truly horrifying: it could be done by rowing away and leaving the stragglers to their deaths, by shoving them off with oars, or even shooting them as they approach. It's a ghastly idea, but in those strict parameters, I find myself agreeing with Hardin when he says "The lifeboat, as it were, purifies itself of guilt." (pg. 38) If the only alternative were a complete capsize (leading to the death of all the survivors already in the lifeboat) it would be morally required. As usual with utilitarianism, the pill is bitter, but for me, the morality holds up under inspection. I'll note that it's a little paradoxical for Hardin to be appealing to utilitarianism here, since he outright rejects it as a moral code (Hardin, pg. 14-15).
 
 So, why do I think it's a bad analogy?
 
@@ -68,13 +67,13 @@ There's every reason, within the lifeboat analogy, to immediately select native-
 the lifeboat (since the presence of any such citizen threatens the doom of everyone in the nation). 
 Not only would the federal government be justified in stripping millions of their citizenship
 and deporting them, but they are *currently morally obligated* to do so. Any hesitance in doing so would fall under what Prof. Hardin 
-describes as "Christian-Marxian idealism": a misguided over-attachment to fairness that leads directly to the Tragedy of the Commons.
+describes as "Christian-Marxian idealism": a misguided over-attachment to fairness that leads directly to the Tragedy of the Commons (pg. 40)
 
-And it gets worse than that. Since the lifeboat analogy eschews any strict measure of overpopulation, this violent expulsion would be justified, even for the majority of citizens. As long as *any* citizen still lived in the U.S., the government is morally obligated to expel other citizens (because every citizen threatens to tip the nation into its capsize mechanic.).
+And it gets worse than that. Since the lifeboat analogy eschews any strict measure of overpopulation, this violent expulsion would be justified, even for the majority of citizens. As long as *any* citizen still lived in the U.S., the government is morally obligated to expel other citizens (because every citizen threatens to tip the nation into its capsize mechanic).
 
 ### History Strongly Suggests that the Lifeboat Metaphor is Nonsense
 
-In his essay, Hardin sees the lifeboat metaphor as a direct application of the Tragedy of the Commans. "In a crowded world of less than perfect human beings -- and we will never know any other -- mutual ruin is inevitable in the commons. This is the core of the Tragedy of the Commons." 
+In his essay, Hardin sees the lifeboat metaphor as a direct application of the Tragedy of the Commans. "In a crowded world of less than perfect human beings -- and we will never know any other -- mutual ruin is inevitable in the commons. This is the core of the Tragedy of the Commons."(pg. 40) 
 But if this is so, then Hardin's metaphor should have produced myriad examples in situations where free movement is allowed. Take migration between U.S. states, for example. For most of U.S. history, the states have had open borders, allowing completely free movement between them. If the lifeboat analogy were a close description of reality, we should have seen many of these state capsize: not just 'an economic downturn', but a full-blown catastrophe of utter destruction, where the population of the state reached its 'tipping point', and suddenly everyone in the state becomes equally destitute.
 This doesn't happen.
 
@@ -94,7 +93,7 @@ according to the metaphor, doomed themselves to be upended. This never happened.
 
 ### "But we *have* seen nations capsize! 
 
-When challenged with this utter lack of historical precedent for a capsize mechanic, one might be tempted to counter that we *have* seen cities, counties, states, and nations 'capsize' in the way Hardin describes. One might point to Chicago's housing crisis, or the Greek debt crisis, or the eternally persistent example of the Fall of the Roman Empire. It's especially easy for populationists (and restrictionists) to claim that any given economic crisis is caused by overpopulation, since almost any famine, war, or housing shortage could be cast as "Too many people for too few resources").
+When challenged with this utter lack of historical precedent for a capsize mechanic, one might be tempted to counter that we *have* seen cities, counties, states, and nations 'capsize' in the way Hardin describes. One might point to Chicago's housing crisis, or the Greek debt crisis, or the eternally persistent example of the Fall of the Roman Empire. It's especially easy for populationists (and restrictionists) to claim that any given economic crisis is caused by overpopulation, since almost any famine, war, or housing shortage could be miscast as "Too many people for too few resources").
 
 This defense doesn't hold any water. In the first place, no reasonable understanding of economic crashes would be so simple as to attribute them to 'overpopulation' or migration.
 Chicago's problems were about industries collapsing, not too many U.S. citizens moving within its boundaries. The Greek debt crises had apparently no relation to any imagined "carrying capacity". And no, despite what some restrictionists say, Rome did not fall from having too many people.
@@ -102,8 +101,9 @@ Chicago's problems were about industries collapsing, not too many U.S. citizens 
 But there's a second and more important reason to reject this defense: even if every example of a fiscal crisis in America was due solely to citizen migration, 
 these examples would still be nowhere near the kind of utter devastation described by the Lifeboat metaphor's capsize mechanic. Remember that the whole point of
 the lifeboat metaphor is that reaching the moment of capsize results in total destruction [Quote restrictionist examples here], leaving all inhabitants
-in a position of equal destitution (as Hardin says "Complete justice, complete catastrophe."
-This doesn't happen.
+in a position of equal destitution; as Hardin says "Complete justice, complete catastrophe." (pg. 37)
+
+This doesn't happen either.
 
 ### To Be Continued
 
@@ -112,4 +112,6 @@ Evenso, it's not enough to simply suspect that the metaphor is unsound: we shoul
 For this ethical adventure, I invite you to join me in a Part Two of this post, where we'll poke some unstoppable breaches
 in the hull of this floundering vessel.
 
+All citations are from Garrett Hardin's book, "The Immigration Dilemma":
 
+Hardin, Garrett. The Immigration Dilemma. Federation for American Immigration Reform, 1995.
