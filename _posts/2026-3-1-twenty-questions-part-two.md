@@ -11,10 +11,10 @@ These are my responses.
 ### `11) Even if you want to take in “the huddled masses yearning to breathe free”, don’t you at least want to screen them for communicable diseases first?`
 
 Usually no, but it admittedly depends on the severity of the disease. I don't think it's worth anybody's time to screen people for the flu or the common cold, for example, and 
-I don't think the Covid border restrictions were useful.[Cite those restrictions]. However, it is conceivable that a particularly deadly pandemic would justify medical border screenings. 
+I don't think the Title 42 Covid border restrictions were useful.[^title-forty-two]. However, it is conceivable that a particularly deadly pandemic would justify medical border screenings. 
 
 It's important to point out that this question has almost nothing to do with immigration: if 
-a disease were so potent that it justified border screenings, then those screenings would need to be done to everyone crossing the border. Immigration makes up less than 1% of border crossings[^1]. The rest comes from tourism, businesses, trade, and of course, American citizens.
+a disease were so potent that it justified border screenings, then those screenings would need to be done to everyone crossing the border. Immigration makes up less than 1% of border crossings[^one-percent]. The rest comes from tourism, businesses, trade, and of course, American citizens.
 
 In my experience, restrictionists suddenly become uninterested in border screenings when they are applied to American citizens.
 
@@ -45,7 +45,7 @@ those children go on to become high-skill workers, and build a highly-educated s
 "Countless"? Naw, I'm fine with the current legal limit, (which is in the 90s). 
 Restrictionists often say that family unification (or "chain migration", as they like to say) typically results
 in dozens of immigrants being 'chained' into the country from a single legal immigrant. This is false. The average family unification
-group is less than four. [https://cis.org/Parsing-Immigration-Policy/Chain-Migration-and-Why-It-Matters](https://cis.org/Parsing-Immigration-Policy/Chain-Migration-and-Why-It-Matters)
+group is less than four.[^chain-size] 
 
 
 ### `16) What’s wrong with an American immigration policy based on what’s best for America?`
@@ -89,6 +89,14 @@ Absolutely! Obviously a policy that benefits only one and not the other would be
 
 I think America is pretty dang great.
 
+[^title-forty-two] [This report](https://www.americanprogress.org/article/the-title-42-expulsion-policy-does-nothing-to-prevent-the-spread-of-covid-19/) from the Center for American Progress
+suggests that Title 42 did pretty much nothing to slow the spread of Covid. Even [when restrictionists organizations talk about Title 42](https://cis.org/Parsing-Immigration-Policy/Coming-End-Title-42), they don't even mention the efficacy of the policy as a means 
+of slowing Covid.
+
+[^one-percent]:
+Even fiddling around with [publicly available databases](https://data.bts.gov/Research-and-Statistics/Border-Crossing-Entry-Data/keg4-3bc2/explore/query/SELECT%20sum%28%60value%60%29%0AWHERE%0A%20%20%60date%60%0A%20%20%20%20BETWEEN%20%222024-12-05T22%3A51%3A46%22%20%3A%3A%20floating_timestamp%0A%20%20%20%20AND%20%222025-12-05T22%3A51%3A46%22%20%3A%3A%20floating_timestamp%0A%20%20AND%20caseless_one_of%28%60measure%60%2C%20%22Personal%20Vehicle%20Passengers%22%29/page/aggregate) will show
+you that several hundred million people cross the land border into the U.S. each year. These are typically U.S. citizens travelling, or business workers who live close to the border. 
+Even with high estimates for the number of illegal border crossings (several hundred thousand), illegal immigration makes up a miniscule percentage of the border crossings that happen each year.
 
 [^prager]:"Under democratic influence since Ted Kennedy… the border has been essentially open to millions of people to come into this country illegally.”
 https://youtu.be/l7iz9PGI5jY?si=3asnaEm260cBDYKz&t=300
@@ -101,3 +109,4 @@ Thomas Nelson Inc, 2004, pg. vi
 lead them to national power."
 Buchanan, Pat. State of Emergency. Thomas Dunne Books, 2006, pg. 55
 
+[^chain-size]:[https://cis.org/Parsing-Immigration-Policy/Chain-Migration-and-Why-It-Matters](https://cis.org/Parsing-Immigration-Policy/Chain-Migration-and-Why-It-Matters)
