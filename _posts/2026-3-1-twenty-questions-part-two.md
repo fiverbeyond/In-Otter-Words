@@ -26,12 +26,12 @@ This is an important point where I differ from Mr. Zmirak and Mr. Perotta. In th
 
 I would humbly suggest that my approach is more American.
 
-### `13) Would you rather your tax dollars go to an illegal immigrant or to help millions more Americans afford health insurance?`
+### 13) "Would you rather your tax dollars go to an illegal immigrant or to help millions more Americans afford health insurance?`
 
 Wow... either help one unauthorized immigrant, or 'millions' of Americans?
 You got me there; I'll lose my Utilitarian Club membership card if I don't choose the millions.
 
-### `14) Would you rather your education tax dollars go to illegals or toward building new schools?"
+### 14) "Would you rather your education tax dollars go to illegals or toward building new schools?"
 
 These aren't mutually exclusive: presumably if my tax dollars go toward building new schools, some unauthorized immigrants will
 attend those schools. Likewise, if my tax dollars go to educating unauthorized immigrants, some of that money will be used to build new schools.
