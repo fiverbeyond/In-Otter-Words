@@ -93,8 +93,7 @@ I think America is pretty dang great.
 suggests that Title 42 did pretty much nothing to slow the spread of Covid. Even [when restrictionists organizations talk about Title 42](https://cis.org/Parsing-Immigration-Policy/Coming-End-Title-42), they don't even mention the efficacy of the policy as a means 
 of slowing Covid.
 
-[^one-percent]:
-Even fiddling around with [publicly available databases](https://data.bts.gov/Research-and-Statistics/Border-Crossing-Entry-Data/keg4-3bc2/explore/query/SELECT%20sum%28%60value%60%29%0AWHERE%0A%20%20%60date%60%0A%20%20%20%20BETWEEN%20%222024-12-05T22%3A51%3A46%22%20%3A%3A%20floating_timestamp%0A%20%20%20%20AND%20%222025-12-05T22%3A51%3A46%22%20%3A%3A%20floating_timestamp%0A%20%20AND%20caseless_one_of%28%60measure%60%2C%20%22Personal%20Vehicle%20Passengers%22%29/page/aggregate) will show
+[^one-percent]: Even fiddling around with [publicly available databases](https://data.bts.gov/Research-and-Statistics/Border-Crossing-Entry-Data/keg4-3bc2/explore/query/SELECT%20sum%28%60value%60%29%0AWHERE%0A%20%20%60date%60%0A%20%20%20%20BETWEEN%20%222024-12-05T22%3A51%3A46%22%20%3A%3A%20floating_timestamp%0A%20%20%20%20AND%20%222025-12-05T22%3A51%3A46%22%20%3A%3A%20floating_timestamp%0A%20%20AND%20caseless_one_of%28%60measure%60%2C%20%22Personal%20Vehicle%20Passengers%22%29/page/aggregate) will show
 you that several hundred million people cross the land border into the U.S. each year. These are typically U.S. citizens travelling, or business workers who live close to the border. 
 Even with high estimates for the number of illegal border crossings (several hundred thousand), illegal immigration makes up a miniscule percentage of the border crossings that happen each year.
 
@@ -110,3 +109,5 @@ lead them to national power."
 Buchanan, Pat. State of Emergency. Thomas Dunne Books, 2006, pg. 55
 
 [^chain-size]:[https://cis.org/Parsing-Immigration-Policy/Chain-Migration-and-Why-It-Matters](https://cis.org/Parsing-Immigration-Policy/Chain-Migration-and-Why-It-Matters)
+
+[Cite statistic on value of educating immigrant children]
