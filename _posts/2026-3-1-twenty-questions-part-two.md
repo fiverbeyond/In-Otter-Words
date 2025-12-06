@@ -89,7 +89,7 @@ Absolutely! Obviously a policy that benefits only one and not the other would be
 
 I think America is pretty dang great.
 
-[^title-forty-two] [This report](https://www.americanprogress.org/article/the-title-42-expulsion-policy-does-nothing-to-prevent-the-spread-of-covid-19/) from the Center for American Progress
+[^title-forty-two]: [This report](https://www.americanprogress.org/article/the-title-42-expulsion-policy-does-nothing-to-prevent-the-spread-of-covid-19/) from the Center for American Progress
 suggests that Title 42 did pretty much nothing to slow the spread of Covid. Even [when restrictionists organizations talk about Title 42](https://cis.org/Parsing-Immigration-Policy/Coming-End-Title-42), they don't even mention the efficacy of the policy as a means 
 of slowing Covid.
 
