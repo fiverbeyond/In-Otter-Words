@@ -37,17 +37,18 @@ seems straightforward:
 | Lifeboat supplies       | 'Goodies' (i.e., the opportunity to continue living) | 
 
 
-I think the Lifeboat Metaphor relies heavily on some implied assumptions, one exposed by Hardin, the other not addressed.
+I think the Lifeboat Metaphor relies heavily on some implied assumptions, one exposed by Hardin, the others not addressed.
 They both relate to the 'capsize mechanic', the natural sequence of events that leads to a lifeboat swamping due to
 holding more passengers than its carrying capacity.
 
-## 1) The capsize mechanic ends in everyone involved being reduced to that of swimming survivors.
+## 1) The capsize mechanic ends in everyone involved being equally reduced to that of swimming survivors.
 
-This assumption is at the heart of the metaphor's appeal to Utilitarianism (which is surprising in and of itself, considering that Hardin explicitly rejects
-utilitarianism). The disaster proposed by the lifeboat metaphor isn't just that some in-boat survivors may be endangered: it's that absolutely
+This assumption is at the heart of the metaphor's appeal to utilitarian calculus (which is surprising in and of itself, considering that Hardin explicitly rejects
+utilitarianism)[^hardin-on-utilitarianism]. The disaster proposed by the lifeboat metaphor isn't just that some in-boat survivors may be endangered: it's that absolutely
 everyone involved in the situation will be reduced to a similar state of ruin. Prof. Hardin describes his imagined overpopulation crisis with these 
 words:
 "The process is brought to an end only by the total collapse of the whole system, producing a catastrophe of scarcely imaginable proportions."
+[^total-disaster]
 
 The in-water survivors will have gained nothing (they're still 
 swimming in the ocean) and the in-boat survivors will all be swimming in the ocean as well. Hardin makes this clear in his presentation of the 
@@ -56,7 +57,7 @@ metaphor:
 "We may be tempted to try to live by the Christian ideal of being "our brother's keeper", or by the Marxian ideal
 of "from each according to his abilities, to each according to his needs". Since the needs of all are the same,
 we take all the needy into our boat, making a total of 150 in aboat with a capacity of 60t. The boat is swamped, and everyone drowns. 
-Complete justice, complete catastrophe."
+Complete justice, complete catastrophe."[^hardin-on-complete-justice]
 
   The utilitarian calculation here is straightforward: repelling the incoming swimmers will result in the 60 passengers being saved... 
 but allowing swimmers to approach the lifeboat will end in the worst possible outcome. 
@@ -82,8 +83,8 @@ People who think the United States has a clearly defined "carrying capacity" usu
 no surprise: calculating a carrying capacity would (a) require "showing one's work" and opening one's assumptions and methods to scrutiny, and  
 (b) make one vulnerable to disproof by observation. Heck, Garrett Hardin himself spells out his reticence [Cite the page].
 
-Edward Hartman confidently gave a carrying capacity of "100 to 200 million" back in the 200s. Following the lifeboat analogy, this would mean that the United State's lifeboat
-capsized sometime in the 1960s (funny that we didn't notice). 
+Edward Hartman confidently gave a carrying capacity of "100 to 200 million" back in the 2000s [cite the page]. Following the lifeboat analogy, this would mean that the United State's lifeboat
+capsized sometime in the 1960s (funny that we didn't notice it). 
 
 
 ## 2. A lifeboat has a capsize mechanic. A nation does not.
@@ -162,7 +163,7 @@ camp out by the side of the road, and recieve handouts. (This is, incidentally, 
 In this scenario, would I agree that the lifeboat metaphor is apt? Yes, I certainly would. Fearfully, looking over my shoulder at our
 alien overlords, I would whole-heartedly endorse restricting immigration (assuming the United States was approaching its 'tipping point'). 
 In this situation, the utilitarian calculus is clear, and Hardin would be right. As Hardin himself says:
-"This last solution is abhorrent to many people. It is unjust, they say. Let us grant that it is."
+"This last solution is abhorrent to many people. It is unjust, they say. Let us grant that it is."[^lifeboat-is-unjust]
 
 ### The Better Analogy: America, the Island
 
@@ -193,4 +194,18 @@ It's a
 
 The United States is the richest and most powerful nation in human history. Merely adding people to it in no way threatens any
 capsize mechanic that we see.
+
+
+[^hardin-on-utilitarianism]: Hardin, Garrett. The Immigration Dilemma. Federation for American Immigration Reform, 1995.
+From Pg. 15, "Can Bentham's goal of 'The greatest good for the greatest number' be realized?
+No... it is not mathematically possible to maximize for two (or more) variablest at the same time." Further on that page, Graham says "If our goal
+is to maximize population it is obvious what we must do: we must make the work calories per person approach as close to zero as posible. No gourmet meals, 
+no vacations, no sports, no music, no literature, no art... I think that everyone will grant,
+without argument or proof, that maximizing population does not maximize goods. Bentham's goal is impossible."
+
+[^hardin-on-complete-justice]: Ibid. [Pg. 37]
+
+[^total-disaster]: Ibid. [Pg. 46]
+
+[^lifeboat-is-unjust]: Ibid [Pg. 38]
 
