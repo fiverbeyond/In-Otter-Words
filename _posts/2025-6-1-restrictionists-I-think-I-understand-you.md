@@ -47,9 +47,20 @@ I think this is what you believe. If I'm wrong, please let me know.
 
 - InOtterWords
 
-[^1]: (Tom Homan on better life?)
+[^1]: 
+"Trust me, no Border Patrol or ICE agent is overjoyed about deporting anyone who is trying to seek a better life for themselves or their loved ones."
+Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020, pg. 195
 
-[^3]: Dennis Prager fireside chat - 7:14 - A nation like a house.
+[^3]: 
+"Illegally we have no idea who is coming into our country or what they're bringing in, obviously. Do you allow that to happen in your home?
+Why do you have locks on your home?"
+PragerU. “Fireside Chat Ep. 64 - the Problem with Mass Immigration | Fireside Chat.” YouTube, 10 Jan. 2019, www.youtube.com/watch?v=l0CdJ1kosFw. Accessed 21 Dec. 2025. (7:13)
+
+[^3-b]: 
+"This is our home, and we have not only the right, but the responsibility to determine who comes in, how many come in, 
+and what qualities and qualifications they bring."
+Michelle Malkin, PragerU. “A Nation of Immigrants.” YouTube, 20 Aug. 2018, www.youtube.com/watch?v=oYvKcAh1zdo.
+
 
 [^4]: Krikorian, Mark. The New Case Against Immigration, Both Legal and Illegal. [Fill in this gap]
 
@@ -79,9 +90,9 @@ scam marriages, no more refugees, no more phony asylum cases (which is all of th
 slave labor to Microsoft and concubines to Indian pedophiles."
 Coulter, Ann. “Adios, America! The Left’s Plan to Turn Our Country into a Third World Hellhole”. Regnery, 2016, pg. 255
 
-[^7] Opposing Viewpoints Lamar quote Opposing Viewpoints pg. 86
+[^7]: Opposing Viewpoints Lamar quote Opposing Viewpoints pg. 86
 
-[^8] Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020.
+[^8]: Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020.
 pgs. 2, 34, 84.
 
 [^race-accusations]:
@@ -89,16 +100,14 @@ pgs. 2, 34, 84.
 the race machine goes into full throttle."
 Ankarlo, Darrell. Illegals: The Unacceptable Cost of American’s Failure to Control Its Borders. Thomas Nelson, 2010, Pg. xxiii
 
+[^10]: (Find a quote expressing frustration.)
 
-[^10] (Find a quote expressing frustration.)
-
-
-[^11] "The Mexican activists' agenda, led in part by U.S. elected officials, sought to re-conquer the Southwestern United States for Mexico
+[^11]: "The Mexican activists' agenda, led in part by U.S. elected officials, sought to re-conquer the Southwestern United States for Mexico
 through uncontrolled immigration. And, mega corporations aided teh immigrant flood to achieve the globalists' goal of a new world
 order of erased borders."
 Sheehy, Daniel. Fighting Immigration Anarchy: American Patriots Battle to Save the Nation. Authorhouse. 2005, pg. 12
 
-[^12] Find quote about mistaken altruists.
+[^12]: Find quote about mistaken altruists.
 
 [^13-a]: 
 "Except for Lyndon Johnson's abberational 1964 landslide, Democrats have not been able to get a majority of white people t ovote for them
@@ -111,13 +120,13 @@ Coulter, Ann. “Adios, America! The Left’s Plan to Turn Our Country into a Th
 The growing base of Hispanic persons in America can change the political landscape in cities across the nation, and our elected leaders know it."
 Ankarlo, Darrell. Illegals: The Unacceptable Cost of American’s Failure to Control Its Borders. Thomas Nelson, 2010, Pg. 216
 
-[^14] "How do the One-World Wondesr becom eneablers of America's addiction to population growth? Well, basically, they don't really believe in nations
+[^14]: "How do the One-World Wondesr becom eneablers of America's addiction to population growth? Well, basically, they don't really believe in nations
 and national borders. They have watched too many *Star Trek* movies and think we have evolved to a point where a universal government
 should be able to take over the wmorld, if not the universe, and make all the "right" decisions for everybody... Since One-World Wonders
 don't believe in nations or borders, they don't believe in immigration laws...".
 Hartman, Edward C. The Population Fix: Breaking America’s Addiction to Population Growth. Think Population Press. 4 July, 2006.
 
-[^15] "The most shocking revelation [in my book] is not how much time and money militant "progressives" and socialists dedicate to the destruction of America. 
+[^15]: "The most shocking revelation [in my book] is not how much time and money militant "progressives" and socialists dedicate to the destruction of America. 
 What will turn your stomach and boil your blood is how much of *your own money* is being used to rob you, your children, and grand-children of the 
 blessings of liberty."
 Malkin, Michelle. Open Borders Inc. Simon and Schuster, 10 Sept. 2019, pg. xxviii
