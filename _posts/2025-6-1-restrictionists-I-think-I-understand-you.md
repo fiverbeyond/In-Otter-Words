@@ -18,7 +18,7 @@ You may also feel protective of your culture (or at least, the best parts of it)
 continue to enjoy them the way you have in the past. You see immigration limits as a way to protect these things.
 
 ## You think of a nation the way you think of your house;
-Just as you have the right to decide who comes into your private house, the citizens of a nation have a right to decide who comes into their country.[^3]
+Just as you have the right to decide who comes into your private house[^3-a], the citizens of a nation have a right to decide who comes into their country[^3-b].
 You see this as an exercise of national sovereignty [^4]. While you recognize that it might be noble or benevolent of a nation to allow immigrants in, you don't think there's any ethical obligation to do so. 
 You see allowing immigration as a charitable act, one which greatly benefits the immigrant, but can sometimes cost the natives of a country. You may even feel proud that the United States
 has already gone above and beyond in allowing so many immigrants in[^5-a][^5-b].
@@ -47,45 +47,37 @@ I think this is what you believe. If I'm wrong, please let me know.
 
 - InOtterWords
 
-[^1]: 
-"Trust me, no Border Patrol or ICE agent is overjoyed about deporting anyone who is trying to seek a better life for themselves or their loved ones."
+[^1]:"Trust me, no Border Patrol or ICE agent is overjoyed about deporting anyone who is trying to seek a better life for themselves or their loved ones."
 Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020, pg. 195
 
-[^3]: 
-"Illegally we have no idea who is coming into our country or what they're bringing in, obviously. Do you allow that to happen in your home?
+[^3-a]:"Illegally we have no idea who is coming into our country or what they're bringing in, obviously. Do you allow that to happen in your home?
 Why do you have locks on your home?"
 PragerU. “Fireside Chat Ep. 64 - the Problem with Mass Immigration | Fireside Chat.” YouTube, 10 Jan. 2019, www.youtube.com/watch?v=l0CdJ1kosFw. Accessed 21 Dec. 2025. (7:13)
 
-[^3-b]: 
-"This is our home, and we have not only the right, but the responsibility to determine who comes in, how many come in, 
+[^3-b]: "This is our home, and we have not only the right, but the responsibility to determine who comes in, how many come in, 
 and what qualities and qualifications they bring."
 Michelle Malkin, PragerU. “A Nation of Immigrants.” YouTube, 20 Aug. 2018, www.youtube.com/watch?v=oYvKcAh1zdo.
 
 
 [^4]: Krikorian, Mark. The New Case Against Immigration, Both Legal and Illegal. [Fill in this gap]
 
-[^5-a]: 
-"The United States has also continued to be the most compassionate country on the planet, offering refugee status to more people than any other nation."
+[^5-a]: "The United States has also continued to be the most compassionate country on the planet, offering refugee status to more people than any other nation."
 Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020.
 
-[^5-b]:
-"The United States *legally* takes in approximately 1.5 million immigrants annually, making us one of the most generous (read *liberal*) nations in the world
+[^5-b]:"The United States *legally* takes in approximately 1.5 million immigrants annually, making us one of the most generous (read *liberal*) nations in the world
 in terms of immigration policy."
 Tancredo, Tom. In Mortal Danger: The Battle for America’s Border and Security. Cumberland House Publishing, 2006, pg. 102
 
-[^more-legal]:
-"You are a legal immigrant. The conservative movement wants millions more people like you in this country."
+[^more-legal]: "You are a legal immigrant. The conservative movement wants millions more people like you in this country."
 [Charlie Kirk addresses a foreign student on immigration](https://www.youtube.com/watch?v=3dXLNsl-Xak)
 
-[^6-a]:
-In the chapter titled Some Solutions:
+[^6-a]: In the chapter titled Some Solutions:
 "1. A temporary moratorium on new immigration to the U.S. for five years. Three hundred million people call this country home,
 and there should be zero doubt that from even the simplest of mathematical perspectives, we have access to persons who can
 fill available jobs from the mundane to the most complicated."
 Ankarlo, Darrell. Illegals: The Unacceptable Cost of American’s Failure to Control Its Borders. Thomas Nelson, 2010,
 
-[^6-b]:
-"The only way to stop this nonsense is to have an immigration moratorium... Just shut it down. No more family reunification, no more 
+[^6-b]: "The only way to stop this nonsense is to have an immigration moratorium... Just shut it down. No more family reunification, no more 
 scam marriages, no more refugees, no more phony asylum cases (which is all of them), and no more "high-tech workers" providing
 slave labor to Microsoft and concubines to Indian pedophiles."
 Coulter, Ann. “Adios, America! The Left’s Plan to Turn Our Country into a Third World Hellhole”. Regnery, 2016, pg. 255
@@ -109,14 +101,12 @@ Sheehy, Daniel. Fighting Immigration Anarchy: American Patriots Battle to Save t
 
 [^12]: Find quote about mistaken altruists.
 
-[^13-a]: 
-"Except for Lyndon Johnson's abberational 1964 landslide, Democrats have not been able to get a majority of white people t ovote for them
+[^13-a]: "Except for Lyndon Johnson's abberational 1964 landslide, Democrats have not been able to get a majority of white people t ovote for them
 in any presidential election since 1948. Their only was to bring in new voters. *Okay, fine. You won't vote for us, America? We tried
 this the easy way, but you give us no choice. We're going to overwhelm you with new voters from the Third World.*"
 Coulter, Ann. “Adios, America! The Left’s Plan to Turn Our Country into a Third World Hellhole”. Regnery, 2016. Pg. 18
 
-[^13-b]:
- "Why would cities welcome illegal border crossers and some of their more demented counterparts? In a word -- power!
+[^13-b]: "Why would cities welcome illegal border crossers and some of their more demented counterparts? In a word -- power!
 The growing base of Hispanic persons in America can change the political landscape in cities across the nation, and our elected leaders know it."
 Ankarlo, Darrell. Illegals: The Unacceptable Cost of American’s Failure to Control Its Borders. Thomas Nelson, 2010, Pg. 216
 
