@@ -51,8 +51,7 @@ is not limited to criminals, or those near the border.
 And of course, popular restrictionist speakers make it clear that their calls for deportation extend to all unauthorized immigrants.
 
 > **Candace Owens:** "I would be very happy if we found out a way to *get them all back into their country*. Trump is actually a little more lenient. He offered them a deal, the DACA deal...
-> I'm even against that. I think if you disrespect our law you need to be sent home. Period."
-[^owens-on-deportation]
+> I'm even against that. I think if you disrespect our law you need to be sent home. Period."[^owens-on-deportation]
 
 > [Turning Point UK panel (2019) ](https://youtu.be/rsXja_tT6Bw?si=6Aawzwis0N4Ft_MC&t=2472))
 
@@ -103,6 +102,6 @@ The status quo really is God here.
 
 [^wold-on-deportation]: National Conservatism. “Theo Wold | Decolonizing America: The Necessity of Deportation | NatCon 4.” YouTube, 16 July 2024, www.youtube.com/watch?v=8y-OovtEccI. Accessed 21 Dec. 2025 (12:55)
 
-[‌^owens-on-deportation]: Triggered Newscast. “Candace Owens Immigration Debate with UK Leftists.” YouTube, 2 May 2019, www.youtube.com/watch?v=rsXja_tT6Bw. Accessed 21 Dec. 2025.(41:10)
+[^owens-on-deportation]: Triggered Newscast. “Candace Owens Immigration Debate with UK Leftists.” YouTube, 2 May 2019, www.youtube.com/watch?v=rsXja_tT6Bw. Accessed 21 Dec. 2025.(41:10)
 
 ‌
