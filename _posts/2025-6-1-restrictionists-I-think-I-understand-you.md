@@ -21,24 +21,24 @@ continue to enjoy them the way you have in the past. You see immigration limits 
 Just as you have the right to decide who comes into your private house, the citizens of a nation have a right to decide who comes into their country.[^3]
 You see this as an exercise of national sovereignty [^4]. While you recognize that it might be noble or benevolent of a nation to allow immigrants in, you don't think there's any ethical obligation to do so. 
 You see allowing immigration as a charitable act, one which greatly benefits the immigrant, but can sometimes cost the natives of a country. You may even feel proud that the United States
-has already gone above and beyond in allowing so many immigrants in[^5].
+has already gone above and beyond in allowing so many immigrants in[^5-a][^5-b].
 
 ## You don't want to completely block all immigration forever. 
-You just want to make sure that there's a right balance struck between immigrants accepted and immigrants denied. At most, you may want a brief pause or moratorium 
-on immigration, to let the current population of immigrants fully assimilate into the common American culture [^6]. You may even be open to more immigration, as long as it's legal. 
+You just want to make sure that there's a right balance struck between immigrants accepted and immigrants denied. At most, you may want a brief pause[^6-a] or moratorium[^6-b] 
+on immigration, to let the current population of immigrants fully assimilate into the common American culture. You may even be open to more immigration, as long as it's legal.[^more-legal] 
 You think that illegal immigration is an insult to those immigrants who worked their way patiently through the legal process [^4], and you think that people who came illegally, if they wanted
 to show respect for the laws of their desired homeland, would wait their turn in line, just like those who came legally[^7]. You think rule of law is important[^8], and that it would be inconscionable to simply grant amnesty to immigrants who came illegally. For you, it's imporant that they are punished in some way for their crime.
 
 ## Your desire to limit immigration has no connection to vile prejudices like racism or xenophobia.
 You would feel exactly the same way about immigration if the immigrants shared the same race or ethnicity as you. In fact
-you may already share these traits with the incoming immigrants. You see regular accusations of racism against you (or people like you), and think they are baseless distractions.
+you may already share these traits with the incoming immigrants. You see regular accusations of racism against you (or people like you), and think they are baseless distractions.[^race-accusations]
 
 Finally, I imagine that you might be frustrated at the state of immigration in our country for the past several decades[^10]. You might be confused at why the government doesn't take what seems to you to be simple steps
 to finally stop the flow of illegal immigration (like building a border wall, or punishing employers who hire illegal workers). Alternatively, you might not be confused at all about why immigration continues to be 
 such a disaster, because you understand the motivations of the powerful forces allowing all this illegal immigration. You think these forces include:
  * Large corporations who benefit from cheap immigrant labor.[^11]
  * Misled altruists who are overly concerned about immigrant well-being, to the detriment of their fellow citizens. [^12]
- * Corrupt politicians, who benefit from immigrant votes.[^13]
+ * Corrupt politicians, who benefit from immigrant votes.[^13-a][^13-b]
  * Overly idealistic globalists and utopians, who are blind to the realities of the harm caused by illegal immigration.
 ...and possibly even...[^14]
  * Antagonistic activists, who want bad things to happen to America, and use immigration as a way to inflict harm on America.[^15]
@@ -47,32 +47,75 @@ I think this is what you believe. If I'm wrong, please let me know.
 
 - InOtterWords
 
-[^1] Ankarlo, Darrell. Illegals: The Unacceptable Cost of American’s Failure to Control Its Borders. Thomas Nelson, 2010, Pg. xxiii
+[^1]: (Tom Homan on better life?)
 
-[^3] Dennis Prager fireside chat - 7:14 - A nation like a house.
+[^3]: Dennis Prager fireside chat - 7:14 - A nation like a house.
 
-[^4] Krikorian, Mark. The New Case Against Immigration, Both Legal and Illegal. [Fill in this gap]
+[^4]: Krikorian, Mark. The New Case Against Immigration, Both Legal and Illegal. [Fill in this gap]
 
-[^5] In Mortal Danger (no notes on this yet)
+[^5-a]: 
+"The United States has also continued to be the most compassionate country on the planet, offering refugee status to more people than any other nation."
+Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020.
 
-[^6] Find an example of requesting a 'pause for assimilation.'
+[^5-b]:
+"The United States *legally* takes in approximately 1.5 million immigrants annually, making us one of the most generous (read *liberal*) nations in the world
+in terms of immigration policy."
+Tancredo, Tom. In Mortal Danger: The Battle for America’s Border and Security. Cumberland House Publishing, 2006, pg. 102
+
+[^more-legal]:
+"You are a legal immigrant. The conservative movement wants millions more people like you in this country."
+[Charlie Kirk addresses a foreign student on immigration](https://www.youtube.com/watch?v=3dXLNsl-Xak)
+
+[^6-a]:
+In the chapter titled Some Solutions:
+"1. A temporary moratorium on new immigration to the U.S. for five years. Three hundred million people call this country home,
+and there should be zero doubt that from even the simplest of mathematical perspectives, we have access to persons who can
+fill available jobs from the mundane to the most complicated."
+Ankarlo, Darrell. Illegals: The Unacceptable Cost of American’s Failure to Control Its Borders. Thomas Nelson, 2010,
+
+[^6-b]:
+"The only way to stop this nonsense is to have an immigration moratorium... Just shut it down. No more family reunification, no more 
+scam marriages, no more refugees, no more phony asylum cases (which is all of them), and no more "high-tech workers" providing
+slave labor to Microsoft and concubines to Indian pedophiles."
+Coulter, Ann. “Adios, America! The Left’s Plan to Turn Our Country into a Third World Hellhole”. Regnery, 2016, pg. 255
 
 [^7] Opposing Viewpoints Lamar quote Opposing Viewpoints pg. 86
 
 [^8] Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020.
 pgs. 2, 34, 84.
 
+[^race-accusations]:
+"The illegal suffers daily, and the U.S. citizen pays for it; and when citizens try to point out the obvious, 
+the race machine goes into full throttle."
+Ankarlo, Darrell. Illegals: The Unacceptable Cost of American’s Failure to Control Its Borders. Thomas Nelson, 2010, Pg. xxiii
+
+
 [^10] (Find a quote expressing frustration.)
 
-[^11] "Why would cities welcome illegal border crossers and some of their more demented counterparts? In a word -- power!
-The growing base of Hispanic persons in America can change the political landscape in cities across the nation, and our elected leaders know it."
-Ankarlo, Darrell. Illegals: The Unacceptable Cost of American’s Failure to Control Its Borders. Thomas Nelson, 2010, Pg. 216
+
+[^11] "The Mexican activists' agenda, led in part by U.S. elected officials, sought to re-conquer the Southwestern United States for Mexico
+through uncontrolled immigration. And, mega corporations aided teh immigrant flood to achieve the globalists' goal of a new world
+order of erased borders."
+Sheehy, Daniel. Fighting Immigration Anarchy: American Patriots Battle to Save the Nation. Authorhouse. 2005, pg. 12
 
 [^12] Find quote about mistaken altruists.
 
-[^13] Coulter, Ann. “Adios, America! The Left’s Plan to Turn Our Country into a Third World Hellhole”. Regnery, 2016. Pg. 18
+[^13-a]: 
+"Except for Lyndon Johnson's abberational 1964 landslide, Democrats have not been able to get a majority of white people t ovote for them
+in any presidential election since 1948. Their only was to bring in new voters. *Okay, fine. You won't vote for us, America? We tried
+this the easy way, but you give us no choice. We're going to overwhelm you with new voters from the Third World.*"
+Coulter, Ann. “Adios, America! The Left’s Plan to Turn Our Country into a Third World Hellhole”. Regnery, 2016. Pg. 18
 
-[^14] Globalists (Minutemen)
+[^13-b]:
+ "Why would cities welcome illegal border crossers and some of their more demented counterparts? In a word -- power!
+The growing base of Hispanic persons in America can change the political landscape in cities across the nation, and our elected leaders know it."
+Ankarlo, Darrell. Illegals: The Unacceptable Cost of American’s Failure to Control Its Borders. Thomas Nelson, 2010, Pg. 216
+
+[^14] "How do the One-World Wondesr becom eneablers of America's addiction to population growth? Well, basically, they don't really believe in nations
+and national borders. They have watched too many *Star Trek* movies and think we have evolved to a point where a universal government
+should be able to take over the wmorld, if not the universe, and make all the "right" decisions for everybody... Since One-World Wonders
+don't believe in nations or borders, they don't believe in immigration laws...".
+Hartman, Edward C. The Population Fix: Breaking America’s Addiction to Population Growth. Think Population Press. 4 July, 2006.
 
 [^15] "The most shocking revelation [in my book] is not how much time and money militant "progressives" and socialists dedicate to the destruction of America. 
 What will turn your stomach and boil your blood is how much of *your own money* is being used to rob you, your children, and grand-children of the 
