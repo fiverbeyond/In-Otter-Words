@@ -46,15 +46,13 @@ The National Conservatism conference is clear voice for restrictionist ideas, an
 is not limited to criminals, or those near the border.
 
 > **Theo Wold:** "If you encounter the federal government directly, and you are present here illegally, you will be sent home. Period. No 'got-aways',
-> not at the border, but also not in the interior of the country."
->
-> [National Conservatism conference "Decolonizing America: The Necessity of Deportation"](Decolonizing America: The Necessity of Deportation)
+> not at the border, but also not in the interior of the country."[^wold-on-deportation]
 
 And of course, popular restrictionist speakers make it clear that their calls for deportation extend to all unauthorized immigrants.
 
 > **Candace Owens:** "I would be very happy if we found out a way to *get them all back into their country*. Trump is actually a little more lenient. He offered them a deal, the DACA deal...
-> I'm even against that. I think if you disrespect our law you need to be sent home. Period."
->
+> I'm even against that. I think if you disrespect our law you need to be sent home. Period."[^owens-on-deportation]
+
 > [Turning Point UK panel (2019) ](https://youtu.be/rsXja_tT6Bw?si=6Aawzwis0N4Ft_MC&t=2472))
 
 But there is a different group of restrictionists; a group that deals more closely with actual policy. 
@@ -74,7 +72,7 @@ then we've always done "mass deportation".
 It turns out, Mark Krikorian, Executive Directory for the Center for Immigration Studies agrees!
 
 > **Mark Krikorian:** "What does 'mass deportation' actually mean? And is it really going to be all that different from what happened in previous administrations?... mass
-> deportation as it's being described by the incoming Border Czar Tom Homan really isn't an outlier. It's what we've had the past four years which is an outlier."
+> deportation as it's being described by the incoming Border Czar Tom Homan really isn't an outlier. It's what we've had the past four years which is an outlier."[^krikorian-on-mass-deportation]
 
 Now, that's certainly a new take! Apparently by 'mass deportation', we just mean the same rates of deportation that we've had for most of the past few decades.
 It's hard to square this with the idea of a dramatic increase in deportations, enough to forcibly remove all (or nearly all) of the unauthorized immigrants in the U.S.
@@ -99,3 +97,11 @@ This isn't a slight distinction; it's a dramatic and ethically fraught gap. It's
 
 The status quo really is God here. 
 
+[^krikorian-on-mass-deportation]: Center for Immigration Studies. “Podcast Episode 182: Mass Deportation - What Would It Take?” YouTube, 6 Dec. 2024, www.youtube.com/watch?v=8nnt7u75vdo. Accessed 17 Nov. 2025.
+(10:30)
+
+[^wold-on-deportation]: National Conservatism. “Theo Wold | Decolonizing America: The Necessity of Deportation | NatCon 4.” YouTube, 16 July 2024, www.youtube.com/watch?v=8y-OovtEccI. Accessed 21 Dec. 2025 (12:55)
+
+[‌^owens-on-deportation]: Triggered Newscast. “Candace Owens Immigration Debate with UK Leftists.” YouTube, 2 May 2019, www.youtube.com/watch?v=rsXja_tT6Bw. Accessed 21 Dec. 2025.(41:10)
+
+‌
