@@ -19,6 +19,8 @@ nations can be vital in fighting for human rights. [Cite The Problem From Hell].
 
 When Kilmar Abrego Garcia was thrown into CECOT, Senator Chris Van Hollen could have simply released a statement of vague sympathy. He could have deferred to the courts, or written a strongly worded letter, or distracted voters from the whole issue.
 
+"It is absolutely unjust and illegal to have this Marylander detained one more day in a notorious prison in El Salvador."[^chris-van-hollen-its-unjust]
+
 Instead, he took the time, resources, and effort to arrange a face-to-face visit with Kilmar [Cite the visit]. Such a simple request, merely to meet face to face with a prisoner... and yet it evidently caused a scramble. The CECOT torture camp was publicly hailed as a place where no one would ever be allowed to leavve [cite this quote], but shortly before [check this] the Senator's visit, Kilmar did just that. Before the meeting, he was transferred to a different prison with more humane conditians, and eventually, he returned to the United States, making a proud open mockery of Kristi Noem's claims that he would never return). President (whatshisname's) attempt to make the visit look luxurious (by staging margaritas in the photo) backfired beautifully when the Senator took the time to publicly point out the staging [cite this].
 
 It's not often that I need to begrudgingly admire the actions of a U.S. Senator, but Van Hollen's boldness made me hope that, should I be whisked away without due process, my Senator might have the guts to stand up for me.
@@ -44,9 +46,13 @@ Rather than passively see his son's name used as an anti-immigration talking poi
 
    Finally, a different kind of hero, to balance out the first two examples. Unlike the first two examples, Mr. Reichlin-Melnik did not have a 'moment' when the public spotlight fell on him during a 'hot' controversy, nor did he have a risky, brave action that caught people's attention. Mr. Reichlin-Melnik is a Senior Fellow at the American Immigration Council,
 and I think he's a hero because of what he does in his day-to-day job.
+
+"Undocumented immigrants are also more than their jobs. They are parents, spouses, partners, brothers and sisters, grandparents and grandchildren, loved ones and friends to millions of U.S. citizens and permanent residents."[^reichlin-melnik-spouses]
+
     Besides testifying in front of congress. His social media advocacy really is meant to educate and illucidate, rather than anger or radicalize.
    The truth is that I put Mr. Reichlin-Melnik on this list because he is a similar age to me, but has made the right decisions in his life to be an imporant active part in the struggle for immigrant rights.
 
-
+[^chris-van-hollen-its-unjust]: 0:34 [Senator Chris Van Hollen announces his plan to visit El Salvador](https://www.youtube.com/shorts/thFt_J431co)
 [^nathan-clark-sixty-year]: (0:20) [Nathan Clark's Statement before the Springfield, Ohio city council](https://youtu.be/DbV6B76LwR8?si=Qd81mFd6wpTr3XYx&t=20)
 [^nathan-clark-apologies]: (1:40) [Nathan Clark's Statement before the Springfield, Ohio city council](https://youtu.be/DbV6B76LwR8?si=G2qsN8Yrof9pmJWP&t=99)
+[^reichlin-melnik-spouses]: (1:25) [Aaron Reichlin-Melnik's testimony before the Senate Judiciary Committee](https://www.youtube.com/watch?v=gs2vUMAvCb8)
