@@ -64,7 +64,9 @@ pgs. 2, 34, 84.
 
 [^10] (Find a quote expressing frustration.)
 
-[^11] Find Michelle Malkin quote blaming large corporations.
+[^11] "Why would cities welcome illegal border crossers and some of their more demented counterparts? In a word -- power!
+The growing base of Hispanic persons in America can change the political landscape in cities across the nation, and our elected leaders know it."
+Ankarlo, Darrell. Illegals: The Unacceptable Cost of American’s Failure to Control Its Borders. Thomas Nelson, 2010, Pg. 216
 
 [^12] Find quote about mistaken altruists.
 
@@ -72,7 +74,10 @@ pgs. 2, 34, 84.
 
 [^14] Globalists (Minutemen)
 
-[^15] Evil saboteurs.
+[^15] "The most shocking revelation [in my book] is not how much time and money militant "progressives" and socialists dedicate to the destruction of America. 
+What will turn your stomach and boil your blood is how much of *your own money* is being used to rob you, your children, and grand-children of the 
+blessings of liberty."
+Malkin, Michelle. Open Borders Inc. Simon and Schuster, 10 Sept. 2019, pg. xxviii
 
 
 
