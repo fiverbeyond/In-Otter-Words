@@ -51,7 +51,7 @@ is not limited to criminals, or those near the border.
 And of course, popular restrictionist speakers make it clear that their calls for deportation extend to all unauthorized immigrants.
 
 > **Candace Owens:** "I would be very happy if we found out a way to *get them all back into their country*. Trump is actually a little more lenient. He offered them a deal, the DACA deal...
-> I'm even against that. I think if you disrespect our law you need to be sent home. Period."[^owens-on-deportation]
+> I'm even against that. I think if you disrespect our law you need to be sent home. Period." [^owens-on-deportation]
 
 > [Turning Point UK panel (2019) ](https://youtu.be/rsXja_tT6Bw?si=6Aawzwis0N4Ft_MC&t=2472))
 
