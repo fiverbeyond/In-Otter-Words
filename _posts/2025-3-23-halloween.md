@@ -33,7 +33,7 @@ make a connection to illegal immigration, but don't worry, Mr. Buttazonni makes 
 Restrictionist and nativist talking points have always relied on some popular, but questionable metaphors, from "A nation is like a house" to "Our lifeboat is about to capsize", and even "Get in line!" When responding to these metaphors, I like to follow my personal strategy for dissolving an analogy [cite my smaller blog post here].
 
 #### 1. Clarify the analogy.
-#### 2. Point out the relevant distinction (or distinctions) that make the analogy a bad fit.
+#### 2. Point out the relevant distinctions.
 #### 3. Prove the relevance of the distinctions by saying that if they were resolved, I would agree with the analogy.
 
 So, let's apply thes steps to Aldo's comparison.
@@ -73,13 +73,13 @@ I see many meaningful differences between the situation Aldo describes, and what
 
 Aldo Buttazonni may object to state and local governments including unauthorized immigrants
 as intended recipients, but that doesn't mean it never happens. To fit the analogy, this would be like a homeowner
-putting candy out, but explicitly allowing all children in the neighborhood to take a piece (not just the children who, say, paid
-for the candy in taxes.)
+putting candy out, but explicitly allowing all children in the neighborhood to take a piece (not just the children who, say, were 
+born in the neighborhood).
 
 #### 2. The parents in the video are taking many times more than is allowed to each child,
 ##### but immigrants don't 'take' many times the amount of social services that citizens do.
 
-In fact, they use social services at lower rates than U.S. citizens.
+In fact, they use social services at lower rates than U.S. citizens.[^immigrant-social]
 
 #### 3. The parents in the video are leaving nothing behind for future trick-or-treaters.
 
