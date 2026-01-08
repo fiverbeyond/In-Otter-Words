@@ -21,7 +21,7 @@ When Kilmar Abrego Garcia was thrown into CECOT, Senator Chris Van Hollen could 
 
 "It is absolutely unjust and illegal to have this Marylander detained one more day in a notorious prison in El Salvador."[^chris-van-hollen-its-unjust]
 
-Instead, he took the time, resources, and effort to arrange a face-to-face visit with Kilmar [Cite the visit]. Such a simple request, merely to meet face to face with a prisoner... and yet it evidently caused a scramble. The CECOT torture camp was publicly hailed as a place where no one would ever be allowed to leavve [cite this quote], but shortly before [check this] the Senator's visit, Kilmar did just that. Before the meeting, he was transferred to a different prison with more humane conditians, and eventually, he returned to the United States, making a proud open mockery of Kristi Noem's claims that he would never return). President (whatshisname's) attempt to make the visit look luxurious (by staging margaritas in the photo) backfired beautifully when the Senator took the time to publicly point out the staging [cite this].
+Instead, he took the time, resources, and effort to arrange a face-to-face visit with Kilmar [Cite the visit]. Such a simple request, merely to meet face to face with a prisoner... and yet it evidently caused a scramble. The CECOT torture camp was publicly hailed as a place where no one would ever be allowed to leave [cite this quote], but shortly before [check this] the Senator's visit, Kilmar did just that. Before the meeting, he was transferred to a different prison with more humane conditians, and eventually, he returned to the United States, making a proud open mockery of Kristi Noem's claims that he would "never return"[^never-return]). President Bukele's attempt to make the visit look luxurious (by staging margaritas in the photo) backfired beautifully when the Senator took the time to publicly point out the staging [cite this].
 
 It's not often that I need to begrudgingly admire the actions of a U.S. Senator, but Van Hollen's boldness made me hope that, should I be whisked away without due process, my Senator might have the guts to stand up for me.
 
@@ -29,7 +29,7 @@ It's not often that I need to begrudgingly admire the actions of a U.S. Senator,
 
   Anyone who has watched much restrictionist advocacy is familiar with "angel moms". These are the mothers of U.S. citizens who were killed by immigrants (sometimes through murder, but more often via accidents). Restrictionist organizations are fairly adept at gathering these stories, connecting angel mothers together, and giving them platforms to express their grief over the loss of their child, and to transmute that grief into anger against all unauthorized immigrants.
 
-  The use of angel moms in this way is too deep a topic to touch on now, except to say that I don't blame these mothers at all. I haven't personally lost a child, and I can't imagine the long, sustained grief that must come from losing any loved one in such a violent way as a car crash. It's only human to look for some way to give meaning to your child's passing.
+  The use of "angel moms" in this way is too deep a topic to touch on now, except to say that I don't blame these mothers at all. I haven't personally lost a child, and I can't imagine the long, sustained grief that must come from losing any loved one in such a violent way as a car crash. It's only human to look for some way to give meaning to your child's passing.
 
   That's why I was so surprised and inspired by the actions of Nathan Clark, the father of Aiden Clark. Aiden was tragically killed in the 2023 Clark County School bus crash. The immigrant driver who caused the crash had no license, and in court proceedings was found to be clearly at fault for the accident. In such a horrific  time of mourning, I would hope that any father would at least be left alone. I certainly wouldn't blame any father for refusing to comment.
 
@@ -56,3 +56,7 @@ and I think he's a hero because of what he does in his day-to-day job.
 [^nathan-clark-sixty-year]: (0:20) [Nathan Clark's Statement before the Springfield, Ohio city council](https://youtu.be/DbV6B76LwR8?si=Qd81mFd6wpTr3XYx&t=20)
 [^nathan-clark-apologies]: (1:40) [Nathan Clark's Statement before the Springfield, Ohio city council](https://youtu.be/DbV6B76LwR8?si=G2qsN8Yrof9pmJWP&t=99)
 [^reichlin-melnik-spouses]: (1:25) [Aaron Reichlin-Melnik's testimony before the Senate Judiciary Committee](https://www.youtube.com/watch?v=gs2vUMAvCb8)
+
+[^never-return]: [Kristi Noem says that Kilmar Abrego Garcia will 'never return'](https://dc.medill.northwestern.edu/blog/2025/05/13/noem-says-abrego-garcia-will-never-return-as-democrats-grill-dhs-secretary-at-budget-hearing/#sthash.UfGKtUik.dpbs)
+
+
