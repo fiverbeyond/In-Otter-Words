@@ -18,7 +18,7 @@ Let's hear the arguments for the side of "alien".
 
 
 Restrictionist voices seem very consistent here. In a united voice, I think they clearly make three claims about their usage of 'alien'.
-1) 'Alien' is preferred over 'immigrant' because between the two terms, 'alien' is the one used in Federal law.
+1) 'Alien' is preferred over 'immigrant' because between the two terms, 'alien' is the one used in Federal law.[^alien-definition]
 2) When discussing policy, we should generally use the same legal terms as are used in Federal law.
 3) There's nothing perjorative about using 'alien'.
 
@@ -26,36 +26,30 @@ Let's examine these claims one by one.
 
 ## Claim #1: 'Alien' is the only correct legal term used in Federal law.
 
-This is simply false. The same section of the U.S. legal code that defines "alien" also defines "immigrant", and uses the term "immigrant" several times. [Citation] "Immigrant" is actually
-the more specific term; in law, all immigrants are aliens, but not all aliens are immigrants. This is different from how these terms are used in common parlance, where
-a naturalized citizen would still be recognized as an "immigrant" by most people.
-
-[Cite the statute - "Alien"]
-[Cite the statute - "Immigrant"]
+This is simply false. The same section of the U.S. legal code that defines "alien" also defines "immigrant"[^definition-of-immigrant], and uses the term "immigrant" several times. "Immigrant" is actually
+the more specific term; in law, all immigrants are aliens, but not all aliens are immigrants. This is different from how these terms are used in common parlance, where a naturalized citizen would still be recognized as an "immigrant" by most people.
 
 # Claim 2: We should only use official legal terms when discussing public policy.
 
 This sounds like an appeal to clarity and exactness, but it falls apart when you think about it for a bit. Legalese is obviously necessary and important when writing court documents, but only pedants would push for its use in all 
 policy discussions. Restrictionists certainly don't confine themselves to legal terms when talking about immigration.
 
-But let me be quick to agree with restrictionists where I can: there are certain times when restrictionists are not talking about immigrants per se, but rather foreigners in general. For example, many smugglers who operate on the border between Mexico and the United States aren't "immigrants" under the dictionary definition, because they don't intend to settle permanently in the United States. In these cases, saying "alien" is more technically correct than "immigrant", although I woul9d also point out that "foreign national" would do just as well.
+But let me be quick to agree with restrictionists where I can: there are certain times when restrictionists are not talking about immigrants per se, but rather foreigners in general. For example, many smugglers who operate on the border between Mexico and the United States aren't "immigrants" under the dictionary definition, because they don't intend to settle permanently in the United States. In these cases, saying "alien" is more technically correct than "immigrant", although I should point out that "foreign national" would do just as well.
 
 # Claim #3: There's nothing perjorative about the word "alien". 
 
-This claim is easily disproven by observing restrictionists' own behaviour. Overwhelmingly, restrictionist speakers show a clear double-standard when it comes to their use of the word "alien". They appeal to legal exactness to justify their use of the word toward unauthorized immigrants, but they instantly abandon this standard when it comes to foreigners who they personally approve of. News sources with a restrictionist bent will use "immigrant" when talking to guests who entered the country legally, for example [^fox-uses-immigrant]. I have never yet, in text, video, or conversation, heard a restrictionist refer to their own immigrant ancestors as "aliens".
+This claim is easily disproven by observing restrictionists' own behaviour. Overwhelmingly, restrictionist speakers show a clear double-standard when it comes to their use of the word "alien". They appeal to legal exactness to justify their use of the word toward unauthorized immigrants, but they instantly abandon this standard when it comes to foreigners who they personally approve of. News sources with a restrictionist bent will typically use "immigrant" when talking to guests who entered the country legally [^fox-uses-immigrant]. I have never yet, in text, video, or conversation, heard a restrictionist refer to their own immigrant ancestors as "aliens", but they do use "immigrant"[cite-politically-incorrect].
 
-Once you keep an ear open for it, it's impossible to miss the double-standard. Kris Kobach, who earlier was so keen on legally corrct terms, would instantly switch from "alien" to "foreign nationals", depending on whether the immigrant came legally [^kobach-switches]. Charlie Kirk switched to "immigrant" when he addressed an audience member with a valid visa [^kirk-uses-immigrant].
-
-[Charlie Kirk] - What's especially fascinating about this example is that the student, since she was present on an F-type visa, *was not even an immigrant*, neither by [cite the statute], nor by the dictionary definition. It should come as no surprise that Mr. Kirk didn't use "alien" to refer to her... because "alien" is an impolite, perjorative term (and Mr. Kirk evidently understands this).
+Once you keep an ear open for it, it's impossible to miss the switch. Kris Kobach, who earlier was so keen on legally corrct terms, would instantly switch from "alien" to "foreign nationals", depending on whether the immigrant came legally [^kobach-switches]. Charlie Kirk switched to "immigrant" when he addressed an audience member with a valid visa [^kirk-uses-immigrant]. What's especially fascinating about this example is that the student, since she was present on an F-type visa, *was not even an immigrant*, neither by [cite the statute], nor by the dictionary definition. It should come as no surprise that Mr. Kirk didn't use "alien" to refer to her... because "alien" is an impolite, perjorative term (and Mr. Kirk evidently understood this).
 
 
 That's not to say there aren't half-hearted attempts at consistency here and there. Restrictionist lobbying organizations (like the Center for Immigration Studies or 
-F.A.I.R.) do sometimes make a point to use the term "alien" when talking about legal residents or other foreigners, and I give them credit for standing by this standard
-to at least some degree. But even these sources show a clear bias. If you do a search for the terms "legal immigrant" or "legal alien" on their respective websites, you can see an overwhelming tendency to use "alien" when talking about unauthorized immmigrants, but switch to "immigrant" when talking about any other foreigner.
+F.A.I.R.) do sometimes make a point to use the term "alien" when talking about documented residents or other foreigners, and I give them credit for standing by this standard
+to at least some degree. But even these sources show a clear bias. If you do a search for the terms "legal immigrant" or "legal alien" on their respective websites, you can see an overwhelming tendency to use "alien" when talking about unauthorized immmigrants, but switch to "immigrant" when talking about any other foreigner. [Show these tables]
 
 # Conclusion
 
-The double-standard applied by restrictionists is evidence enough: in casual speech, 'alien' is an othering, derogatory term, and restrictionists know it. Their claim that they use this term out of sense of legal exactness isn't just childishly pedantic, it's outright false; it conveniently ignores the definition of 
+The double-standard applied by restrictionists is evidence enough: in casual speech, 'alien' is an othering, derogatory term, and restrictionists know it. Their claim that they use this term out of sense of legal exactness isn't just childishly pedantic, it's outright false; it conveniently ignores the USC definition of 
 "immigrant", and they fail to follow their supposed standard when they talk about foreigners they approve of.
 
 
@@ -70,4 +64,9 @@ The double-standard applied by restrictionists is evidence enough: in casual spe
 [^kobach-switches]: https://www.youtube.com/watch?v=hfhNGaVh7UY, Mr. Koblach uses "Alien" at 3:00, 3:25, 3:45, 4:00, 4:05, 
 
 [^kirk-uses-immigrant]: https://www.youtube.com/watch?v=3dXLNsl-Xak, 2:38
+
+[^alien-definition]: 'Alien' is defined in [8 USC 1101 -  3](https://uscode.house.gov/view.xhtml?req=(title:8%20section:1101%20edition:prelim))
+
+[^definition-of-immigrant]: 'Immigrant' is defined in [8 USC 1101 - 15](https://uscode.house.gov/view.xhtml?req=(title:8%20section:1101%20edition:prelim))
+
 
