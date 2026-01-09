@@ -79,13 +79,18 @@ born in the neighborhood).
 #### 2. The parents in the video are taking many times more than is allowed to each child,
 ##### but immigrants don't 'take' many times the amount of social services that citizens do.
 
-In fact, they use social services at lower rates than U.S. citizens.[^immigrant-social]
+Immigrants on average use fewer benefits than U.S. citizens [^immigrant-social]. Although I personally haven't seen any
+study that specifically looks at the services used by unauthorized immigrants, it is almost certain that they likewise
+use services at lower rates than U.S. citizens (since they are barred from many more services than
+even authorized immigrants are). It's childishly silly to pretend that the average authorized immigrant is
+ consuming four or five times as much in services as the average citizen, but that's what Mr. Buttazoni's metaphor demands.
 
 #### 3. The parents in the video are leaving nothing behind for future trick-or-treaters.
 
 ...but unauthorized immigrants aren't leaving social services 'empty' for citizens. Despite what restrictionists say,
 for the vast majority of social services, providing the service to unauthorized immigrants does not mean citizens go without.
-
+From time to time, I ask restrictionists for examples of state-funded programs that offer some kind of service to unauthorized immigrants
+which is barred to citizens.
 
 #### 4. Adults have more agency than children, but unauthorized immigrants do not have more agency than native citizenns.
 
@@ -99,7 +104,7 @@ First, let's imagine that we lived in a nation where all benefits were explicitl
 In this case, immigrants who took these resources would be stealing.
 Next, let's add the second difference, where immigrants generally took many times the amount of public support that U.S. citizens do. For example, let's imagine that
 unauthorized immigrants typically took five or ten times the number of public resources as your average citizen (just as the adults in Aldo's video do).
-Now the third difference: let us imagine that most of these public resources were measurable finite, and that, once 'raided' by unauthorized immigrants, the public 
+Now the third difference: let us imagine that most of these public resources were measurably finite, and that, once 'raided' by unauthorized immigrants, the public 
 resources were then gone, leaving many citizens without any access at all. For example, we would need to imagine that, once immigrants had taken their five-fold share of
 food stamps, many deserving native-born U.S. citizens must explicitly do without (and we would need to say that the same would be true for medical care, education costs, etc).
 And finally, the fourth difference: let us imagine that unauthorized immigrants are, on the whole, much more mature and morally responsible than U.S. citizens (who are like children
@@ -129,3 +134,8 @@ When you adjust the analogy to fit reality, the moral objection goes away. That 
 Here's hoping that, with a little reconsideration, he might find his objections are addressed.
 
 [^good_analogy]:Buttazzoni, Aldo, director. This Parent Is NOT a Role Model. Youtube, 3 Nov. 2023,  Aldo Buttazzoni. (add timestamps)
+
+[^immigrant-social]: ["Immigrants and Public Benefits: What Does the Research Say?"](file:///Users/evanwitt/Downloads/Immigrants-and-Public-Benefits-What-Does-the-Research-Say.pdf) by the Bipartisan Policy Center, has an excellent overview of the research on this topic.
+The section entitled "Do Immigrants Use Public Benefits More Than Other Groups" addresses the comparison directly,
+including a brief discussion of the restrictionist habit of widenning the metric to include the native born
+U.S. citizen children of these immigrants.
