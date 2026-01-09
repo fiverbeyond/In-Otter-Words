@@ -106,7 +106,7 @@ The status quo really is God here.
 
 [^kristi-noem]:“DHS Announces Ad Campaign Warning Illegal Aliens to Self-Deport and Stay out | Homeland Security.” [U.S. Department of Homeland Security](https://www.dhs.gov/news/2025/02/17/dhs-announces-ad-campaign-warning-illegal-aliens-self-deport-and-stay-out), 2024, www.dhs.gov/news/2025/02/17/dhs-announces-ad-campaign-warning-illegal-aliens-self-deport-and-stay-out.
 
-[^homan-on-the-table]: [ABC News.](https://www.youtube.com/watch?v=hF7X1UHwE04) ““If You’re in the Country Illegally, You’re on the Table”: Trump “Border Czar” Tom Homan.” YouTube, 26 Jan. 2025, www.youtube.com/watch?v=hF7X1UHwE04. Accessed 9 Jan. 2026.
+[^homan-on-the-table]: [ABC News.](https://www.youtube.com/watch?v=hF7X1UHwE04) ““If You’re in the Country Illegally, You’re on the Table”: Trump “Border Czar” Tom Homan.” YouTube, 26 Jan. 2025, www.youtube.com/watch?v=hF7X1UHwE04. Accessed 9 Jan. 2026. (1:25)
 
 ‌‌
 
