@@ -15,32 +15,26 @@ of immigration policy the way his Border Czar
 
 > **Interviewer:** “Is it your plan to deport *everyone who is here illegally* over the next four years?” (emphasis added)
 >
-> **Trump:** "Well, I think you have to do it. And it's a very tough thing to do."
-> 
->           -- [Cite this correctly]
+> **Trump:** "Well, I think you have to do it. And it's a very tough thing to do."[^deport-everyone]
 
 This sentiment seems pretty strongly backed up by this official statement from the White House press secretary Karoline Leavitt:
 
 > **Ms. Leavitt:** The president has said countless times on the campaign trail — I’ve been with him at the rallies; I know you’ve been there covering them too, Peter — that he is focused on launching the largest
 > mass deportation operation in American history of illegal criminals. 
 > And if you are an individual, a foreign national, who illegally enters the United States of America, you are, by definition, a criminal.
->
-> [Press Briefing, January 29th, 2025](https://www.whitehouse.gov/briefings-statements/2025/01/press-briefing-by-press-secretary-karoline-leavitt/)
+[^Karoline-leavitt]
 
 There is a little wiggle-room in this statement, as only about half of unauthorized immigrants entered the country illegally (the other half overstayed their visas).
 
 And of course, there's the statement from Secretary of Homeland Security, Kristi Noem.
 
 > **Kristi Noem:** If you try to enter illegally, you will be caught, you will be removed, and you will never return.
->
-> [DHS 
-
+[^kristi-noem]
 
 > **Tyler Oneill:** "If you want to have - and I think we're talking as the... second Trump administration is ramping up - if you want to have *a massive
 > deportation of all these illegal aliens*, which I think just, you know, I think it's legal, it's going to be interesting to see how the left fights back
 > as Trump tries to pull this out.
->
->   [CIS Podcast 181: Inside the Administrative State](https://youtube/hV42AHKM7Wk?si=WvRG-w3sipsz1rnT&t=764) (12:44) (emphasis added)
+[^cis-podcast-181]
 
 The National Conservatism conference is clear voice for restrictionist ideas, and their recent speaker made clear that deportation
 is not limited to criminals, or those near the border.
@@ -53,17 +47,17 @@ And of course, popular restrictionist speakers make it clear that their calls fo
 > **Candace Owens:** "I would be very happy if we found out a way to *get them all back into their country*. Trump is actually a little more lenient. He offered them a deal, the DACA deal...
 > I'm even against that. I think if you disrespect our law you need to be sent home. Period."[^owens-on-deportation]
 
-> [Turning Point UK panel (2019) ](https://youtu.be/rsXja_tT6Bw?si=6Aawzwis0N4Ft_MC&t=2472))
 
 But there is a different group of restrictionists; a group that deals more closely with actual policy. 
 
 # By "mass deportation", restrictionists mean that only a very small fraction of unauthorized immigrants will be deported.
 
 I think most people who think about the threat of mass deportation realize that it's a political impossibility, but my first inkling that this 
-was understood by restrictionists in power came from Tom Homan.
+was understood by restrictionists in power came from Tom Homan, the White House 'Border Czar'.
 
-> **Interviewer:** So after you [deport criminals], then you go after everybody who is there illegally.
+> **Interviewer:** So after you deport criminals, then you go after everybody who is there illegally.
 > **Tom Homan:** If you're in the country illegally, you're on the table.
+[^homan-on-the-table]
 
 Oh. Just... 'on the table'? But... this is the same standard that U.S. governmental policy has followed for the past half a century:
 keep deportation as an *option* for all unauthorized immigrants, but leave most of them alone. If this is what "mass deportation" means,
@@ -97,6 +91,12 @@ This isn't a slight distinction; it's a dramatic and ethically fraught gap. It's
 
 The status quo really is God here. 
 
+[^cis-podcast-181]:CIS Podcast 181: Inside the Administrative State](https://youtube/hV42AHKM7Wk?si=WvRG-w3sipsz1rnT&t=764) (12:44) (emphasis added)
+
+[^deport-everyone‌]: President Trump, speaking on mass deportations [in an NBC6 interview](https://www.youtube.com/shorts/i1M5N3MO61g).
+
+[^Karoline-leavitt]:[Press Briefing, January 29th, 2025](https://www.whitehouse.gov/briefings-statements/2025/01/press-briefing-by-press-secretary-karoline-leavitt/)
+
 [^krikorian-on-mass-deportation]: Center for Immigration Studies. “Podcast Episode 182: Mass Deportation - What Would It Take?” YouTube, 6 Dec. 2024, www.youtube.com/watch?v=8nnt7u75vdo. Accessed 17 Nov. 2025.
 (10:30)
 
@@ -104,4 +104,9 @@ The status quo really is God here.
 
 [^owens-on-deportation]: Triggered Newscast. “Candace Owens Immigration Debate with UK Leftists.” YouTube, 2 May 2019, www.youtube.com/watch?v=rsXja_tT6Bw. Accessed 21 Dec. 2025.(41:10)
 
-‌
+[^kristi-noem]:“DHS Announces Ad Campaign Warning Illegal Aliens to Self-Deport and Stay out | Homeland Security.” [U.S. Department of Homeland Security](https://www.dhs.gov/news/2025/02/17/dhs-announces-ad-campaign-warning-illegal-aliens-self-deport-and-stay-out), 2024, www.dhs.gov/news/2025/02/17/dhs-announces-ad-campaign-warning-illegal-aliens-self-deport-and-stay-out.
+
+[^homan-on-the-table]: [ABC News.](https://www.youtube.com/watch?v=hF7X1UHwE04) ““If You’re in the Country Illegally, You’re on the Table”: Trump “Border Czar” Tom Homan.” YouTube, 26 Jan. 2025, www.youtube.com/watch?v=hF7X1UHwE04. Accessed 9 Jan. 2026.
+
+‌‌
+
