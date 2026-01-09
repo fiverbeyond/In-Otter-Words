@@ -14,14 +14,14 @@ Naming heroes is a risk business; one has to fully expect that
 
 ## Senator Chris Van Hollen
 
-In "the problem from Hell", Samantha Powers does an admirable job of detailing how seemingly banal visits to foreign
-nations can be vital in fighting for human rights. [Cite The Problem From Hell]. I'm also reminded of the imprisonment of Alexei Navalny, when the Kremlin had to regularly refuse reporters requests to visit Navalny in prison.  Let me say up front that I don't think ICE's actions are on par with those of the genocidal Khmer Rouge. My point is just that, when tortuous incarceration is used to 'disappear' people forever, even a mere visit can be a threat to the powers that be.
+In her book "A Problem from Hell", Samantha Powers does an admirable job of detailing how seemingly banal visits to foreign
+nations can be vital in fighting for human rights. I'm also reminded of the imprisonment of Alexei Navalny, when the Kremlin had to regularly refuse reporters requests to visit Navalny in prison.  Let me say up front that I don't think ICE's actions are on par with those of the genocidal Khmer Rouge. My point is just that, when tortuous incarceration is used to 'disappear' people forever, even a mere visit can be a threat to the powers that be.
 
 When Kilmar Abrego Garcia was thrown into CECOT, Senator Chris Van Hollen could have simply released a statement of vague sympathy. He could have deferred to the courts, or written a strongly worded letter, or distracted voters from the whole issue.
 
 "It is absolutely unjust and illegal to have this Marylander detained one more day in a notorious prison in El Salvador."[^chris-van-hollen-its-unjust]
 
-Instead, he took the time, resources, and effort to arrange a face-to-face visit with Kilmar [Cite the visit]. Such a simple request, merely to meet face to face with a prisoner... and yet it evidently caused a scramble. The CECOT torture camp was publicly hailed as a place where no one would ever be allowed to leave [cite this quote], but shortly before [check this] the Senator's visit, Kilmar did just that. Before the meeting, he was transferred to a different prison with more humane conditians, and eventually, he returned to the United States, making a proud open mockery of Kristi Noem's claims that he would "never return"[^never-return]). President Bukele's attempt to make the visit look luxurious (by staging margaritas in the photo) backfired beautifully when the Senator took the time to publicly point out the staging [cite this].
+Instead, he took the time, resources, and effort to arrange a face-to-face visit with Kilmar. Such a simple request, merely to meet face to face with a prisoner... and yet it evidently caused a scramble. The CECOT torture camp was publicly hailed as a place where no one would ever be allowed to leave [^el-salvador-never-leave], but shortly before the Senator's visit, Kilmar did just that. Before the meeting, he was transferred to a different prison with more humane conditians, and eventually, he returned to the United States, making a proud open mockery of Kristi Noem's claims that he would "never return"[^never-return]). President Bukele's social media posts that were meant to make the visit look luxurious (by staging margaritas in the photo) backfired beautifully when the Senator took the time to publicly point out the staging [^chris-van-hollen-staging].
 
 It's not often that I need to begrudgingly admire the actions of a U.S. Senator, but Van Hollen's boldness made me hope that, should I be whisked away without due process, my Senator might have the guts to stand up for me.
 
@@ -49,14 +49,22 @@ and I think he's a hero because of what he does in his day-to-day job.
 
 "Undocumented immigrants are also more than their jobs. They are parents, spouses, partners, brothers and sisters, grandparents and grandchildren, loved ones and friends to millions of U.S. citizens and permanent residents."[^reichlin-melnik-spouses]
 
-    Besides testifying in front of congress. His social media advocacy really is meant to educate and illucidate, rather than anger or radicalize.
-   The truth is that I put Mr. Reichlin-Melnik on this list because he is a similar age to me, but has made the right decisions in his life to be an imporant active part in the struggle for immigrant rights.
+Besides testifying in front of congress. His social media advocacy really is meant to educate and illucidate, rather than anger or radicalize. Most of all, Mr. Reichlin-Melnik stands out amongst immigration advocates
+for a golden trait: his optimism. In a world where immigration reform can feel deadlocked, he manages to see the paths forward that are invisible to the casual social-media viewer.
+
+"If Trump actually does convince people that the border is under control... then that will take some of the pressure off of those who repeatedly said 'I won't do anything on legal immigration and the undocumented population
+until we fix the border.' And there is some bipartisan support right now for some answers."[reichlin-melnik-compromise]
+
+The simple  truth is that I put Mr. Reichlin-Melnik on this list because he is a similar age to me, but has made the right decisions in his life to be an imporant active part in the struggle for immigrant rights.
 
 [^chris-van-hollen-its-unjust]: 0:34 [Senator Chris Van Hollen announces his plan to visit El Salvador](https://www.youtube.com/shorts/thFt_J431co)
+[^chris-van-hollen-staging]: 10:13 Senator Chris Van Hollen describes the [staged photos of the meeting](https://youtu.be/7eUDd3ULykY?si=Aqyq5jmo2eGKMiWz&t=613) between himself and Kilmar Abrego Garcia.
 [^nathan-clark-sixty-year]: (0:20) [Nathan Clark's Statement before the Springfield, Ohio city council](https://youtu.be/DbV6B76LwR8?si=Qd81mFd6wpTr3XYx&t=20)
 [^nathan-clark-apologies]: (1:40) [Nathan Clark's Statement before the Springfield, Ohio city council](https://youtu.be/DbV6B76LwR8?si=G2qsN8Yrof9pmJWP&t=99)
 [^reichlin-melnik-spouses]: (1:25) [Aaron Reichlin-Melnik's testimony before the Senate Judiciary Committee](https://www.youtube.com/watch?v=gs2vUMAvCb8)
-
+[reichlin-melnik-compromise]: (1:26:42)  [Mr. Reichlin-Melnik describes possible progress on immigration, even in a Trump presidency.](https://youtu.be/p0sLfcOj-e4?si=TtGjtIGpoizlTLCz&t=5202)
+[^el-salvador-never-leave]: The Human Right's Watch project offers a [horrifyingly detailed depiction](https://www.hrw.org/news/2025/03/20/human-rights-watch-declaration-prison-conditions-el-salvador-jgg-v-trump-case)
+of El Salvadoran's use of the CECOT prison.
 [^never-return]: [Kristi Noem says that Kilmar Abrego Garcia will 'never return'](https://dc.medill.northwestern.edu/blog/2025/05/13/noem-says-abrego-garcia-will-never-return-as-democrats-grill-dhs-secretary-at-budget-hearing/#sthash.UfGKtUik.dpbs)
 
 
