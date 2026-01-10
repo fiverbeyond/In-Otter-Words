@@ -51,6 +51,8 @@ I think this is what you believe. If I'm wrong, please let me know.
 [^1]: "Trust me, no Border Patrol or ICE agent is overjoyed about deporting anyone who is trying to seek a better life for themselves or their loved ones."
 Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020, pg. 195
 
+[^2[: 'Needs of citizens first.'
+
 [^3-a]:"Illegally we have no idea who is coming into our country or what they're bringing in, obviously. Do you allow that to happen in your home?
 Why do you have locks on your home?"
 PragerU. “Fireside Chat Ep. 64 - the Problem with Mass Immigration | Fireside Chat.” YouTube, 10 Jan. 2019, www.youtube.com/watch?v=l0CdJ1kosFw. Accessed 21 Dec. 2025. (7:13)
