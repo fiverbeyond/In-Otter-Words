@@ -14,7 +14,7 @@ to correct me. While I know that not all restrictionists hold all these views, I
 ## I think you are motivated mainly out of love for your country.
 While you have no ill will toward immigrants who just want to come to the U.S. for a better life[^1], you also think it's important to prioritize the needs of your fellow citizens first.[^2]
 You want your family, and your fellow citizens, to be safe from terrorism, drugs, and violent crime, and you see immigration enforcement as an effective means of protection against these evils.
-You may also feel protective of your culture (or at least, the best parts of it), and you want to make sure that the American language, American holidays, and American values stay pure, so you and your loved ones can 
+You may also feel protective of your culture (or at least, the best parts of it)[^auster-on-culture], and you want to make sure that the American language, American holidays, and American values stay pure, so you and your loved ones can 
 continue to enjoy them the way you have in the past. You see immigration limits as a way to protect these things.
 
 ## You think of a nation the way you think of your house;
@@ -47,6 +47,9 @@ I think this is what you believe. If I'm wrong, please let me know.
 
 - InOtterWords
 
+[^auster-on-culture]: "There must be a middle ground that recognizes the rights of minorities and appreciates the values of a cosmopolitan mix in society
+at the same time that it affirms the historic character of our culture and America's right to preserve that character."
+Auster, Lawrence. The Path to National Suicide : An Essay on Immigration and Multiculturalism. Monterey, Va., The American Immigration Foundation, 1991., pg. 83
 
 [^1]: "Trust me, no Border Patrol or ICE agent is overjoyed about deporting anyone who is trying to seek a better life for themselves or their loved ones."
 Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020, pg. 195
