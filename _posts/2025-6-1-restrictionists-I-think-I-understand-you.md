@@ -105,7 +105,10 @@ let them migrate here en masse and recreate American society in their image. And
 fear of being called a racist."
 Auster, Lawrence. The Path to National Suicide : An Essay on Immigration and Multiculturalism. Monterey, Va., The American Immigration Foundation, 1991., pg. 73
 
-[^10]: (Find a quote expressing frustration.)
+[^10]: "Enforce the law. Now there's a novel concept!... We spend billions to guard our borders, but if you make it across, it's 'Welcome to America, 
+can we sell you a mortgage?' As one ritired cop asked: 'Who came up with the idea of feds not arresting illegals? The feds need
+to get back to basics. If you're an illegal, you go to jail, no matter where you are. It's that simple.'"
+Hayworth, J D, and Joe Eule. Whatever It Takes. Simon and Schuster, 5 Feb. 2013., pg. 173‌
 
 [^11]: "The Mexican activists' agenda, led in part by U.S. elected officials, sought to re-conquer the Southwestern United States for Mexico
 through uncontrolled immigration. And, mega corporations aided teh immigrant flood to achieve the globalists' goal of a new world
