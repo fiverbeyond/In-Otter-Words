@@ -54,7 +54,9 @@ Auster, Lawrence. The Path to National Suicide : An Essay on Immigration and Mul
 [^1]: "Trust me, no Border Patrol or ICE agent is overjoyed about deporting anyone who is trying to seek a better life for themselves or their loved ones."
 Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020, pg. 195
 
-[^2]: 'Needs of citizens first.'
+[^2]: "I sketch the implications of one particular objective: the maximization of the economic well-being of the native-born population. In my view,
+this objective has dominated the immigration debate throughout American history."
+Borjas, George J. Heaven’s Door. Princeton University Press, 28 November 2011., pg. 6
 
 [^3-a]:"Illegally we have no idea who is coming into our country or what they're bringing in, obviously. Do you allow that to happen in your home?
 Why do you have locks on your home?"
