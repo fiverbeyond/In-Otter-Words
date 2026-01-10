@@ -47,7 +47,8 @@ I think this is what you believe. If I'm wrong, please let me know.
 
 - InOtterWords
 
-[^1]:"Trust me, no Border Patrol or ICE agent is overjoyed about deporting anyone who is trying to seek a better life for themselves or their loved ones."
+
+[^1]: "Trust me, no Border Patrol or ICE agent is overjoyed about deporting anyone who is trying to seek a better life for themselves or their loved ones."
 Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020, pg. 195
 
 [^3-a]:"Illegally we have no idea who is coming into our country or what they're bringing in, obviously. Do you allow that to happen in your home?
