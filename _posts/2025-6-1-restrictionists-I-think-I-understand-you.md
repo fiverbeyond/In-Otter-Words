@@ -91,7 +91,9 @@ scam marriages, no more refugees, no more phony asylum cases (which is all of th
 slave labor to Microsoft and concubines to Indian pedophiles."
 Coulter, Ann. “Adios, America! The Left’s Plan to Turn Our Country into a Third World Hellhole”. Regnery, 2016, pg. 255
 
-[^7]: Opposing Viewpoints Lamar quote Opposing Viewpoints pg. 86
+[^7]: "People from around the world ccome to the U.S. seeking freedom from oppression. These individuals come the right way -- 
+they follow our laws and wait in line for America's freedoms and opportunities."
+[“Trust but E-Verify.”](https://www.facebook.com/americanspectator) The American Spectator | USA News and Politics, Spectator, 20 Oct. 2011, spectator.org/trust-but-e-verify/. Accessed 10 Jan. 2026.
 
 [^8]: Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020.
 pgs. 2, 34, 84.
