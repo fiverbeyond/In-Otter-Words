@@ -90,8 +90,7 @@ Coulter, Ann. “Adios, America! The Left’s Plan to Turn Our Country into a Th
 [^8]: Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020.
 pgs. 2, 34, 84.
 
-[^race-accusations]:
-"The illegal suffers daily, and the U.S. citizen pays for it; and when citizens try to point out the obvious, 
+[^race-accusations]: "The illegal suffers daily, and the U.S. citizen pays for it; and when citizens try to point out the obvious, 
 the race machine goes into full throttle."
 Ankarlo, Darrell. Illegals: The Unacceptable Cost of American’s Failure to Control Its Borders. Thomas Nelson, 2010, Pg. xxiii
 
