@@ -72,7 +72,7 @@ I see many meaningful differences between the situation Aldo describes, and what
 ##### This includes unauthorized immigrants.
 
 Aldo Buttazonni may object to state and local governments including unauthorized immigrants
-as intended recipients, but that doesn't mean it never happens. To fit the analogy, this would be like a homeowner
+as intended recipients, but that doesn't mean it never happens.[^states-with-benefits] To fit the analogy, this would be like a homeowner
 putting candy out, but explicitly allowing all children in the neighborhood to take a piece (not just the children who, say, were 
 born in the neighborhood).
 
@@ -139,3 +139,5 @@ Here's hoping that, with a little reconsideration, he might find his objections 
 The section entitled "Do Immigrants Use Public Benefits More Than Other Groups" addresses the comparison directly,
 including a brief discussion of the restrictionist habit of widenning the metric to include the native born
 U.S. citizen children of these immigrants.
+
+[^states-with-benefits]: For just one example, see [this map of states](https://www.nilc.org/resources/healthcoveragemaps/) which explicitly offer varying degrees of healthcare benefits to undocumented immigrants.
