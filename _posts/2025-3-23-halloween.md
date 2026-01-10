@@ -32,6 +32,8 @@ make a connection to illegal immigration, but don't worry, Mr. Buttazonni makes 
 
 Restrictionist and nativist talking points have always relied on some popular, but questionable metaphors, from "A nation is like a house" to "Our lifeboat is about to capsize", and even "Get in line!" When responding to these metaphors, I like to follow [my personal strategy for dissolving an analogy]({% post_url 2025-1-2-who-are-you-calling-restrictionist %})
 
+[url text]({% post_url 2025-12-1-immigrant-or-alien.md %})
+
 ##### Step One: Clarify the analogy.
 ##### Step Two: Point out the relevant distinctions.
 ##### Step Three: Prove the relevance of the distinctions by saying that if they were resolved, I would agree with the analogy.
