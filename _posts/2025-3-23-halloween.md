@@ -49,7 +49,7 @@ themselves and leaving none for the rightful recipients: the trick-or-treating c
 Mr. Buttazoni explains...
 
 > **Aldo:** We have a society that we want to be high-trust in, but it's hard to do that when you have millions of illegal immigrants coming in here every year
-> and taking advantage of the services that should be reserved for Americans.
+> and taking advantage of the services that should be reserved for Americans. (2:30)
 
 Got it. So the rough analogy looks something like this:
 
