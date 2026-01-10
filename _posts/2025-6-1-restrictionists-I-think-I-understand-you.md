@@ -65,7 +65,10 @@ and what qualities and qualifications they bring."
 Michelle Malkin, PragerU. “A Nation of Immigrants.” YouTube, 20 Aug. 2018, www.youtube.com/watch?v=oYvKcAh1zdo.
 
 
-[^4]: Krikorian, Mark. The New Case Against Immigration, Both Legal and Illegal. [Fill in this gap]
+[^4]: "The same aspects of modern society that make patriotic assimilation
+more difficult than in the past also serve to make mass immigration a serious challenge
+to America's sovereignty."
+Krikorian, Mark. The New Case against Immigration : Both Legal and Illegal. New York, Sentinel, 2008., pg. 46
 
 [^5-a]: "The United States has also continued to be the most compassionate country on the planet, offering refugee status to more people than any other nation."
 Homan, Tom. Defend the Border and Save Lives: Solving Our Most Important Humanitarian and Security Crisis. Center Street, 31 March, 2020.
