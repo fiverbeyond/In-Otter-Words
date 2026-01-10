@@ -105,7 +105,6 @@ let them migrate here en masse and recreate American society in their image. And
 fear of being called a racist."
 Auster, Lawrence. The Path to National Suicide : An Essay on Immigration and Multiculturalism. Monterey, Va., The American Immigration Foundation, 1991., pg. 73
 
-
 [^10]: (Find a quote expressing frustration.)
 
 [^11]: "The Mexican activists' agenda, led in part by U.S. elected officials, sought to re-conquer the Southwestern United States for Mexico
@@ -113,7 +112,10 @@ through uncontrolled immigration. And, mega corporations aided teh immigrant flo
 order of erased borders."
 Sheehy, Daniel. Fighting Immigration Anarchy: American Patriots Battle to Save the Nation. Authorhouse. 2005, pg. 12
 
-[^12]: Find quote about mistaken altruists.
+[^12]: "Not to worry, because the leftist policies promoted by open-borders churchmen aren't even Christian. They're post-Christian
+humanitarian mush. Lefty church activists posit limitless rights without responsibilities and demand that we 
+close our minds to long-term, predictable, and catastrophic consequences for innocent third-parties..."
+Zmirak, John, and Al Perrotta. The Politically Incorrect Guide to Immigration. Regnery Publishing, May 2018, pg. 116
 
 [^13-a]: "Except for Lyndon Johnson's abberational 1964 landslide, Democrats have not been able to get a majority of white people t ovote for them
 in any presidential election since 1948. Their only was to bring in new voters. *Okay, fine. You won't vote for us, America? We tried
