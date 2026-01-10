@@ -94,6 +94,12 @@ pgs. 2, 34, 84.
 the race machine goes into full throttle."
 Ankarlo, Darrell. Illegals: The Unacceptable Cost of American’s Failure to Control Its Borders. Thomas Nelson, 2010, Pg. xxiii
 
+[^race-accusations-2]: "Under this new dispensation we owe, as it were, an obligation to all the peoples in the world to
+let them migrate here en masse and recreate American society in their image. And no one can question this project for
+fear of being called a racist."
+Auster, Lawrence. The Path to National Suicide : An Essay on Immigration and Multiculturalism. Monterey, Va., The American Immigration Foundation, 1991., pg. 73
+
+
 [^10]: (Find a quote expressing frustration.)
 
 [^11]: "The Mexican activists' agenda, led in part by U.S. elected officials, sought to re-conquer the Southwestern United States for Mexico
