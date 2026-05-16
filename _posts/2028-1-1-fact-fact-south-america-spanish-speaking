@@ -1,32 +1,39 @@
 
-
+All of these estimates use 2020, a year that lets us get good data from both the U.S. Census Beuraeu and the Ethnologue Langugae Estimates.
 
 
 How many Spanish speakers live in South America?
 
-The population of South America is about 440 million [pop-south-america]. However, about 210 million of these people are from Brazil, where the main language spoken is Portugese.
+The population of South America is about 430 million [pop-south-america]. However, about 203 million of these people lived in Brazil, where the main language spoken is Portugese.
 Of course, neither of these linguistic regions are absolute, with all countries having smaller populations that don't speak the most common language. To make a conservative estimate, 
 I'll treat all non-Brazilians as Spanish speakers, while also including the estimated 8-million Spanish speakers within Brazil [cite this].
 
-This brings us to a total of 238 million South American Spanish speakers.
+This puts the estimate at approximately 214 million Spanish speakers in South America (in 2020).
+
+How many English speakers live in South America?
+
+The same source as our Spanish number (*Ethnologue*), has a 2020 estimate of only 6.9 million English speakers in South America.
 
 How many Spanish speakers live in the United States?
 
-About 60 million people in the United States speak Spanish.
+Using the U.S. census data for 2020 estimated 40 million spanish speakers in the U.S. (although this data does not include children under the age of five).
 
 How many English speakers live in the United States? 
 
-About 245 million people speak *only* English at home in the United States. Among those who speak Spanish at home (about 41 million), approximately 25 million speak English "very well".
-To keep the estimate conservative, I'm not going to count the 15 million or so who speak English "less than very well", according to the census beureau. I'll also be 
-leaving off the English-speaking population for those groups that speak neither English nor Spanish in the home.
-
-This brings us to 270 million English speakers in the United States.
-
+Counting only those speakers who speak English "Well" or "Very Well", the 2020 estimate adds up to 280 million English speakers in the U.S. [english-in-us-2022]
+This number is not counting any children younger that five years old.
 
 
 Totals
 
-So if we imagined a scenario where absolutely everybody in South America immigrated into the United States,
-we would end up with about 298 million Spanish speakers, and 270 million English speakers.
+Now let's imagine a scenario where every single person in South America immigrated into the United States.
+
+In this new population, adding our four previous numbers would give us a combined 286 million English speakers, and 254 million Spanish speakers.
 
 
+
+[^pop-south-america] https://www.populationpyramid.net/south-america/2022/
+[^pop-brazil-2022] https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/37237-de-2010-a-2022-populacao-brasileira-cresce-6-5-e-chega-a-203-1-milhoes
+[^english-in-us-2022] https://data.census.gov/app/mdat/ACSPUMS5Y2022/table?cv=LANX&rv=ENG&wt=PWGTP
+[^wiki-list-english-speaking] https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_populationp
+[^ethnologue-english-estimate] https://en.wikipedia.org/wiki/Languages_of_South_America
