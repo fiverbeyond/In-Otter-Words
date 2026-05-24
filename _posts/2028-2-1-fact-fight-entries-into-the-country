@@ -1,0 +1,51 @@
+# Fact Check: Is immigration really a tiny fraction of entries into the country?
+## Let's review the numbers when it comes to border crossings.
+
+>**_The Short Stuff:_** In a social media post on the topic, I claimed that halting all immigration would hardly change the number of entries into the country at all
+(or the number of southern border crossings). Let's put some pressure on that claim and see where the weak points are, shall we?
+
+
+
+It's important to point out that there are two different claims going on here
+
+ * 1. If you stopped all immigration (legal and illegal), it would lower the number of entries into the country by less than five percent.
+ * 2. Illegal border crossings make up less than  3% of crossings on the southern border.
+
+
+ Keen-eyed readers will see the different numbers being used here. "Entries into the country" are not the same as "crossings on the southern border", and "illeg
+
+
+
+
+ ## 'Illegal southern border crossings' are not the same as 'occurrences of illegal immigration'.
+
+## How many people cross the southern border each year?
+
+The most detailed source of information about southern border crossings comes from  the Bureau of Transportation Statistics[bureau-transportation-statistics]
+
+They've even got a nifty resource for querying the data yourself! Setting the query filters to only look for passengers and pedestrians over the U.S.-Mexico border shows
+about 180M crossings per year[us-mexico-passengers]. However, this almost certainly doesn't include the vehicle drivers; the term 'occupant' is usually used
+when including drivers, and BTS doesn't include 'Passengers' for Truck data (which  makes sense, assuming that trucks typically have no passengers).
+Adding in the drivers (by allowing filters to count each truck, car, and bus) brings that number up to around 260 million 
+[us-mexico-total-people].
+
+ ## How many people enter the United States each year?
+
+The BTS publishes data on inbound international flights that shows roughly 120M incoming airplane passengers each year (from international flights)[bts-inbound-international].
+
+Using the same BTS query table from before (but widening our filters to include the U.S.-Canada border) shows over 320M total land-entries into the U.s. in a typical year.
+
+Adding these numbers together gives us about 440 million total people who enter the United States in a typical year.  Of course,
+the vast majority of these are either U.S. citizens (returning from trips abroad), or they are temporary foreign visitors (tourists, businessmen, etc).
+
+
+ If a U.S. citizen family of five goes on two trips to Vancouver, that's ten separate occurrences of someone entering the United States.
+
+
+ [^bureau-transportation-statistics]: https://www.bts.gov/newsroom/border-crossing-data-annual-release-2025
+
+ [^bts-inbound-international]: https://data.bts.gov/stories/s/Passengers/itj6-vfiw
+
+[^us-mexico-passengers]: https://data.bts.gov/stories/s/Tables-Query-Tool/6rt4-smhh/
+
+[^us-mexico-total-people]: https://data.bts.gov/stories/s/Tables-Query-Tool/6rt4-smhh/
